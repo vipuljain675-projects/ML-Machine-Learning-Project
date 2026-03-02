@@ -22,7 +22,7 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2025,Russia,Turkey,0.0,1,0,0
 2025,Russia,Indonesia,0.0,0,0,0
 2025,Russia,Afghanistan,0.0,1,0,0
-2025,China,India,1.9,1,1,1
+2025,China,India,2.4,1,1,1
 2025,China,Iran,0.0,0,0,0
 2025,China,Israel,0.0,0,0,1
 2025,China,UK,0.0,0,0,1
@@ -36,23 +36,23 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2025,India,Israel,0.0,0,0,1
 2025,India,UK,0.0,0,0,1
 2025,India,France,0.0,0,0,1
-2025,India,Pakistan,29.4,1,1,1
+2025,India,Pakistan,45.0,1,1,1
 2025,India,Saudi Arabia,0.0,0,0,0
 2025,India,Turkey,0.0,0,0,0
 2025,India,Indonesia,0.0,0,1,0
 2025,India,Afghanistan,0.0,0,1,0
-2025,Iran,Israel,13.1,1,1,0
+2025,Iran,Israel,78.0,1,1,0
 2025,Iran,UK,0.0,0,0,0
 2025,Iran,France,0.0,0,0,0
 2025,Iran,Pakistan,0.0,1,0,0
-2025,Iran,Saudi Arabia,4.5,1,1,0
+2025,Iran,Saudi Arabia,0.0,1,1,0
 2025,Iran,Turkey,0.0,0,1,0
 2025,Iran,Indonesia,0.0,0,0,0
 2025,Iran,Afghanistan,0.0,0,0,0
 2025,Israel,UK,0.0,0,0,1
 2025,Israel,France,0.0,0,0,1
 2025,Israel,Pakistan,0.0,0,0,1
-2025,Israel,Saudi Arabia,0.3,0,1,0
+2025,Israel,Saudi Arabia,0.0,0,1,0
 2025,Israel,Turkey,0.3,0,1,0
 2025,Israel,Indonesia,0.0,0,0,0
 2025,Israel,Afghanistan,0.0,0,0,0
@@ -70,7 +70,7 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2025,Pakistan,Saudi Arabia,0.0,0,0,0
 2025,Pakistan,Turkey,0.0,0,0,0
 2025,Pakistan,Indonesia,0.0,0,1,0
-2025,Pakistan,Afghanistan,13.1,1,1,0
+2025,Pakistan,Afghanistan,10.1,1,1,0
 2025,Saudi Arabia,Turkey,0.0,0,1,0
 2025,Saudi Arabia,Indonesia,0.0,0,0,0
 2025,Saudi Arabia,Afghanistan,0.0,0,0,0
@@ -114,23 +114,23 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2026,India,Israel,0.0,0,0,1
 2026,India,UK,0.0,0,0,1
 2026,India,France,0.0,0,0,1
-2026,India,Pakistan,29.4,1,1,1
+2026,India,Pakistan,42.0,1,1,1
 2026,India,Saudi Arabia,0.0,0,0,0
 2026,India,Turkey,0.0,0,0,0
 2026,India,Indonesia,0.0,0,1,0
 2026,India,Afghanistan,0.0,0,1,0
-2026,Iran,Israel,13.1,1,1,0
+2026,Iran,Israel,72.0,1,1,0
 2026,Iran,UK,0.0,0,0,0
 2026,Iran,France,0.0,0,0,0
 2026,Iran,Pakistan,0.0,1,0,0
-2026,Iran,Saudi Arabia,4.5,1,1,0
+2026,Iran,Saudi Arabia,0.0,1,1,0
 2026,Iran,Turkey,0.0,0,1,0
 2026,Iran,Indonesia,0.0,0,0,0
 2026,Iran,Afghanistan,0.0,0,0,0
 2026,Israel,UK,0.0,0,0,1
 2026,Israel,France,0.0,0,0,1
 2026,Israel,Pakistan,0.0,0,0,1
-2026,Israel,Saudi Arabia,0.3,0,1,0
+2026,Israel,Saudi Arabia,0.0,0,1,0
 2026,Israel,Turkey,0.3,0,1,0
 2026,Israel,Indonesia,0.0,0,0,0
 2026,Israel,Afghanistan,0.0,0,0,0
@@ -196,19 +196,19 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2027,India,Saudi Arabia,0.0,0,0,0
 2027,India,Turkey,0.0,0,0,0
 2027,India,Indonesia,0.0,0,1,0
-2027,India,Afghanistan,1.0,0,1,0
-2027,Iran,Israel,15.8,1,1,0
+2027,India,Afghanistan,0.0,0,1,0
+2027,Iran,Israel,55.0,1,1,0
 2027,Iran,UK,0.0,0,0,0
 2027,Iran,France,0.0,0,0,0
 2027,Iran,Pakistan,0.0,1,0,0
-2027,Iran,Saudi Arabia,4.5,1,1,0
+2027,Iran,Saudi Arabia,0.0,1,1,0
 2027,Iran,Turkey,0.0,0,1,0
 2027,Iran,Indonesia,0.0,0,0,0
 2027,Iran,Afghanistan,0.0,0,0,0
 2027,Israel,UK,0.0,0,0,1
 2027,Israel,France,0.0,0,0,1
 2027,Israel,Pakistan,0.0,0,0,1
-2027,Israel,Saudi Arabia,0.3,0,1,0
+2027,Israel,Saudi Arabia,0.0,0,1,0
 2027,Israel,Turkey,0.3,0,1,0
 2027,Israel,Indonesia,0.0,0,0,0
 2027,Israel,Afghanistan,0.0,0,0,0
@@ -226,7 +226,7 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2027,Pakistan,Saudi Arabia,0.0,0,0,0
 2027,Pakistan,Turkey,0.0,0,0,0
 2027,Pakistan,Indonesia,0.0,0,1,0
-2027,Pakistan,Afghanistan,15.8,1,1,0
+2027,Pakistan,Afghanistan,13.1,1,1,0
 2027,Saudi Arabia,Turkey,0.0,0,1,0
 2027,Saudi Arabia,Indonesia,0.0,0,0,0
 2027,Saudi Arabia,Afghanistan,0.0,0,0,0
@@ -256,7 +256,7 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2028,Russia,Turkey,0.0,1,0,0
 2028,Russia,Indonesia,0.0,0,0,0
 2028,Russia,Afghanistan,0.0,1,0,0
-2028,China,India,1.9,1,1,1
+2028,China,India,1.4,1,1,1
 2028,China,Iran,0.0,0,0,0
 2028,China,Israel,0.0,0,0,1
 2028,China,UK,0.0,0,0,1
@@ -274,19 +274,19 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2028,India,Saudi Arabia,0.0,0,0,0
 2028,India,Turkey,0.0,0,0,0
 2028,India,Indonesia,0.0,0,1,0
-2028,India,Afghanistan,1.0,0,1,0
-2028,Iran,Israel,15.8,1,1,0
+2028,India,Afghanistan,0.0,0,1,0
+2028,Iran,Israel,45.0,1,1,0
 2028,Iran,UK,0.0,0,0,0
 2028,Iran,France,0.0,0,0,0
 2028,Iran,Pakistan,0.0,1,0,0
-2028,Iran,Saudi Arabia,4.5,1,1,0
+2028,Iran,Saudi Arabia,0.0,1,1,0
 2028,Iran,Turkey,0.0,0,1,0
 2028,Iran,Indonesia,0.0,0,0,0
 2028,Iran,Afghanistan,0.0,0,0,0
 2028,Israel,UK,0.0,0,0,1
 2028,Israel,France,0.0,0,0,1
 2028,Israel,Pakistan,0.0,0,0,1
-2028,Israel,Saudi Arabia,0.3,0,1,0
+2028,Israel,Saudi Arabia,0.0,0,1,0
 2028,Israel,Turkey,0.3,0,1,0
 2028,Israel,Indonesia,0.0,0,0,0
 2028,Israel,Afghanistan,0.0,0,0,0
@@ -304,7 +304,7 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2028,Pakistan,Saudi Arabia,0.0,0,0,0
 2028,Pakistan,Turkey,0.0,0,0,0
 2028,Pakistan,Indonesia,0.0,0,1,0
-2028,Pakistan,Afghanistan,15.8,1,1,0
+2028,Pakistan,Afghanistan,13.1,1,1,0
 2028,Saudi Arabia,Turkey,0.0,0,1,0
 2028,Saudi Arabia,Indonesia,0.0,0,0,0
 2028,Saudi Arabia,Afghanistan,0.0,0,0,0
@@ -334,7 +334,7 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2029,Russia,Turkey,0.0,1,0,0
 2029,Russia,Indonesia,0.0,0,0,0
 2029,Russia,Afghanistan,0.0,1,0,0
-2029,China,India,0.0,1,1,1
+2029,China,India,1.9,1,1,1
 2029,China,Iran,0.0,0,0,0
 2029,China,Israel,0.0,0,0,1
 2029,China,UK,0.0,0,0,1
@@ -348,12 +348,12 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2029,India,Israel,0.0,0,0,1
 2029,India,UK,0.0,0,0,1
 2029,India,France,0.0,0,0,1
-2029,India,Pakistan,0.0,1,1,1
+2029,India,Pakistan,35.0,1,1,1
 2029,India,Saudi Arabia,0.0,0,0,0
 2029,India,Turkey,0.0,0,0,0
 2029,India,Indonesia,0.0,0,1,0
-2029,India,Afghanistan,0.0,0,1,0
-2029,Iran,Israel,0.0,1,1,0
+2029,India,Afghanistan,1.0,0,1,0
+2029,Iran,Israel,30.0,1,1,0
 2029,Iran,UK,0.0,0,0,0
 2029,Iran,France,0.0,0,0,0
 2029,Iran,Pakistan,0.0,1,0,0
@@ -365,7 +365,7 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2029,Israel,France,0.0,0,0,1
 2029,Israel,Pakistan,0.0,0,0,1
 2029,Israel,Saudi Arabia,0.0,0,1,0
-2029,Israel,Turkey,0.0,0,1,0
+2029,Israel,Turkey,0.3,0,1,0
 2029,Israel,Indonesia,0.0,0,0,0
 2029,Israel,Afghanistan,0.0,0,0,0
 2029,UK,France,0.0,0,1,1
@@ -382,7 +382,7 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2029,Pakistan,Saudi Arabia,0.0,0,0,0
 2029,Pakistan,Turkey,0.0,0,0,0
 2029,Pakistan,Indonesia,0.0,0,1,0
-2029,Pakistan,Afghanistan,0.0,1,1,0
+2029,Pakistan,Afghanistan,15.8,1,1,0
 2029,Saudi Arabia,Turkey,0.0,0,1,0
 2029,Saudi Arabia,Indonesia,0.0,0,0,0
 2029,Saudi Arabia,Afghanistan,0.0,0,0,0
@@ -426,12 +426,12 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2030,India,Israel,0.0,0,0,1
 2030,India,UK,0.0,0,0,1
 2030,India,France,0.0,0,0,1
-2030,India,Pakistan,0.0,1,1,1
+2030,India,Pakistan,20.0,1,1,1
 2030,India,Saudi Arabia,0.0,0,0,0
 2030,India,Turkey,0.0,0,0,0
 2030,India,Indonesia,0.0,0,1,0
 2030,India,Afghanistan,0.0,0,1,0
-2030,Iran,Israel,0.0,1,1,0
+2030,Iran,Israel,20.0,1,1,0
 2030,Iran,UK,0.0,0,0,0
 2030,Iran,France,0.0,0,0,0
 2030,Iran,Pakistan,0.0,1,0,0
@@ -504,12 +504,12 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2031,India,Israel,0.0,0,0,1
 2031,India,UK,0.0,0,0,1
 2031,India,France,0.0,0,0,1
-2031,India,Pakistan,0.0,1,1,1
+2031,India,Pakistan,10.0,1,1,1
 2031,India,Saudi Arabia,0.0,0,0,0
 2031,India,Turkey,0.0,0,0,0
 2031,India,Indonesia,0.0,0,1,0
 2031,India,Afghanistan,0.0,0,1,0
-2031,Iran,Israel,0.0,1,1,0
+2031,Iran,Israel,15.0,1,1,0
 2031,Iran,UK,0.0,0,0,0
 2031,Iran,France,0.0,0,0,0
 2031,Iran,Pakistan,0.0,1,0,0
@@ -582,12 +582,12 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2032,India,Israel,0.0,0,0,1
 2032,India,UK,0.0,0,0,1
 2032,India,France,0.0,0,0,1
-2032,India,Pakistan,0.0,1,1,1
+2032,India,Pakistan,5.0,1,1,1
 2032,India,Saudi Arabia,0.0,0,0,0
 2032,India,Turkey,0.0,0,0,0
 2032,India,Indonesia,0.0,0,1,0
 2032,India,Afghanistan,0.0,0,1,0
-2032,Iran,Israel,0.0,1,1,0
+2032,Iran,Israel,13.0,1,1,0
 2032,Iran,UK,0.0,0,0,0
 2032,Iran,France,0.0,0,0,0
 2032,Iran,Pakistan,0.0,1,0,0
@@ -660,12 +660,12 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2033,India,Israel,0.0,0,0,1
 2033,India,UK,0.0,0,0,1
 2033,India,France,0.0,0,0,1
-2033,India,Pakistan,0.0,1,1,1
+2033,India,Pakistan,5.0,1,1,1
 2033,India,Saudi Arabia,0.0,0,0,0
 2033,India,Turkey,0.0,0,0,0
 2033,India,Indonesia,0.0,0,1,0
 2033,India,Afghanistan,0.0,0,1,0
-2033,Iran,Israel,0.0,1,1,0
+2033,Iran,Israel,10.0,1,1,0
 2033,Iran,UK,0.0,0,0,0
 2033,Iran,France,0.0,0,0,0
 2033,Iran,Pakistan,0.0,1,0,0
@@ -738,12 +738,12 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2034,India,Israel,0.0,0,0,1
 2034,India,UK,0.0,0,0,1
 2034,India,France,0.0,0,0,1
-2034,India,Pakistan,0.0,1,1,1
+2034,India,Pakistan,5.0,1,1,1
 2034,India,Saudi Arabia,0.0,0,0,0
 2034,India,Turkey,0.0,0,0,0
 2034,India,Indonesia,0.0,0,1,0
 2034,India,Afghanistan,0.0,0,1,0
-2034,Iran,Israel,0.0,1,1,0
+2034,Iran,Israel,10.0,1,1,0
 2034,Iran,UK,0.0,0,0,0
 2034,Iran,France,0.0,0,0,0
 2034,Iran,Pakistan,0.0,1,0,0
@@ -816,12 +816,12 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2035,India,Israel,0.0,0,0,1
 2035,India,UK,0.0,0,0,1
 2035,India,France,0.0,0,0,1
-2035,India,Pakistan,0.0,1,1,1
+2035,India,Pakistan,3.0,1,1,1
 2035,India,Saudi Arabia,0.0,0,0,0
 2035,India,Turkey,0.0,0,0,0
 2035,India,Indonesia,0.0,0,1,0
 2035,India,Afghanistan,0.0,0,1,0
-2035,Iran,Israel,0.0,1,1,0
+2035,Iran,Israel,8.0,1,1,0
 2035,Iran,UK,0.0,0,0,0
 2035,Iran,France,0.0,0,0,0
 2035,Iran,Pakistan,0.0,1,0,0
@@ -894,12 +894,12 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2036,India,Israel,0.0,0,0,1
 2036,India,UK,0.0,0,0,1
 2036,India,France,0.0,0,0,1
-2036,India,Pakistan,0.0,1,1,1
+2036,India,Pakistan,3.0,1,1,1
 2036,India,Saudi Arabia,0.0,0,0,0
 2036,India,Turkey,0.0,0,0,0
 2036,India,Indonesia,0.0,0,1,0
 2036,India,Afghanistan,0.0,0,1,0
-2036,Iran,Israel,0.0,1,1,0
+2036,Iran,Israel,8.0,1,1,0
 2036,Iran,UK,0.0,0,0,0
 2036,Iran,France,0.0,0,0,0
 2036,Iran,Pakistan,0.0,1,0,0
@@ -972,12 +972,12 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2037,India,Israel,0.0,0,0,1
 2037,India,UK,0.0,0,0,1
 2037,India,France,0.0,0,0,1
-2037,India,Pakistan,0.0,1,1,1
+2037,India,Pakistan,2.0,1,1,1
 2037,India,Saudi Arabia,0.0,0,0,0
 2037,India,Turkey,0.0,0,0,0
 2037,India,Indonesia,0.0,0,1,0
 2037,India,Afghanistan,0.0,0,1,0
-2037,Iran,Israel,0.0,1,1,0
+2037,Iran,Israel,6.0,1,1,0
 2037,Iran,UK,0.0,0,0,0
 2037,Iran,France,0.0,0,0,0
 2037,Iran,Pakistan,0.0,1,0,0
@@ -1050,12 +1050,12 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2038,India,Israel,0.0,0,0,1
 2038,India,UK,0.0,0,0,1
 2038,India,France,0.0,0,0,1
-2038,India,Pakistan,0.0,1,1,1
+2038,India,Pakistan,2.0,1,1,1
 2038,India,Saudi Arabia,0.0,0,0,0
 2038,India,Turkey,0.0,0,0,0
 2038,India,Indonesia,0.0,0,1,0
 2038,India,Afghanistan,0.0,0,1,0
-2038,Iran,Israel,0.0,1,1,0
+2038,Iran,Israel,6.0,1,1,0
 2038,Iran,UK,0.0,0,0,0
 2038,Iran,France,0.0,0,0,0
 2038,Iran,Pakistan,0.0,1,0,0
@@ -1128,12 +1128,12 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2039,India,Israel,0.0,0,0,1
 2039,India,UK,0.0,0,0,1
 2039,India,France,0.0,0,0,1
-2039,India,Pakistan,0.0,1,1,1
+2039,India,Pakistan,1.0,1,1,1
 2039,India,Saudi Arabia,0.0,0,0,0
 2039,India,Turkey,0.0,0,0,0
 2039,India,Indonesia,0.0,0,1,0
 2039,India,Afghanistan,0.0,0,1,0
-2039,Iran,Israel,0.0,1,1,0
+2039,Iran,Israel,5.0,1,1,0
 2039,Iran,UK,0.0,0,0,0
 2039,Iran,France,0.0,0,0,0
 2039,Iran,Pakistan,0.0,1,0,0
@@ -1211,7 +1211,7 @@ year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nucle
 2040,India,Turkey,0.0,0,0,0
 2040,India,Indonesia,0.0,0,1,0
 2040,India,Afghanistan,0.0,0,1,0
-2040,Iran,Israel,0.0,1,1,0
+2040,Iran,Israel,5.0,1,1,0
 2040,Iran,UK,0.0,0,0,0
 2040,Iran,France,0.0,0,0,0
 2040,Iran,Pakistan,0.0,1,0,0

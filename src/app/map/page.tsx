@@ -39,6 +39,7 @@ const COUNTRY_COORDS: Record<string, [number, number]> = {
   'Saudi Arabia': [23.88, 45.07],
   'Turkey': [38.96, 35.24],
   'Indonesia': [-0.78, 113.92],
+  'Afghanistan': [33.93, 67.71],
 }
 
 function analyzeSentiment(text: string): 'positive' | 'negative' | 'neutral' {

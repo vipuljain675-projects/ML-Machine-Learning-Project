@@ -34,7 +34,7 @@ export default function RivalriesPage() {
     if (filter === 'MODERATE') return r.conflict_probability >= 30;
     if (filter === 'NUCLEAR') return r.both_nuclear;
     if (filter === 'EVER_FOUGHT') return r.ever_fought;
-    return r.conflict_probability > 0;
+    return true;
   });
 
   const topRisk = rivalries.length > 0 ? rivalries[0] : null;

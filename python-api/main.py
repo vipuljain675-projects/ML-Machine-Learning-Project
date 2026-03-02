@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import pickle
 import numpy as np
 import pandas as pd
+import json
 
 app = FastAPI()
 
@@ -22,6 +23,10 @@ with open("dyadic_model.pkl", "rb") as f:
 
 # Load precomputed dyadic predictions
 df_dyadic = pd.read_csv("dyadic_predictions.csv")
+
+# Load scenario knowledge base
+with open("scenario_knowledge.json", "r") as f:
+    scenario_knowledge = json.load(f)
 
 FEATURES = ['gdp_growth', 'military_spend', 'working_age_pop',
             'gdp_per_capita_growth', 'inflation', 'unemployment',
@@ -75,7 +80,7 @@ def get_risk_color(prob):
 
 @app.get("/")
 def root():
-    return {"status": "Geopolitical Risk API v5 — 13 countries + Fixed Dyadic Model"}
+    return {"status": "Geopolitical Risk API v6 — 13 countries + Scenarios"}
 
 @app.get("/all-countries")
 def all_countries():
@@ -116,7 +121,6 @@ def country_detail(country_name: str):
         })
     current_risk = forecast[0]["risk_score"]
 
-    # Get top 5 rivals for this country in 2025
     rivals = df_dyadic[
         (df_dyadic['year'] == 2025) &
         ((df_dyadic['country_a'] == country_name) | (df_dyadic['country_b'] == country_name)) &
@@ -159,20 +163,20 @@ def all_rivalries(year: int = 2025):
     data = data.sort_values('conflict_probability', ascending=False)
     results = []
     for _, row in data.iterrows():
-        if row['conflict_probability'] > 0:
-            results.append({
-                "country_a": row['country_a'],
-                "country_b": row['country_b'],
-                "flag_a": COUNTRY_META.get(row['country_a'], {}).get('flag', '🏳️'),
-                "flag_b": COUNTRY_META.get(row['country_b'], {}).get('flag', '🏳️'),
-                "conflict_probability": row['conflict_probability'],
-                "risk_level": get_risk_level(row['conflict_probability']),
-                "risk_color": get_risk_color(row['conflict_probability']),
-                "ever_fought": bool(row['ever_fought']),
-                "same_region": bool(row['same_region']),
-                "both_nuclear": bool(row['both_nuclear']),
-                "year": year
-            })
+        results.append({
+            "country_a": row['country_a'],
+            "country_b": row['country_b'],
+            "flag_a": COUNTRY_META.get(row['country_a'], {}).get('flag', '🏳️'),
+            "flag_b": COUNTRY_META.get(row['country_b'], {}).get('flag', '🏳️'),
+            "conflict_probability": row['conflict_probability'],
+            "risk_level": get_risk_level(row['conflict_probability']),
+            "risk_color": get_risk_color(row['conflict_probability']),
+            "ever_fought": bool(row['ever_fought']),
+            "same_region": bool(row['same_region']),
+            "both_nuclear": bool(row['both_nuclear']),
+            "year": year,
+            "has_scenarios": f"{row['country_a']}_{row['country_b']}" in scenario_knowledge or f"{row['country_b']}_{row['country_a']}" in scenario_knowledge
+        })
     return results
 
 @app.get("/rivalries/pair/{country_a}/{country_b}")
@@ -188,6 +192,13 @@ def pair_forecast(country_a: str, country_b: str):
     ]
     current = pair_data[pair_data['year'] == 2025]
     current_prob = float(current['conflict_probability'].values[0]) if len(current) > 0 else 0.0
+
+    # Check if scenarios exist
+    has_scenarios = (
+        f"{country_a}_{country_b}" in scenario_knowledge or
+        f"{country_b}_{country_a}" in scenario_knowledge
+    )
+
     return {
         "country_a": country_a,
         "country_b": country_b,
@@ -195,8 +206,30 @@ def pair_forecast(country_a: str, country_b: str):
         "flag_b": COUNTRY_META.get(country_b, {}).get('flag', '🏳️'),
         "current_probability": current_prob,
         "risk_level": get_risk_level(current_prob),
-        "forecast": forecast
+        "forecast": forecast,
+        "has_scenarios": has_scenarios
     }
+
+@app.get("/scenarios/{country_a}/{country_b}/{year}")
+def get_scenarios(country_a: str, country_b: str, year: int):
+    key1 = f"{country_a}_{country_b}"
+    key2 = f"{country_b}_{country_a}"
+
+    if key1 in scenario_knowledge:
+        data = scenario_knowledge[key1].get(str(year))
+    elif key2 in scenario_knowledge:
+        data = scenario_knowledge[key2].get(str(year))
+    else:
+        return {
+            "error": "No scenario data for this pair",
+            "pair": f"{country_a} vs {country_b}",
+            "available_pairs": list(scenario_knowledge.keys())
+        }
+
+    if not data:
+        return {"error": f"No data for year {year}"}
+
+    return data
 
 @app.get("/compare/{country1}/{country2}")
 def compare(country1: str, country2: str):

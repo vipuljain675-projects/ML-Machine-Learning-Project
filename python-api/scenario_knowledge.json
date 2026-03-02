@@ -1,0 +1,4462 @@
+{
+  "India_Pakistan": {
+    "2025": {
+      "country_a": "India",
+      "country_b": "Pakistan",
+      "year": 2025,
+      "ml_conflict_probability": 45.0,
+      "conflict_years_in_history": 27,
+      "territory_dispute": "Kashmir / Line of Control",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "India-Pakistan have fought 3 full wars and 1 limited war (Kargil 1999)",
+        "Kashmir dispute active since 1947 \u2014 77 years unresolved",
+        "Pakistan spends 4% GDP on military, India 2.4% but 5x larger economy",
+        "Both nations have 150-170 nuclear warheads each",
+        "2020: 5,133 LoC ceasefire violations \u2014 record high",
+        "Indus Waters Treaty suspended by India in 2023 after Pahalgam attack"
+      ],
+      "scenarios": [
+        {
+          "name": "Kashmir LoC Ceasefire Breakdown",
+          "probability": 60.0,
+          "probability_pct": "60.0%",
+          "historical_basis": "2020 LoC violations: 5133 incidents (highest since 2003). Ceasefire restored Feb 2021",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Cross-LoC Terrorist Attack \u2192 Indian Retaliation",
+          "probability": 52.5,
+          "probability_pct": "52.5%",
+          "historical_basis": "Uri 2016 (18 soldiers killed) \u2192 surgical strikes. Pulwama 2019 (40 CRPF killed) \u2192 Balakot airstrikes",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW \u2014 both sides have shown restraint post-Balakot"
+        },
+        {
+          "name": "Water War \u2014 Indus Treaty Collapse",
+          "probability": 22.5,
+          "probability_pct": "22.5%",
+          "historical_basis": "India suspended Indus Waters Treaty 2023. Pakistan gets 80% of water from Indus system",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE \u2014 existential resource threat"
+        },
+        {
+          "name": "Full Scale War",
+          "probability": 12.0,
+          "probability_pct": "12.0%",
+          "historical_basis": "3 full wars (1947, 1965, 1971). Last major: Kargil 1999",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 Pakistan doctrine: first use if conventional loss"
+        }
+      ]
+    },
+    "2026": {
+      "country_a": "India",
+      "country_b": "Pakistan",
+      "year": 2026,
+      "ml_conflict_probability": 42.0,
+      "conflict_years_in_history": 27,
+      "territory_dispute": "Kashmir / Line of Control",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "India-Pakistan have fought 3 full wars and 1 limited war (Kargil 1999)",
+        "Kashmir dispute active since 1947 \u2014 77 years unresolved",
+        "Pakistan spends 4% GDP on military, India 2.4% but 5x larger economy",
+        "Both nations have 150-170 nuclear warheads each",
+        "2020: 5,133 LoC ceasefire violations \u2014 record high",
+        "Indus Waters Treaty suspended by India in 2023 after Pahalgam attack"
+      ],
+      "scenarios": [
+        {
+          "name": "Kashmir LoC Ceasefire Breakdown",
+          "probability": 56.0,
+          "probability_pct": "56.0%",
+          "historical_basis": "2020 LoC violations: 5133 incidents (highest since 2003). Ceasefire restored Feb 2021",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Cross-LoC Terrorist Attack \u2192 Indian Retaliation",
+          "probability": 49.0,
+          "probability_pct": "49.0%",
+          "historical_basis": "Uri 2016 (18 soldiers killed) \u2192 surgical strikes. Pulwama 2019 (40 CRPF killed) \u2192 Balakot airstrikes",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW \u2014 both sides have shown restraint post-Balakot"
+        },
+        {
+          "name": "Water War \u2014 Indus Treaty Collapse",
+          "probability": 21.0,
+          "probability_pct": "21.0%",
+          "historical_basis": "India suspended Indus Waters Treaty 2023. Pakistan gets 80% of water from Indus system",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE \u2014 existential resource threat"
+        },
+        {
+          "name": "Full Scale War",
+          "probability": 11.2,
+          "probability_pct": "11.2%",
+          "historical_basis": "3 full wars (1947, 1965, 1971). Last major: Kargil 1999",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 Pakistan doctrine: first use if conventional loss"
+        }
+      ]
+    },
+    "2027": {
+      "country_a": "India",
+      "country_b": "Pakistan",
+      "year": 2027,
+      "ml_conflict_probability": 42.9,
+      "conflict_years_in_history": 27,
+      "territory_dispute": "Kashmir / Line of Control",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "India-Pakistan have fought 3 full wars and 1 limited war (Kargil 1999)",
+        "Kashmir dispute active since 1947 \u2014 77 years unresolved",
+        "Pakistan spends 4% GDP on military, India 2.4% but 5x larger economy",
+        "Both nations have 150-170 nuclear warheads each",
+        "2020: 5,133 LoC ceasefire violations \u2014 record high",
+        "Indus Waters Treaty suspended by India in 2023 after Pahalgam attack"
+      ],
+      "scenarios": [
+        {
+          "name": "Kashmir LoC Ceasefire Breakdown",
+          "probability": 57.2,
+          "probability_pct": "57.2%",
+          "historical_basis": "2020 LoC violations: 5133 incidents (highest since 2003). Ceasefire restored Feb 2021",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Cross-LoC Terrorist Attack \u2192 Indian Retaliation",
+          "probability": 50.0,
+          "probability_pct": "50.0%",
+          "historical_basis": "Uri 2016 (18 soldiers killed) \u2192 surgical strikes. Pulwama 2019 (40 CRPF killed) \u2192 Balakot airstrikes",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW \u2014 both sides have shown restraint post-Balakot"
+        },
+        {
+          "name": "Water War \u2014 Indus Treaty Collapse",
+          "probability": 21.4,
+          "probability_pct": "21.4%",
+          "historical_basis": "India suspended Indus Waters Treaty 2023. Pakistan gets 80% of water from Indus system",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE \u2014 existential resource threat"
+        },
+        {
+          "name": "Full Scale War",
+          "probability": 11.4,
+          "probability_pct": "11.4%",
+          "historical_basis": "3 full wars (1947, 1965, 1971). Last major: Kargil 1999",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 Pakistan doctrine: first use if conventional loss"
+        }
+      ]
+    },
+    "2028": {
+      "country_a": "India",
+      "country_b": "Pakistan",
+      "year": 2028,
+      "ml_conflict_probability": 42.9,
+      "conflict_years_in_history": 27,
+      "territory_dispute": "Kashmir / Line of Control",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "India-Pakistan have fought 3 full wars and 1 limited war (Kargil 1999)",
+        "Kashmir dispute active since 1947 \u2014 77 years unresolved",
+        "Pakistan spends 4% GDP on military, India 2.4% but 5x larger economy",
+        "Both nations have 150-170 nuclear warheads each",
+        "2020: 5,133 LoC ceasefire violations \u2014 record high",
+        "Indus Waters Treaty suspended by India in 2023 after Pahalgam attack"
+      ],
+      "scenarios": [
+        {
+          "name": "Kashmir LoC Ceasefire Breakdown",
+          "probability": 57.2,
+          "probability_pct": "57.2%",
+          "historical_basis": "2020 LoC violations: 5133 incidents (highest since 2003). Ceasefire restored Feb 2021",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Cross-LoC Terrorist Attack \u2192 Indian Retaliation",
+          "probability": 50.0,
+          "probability_pct": "50.0%",
+          "historical_basis": "Uri 2016 (18 soldiers killed) \u2192 surgical strikes. Pulwama 2019 (40 CRPF killed) \u2192 Balakot airstrikes",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW \u2014 both sides have shown restraint post-Balakot"
+        },
+        {
+          "name": "Water War \u2014 Indus Treaty Collapse",
+          "probability": 21.4,
+          "probability_pct": "21.4%",
+          "historical_basis": "India suspended Indus Waters Treaty 2023. Pakistan gets 80% of water from Indus system",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE \u2014 existential resource threat"
+        },
+        {
+          "name": "Full Scale War",
+          "probability": 11.4,
+          "probability_pct": "11.4%",
+          "historical_basis": "3 full wars (1947, 1965, 1971). Last major: Kargil 1999",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 Pakistan doctrine: first use if conventional loss"
+        }
+      ]
+    },
+    "2029": {
+      "country_a": "India",
+      "country_b": "Pakistan",
+      "year": 2029,
+      "ml_conflict_probability": 35.0,
+      "conflict_years_in_history": 27,
+      "territory_dispute": "Kashmir / Line of Control",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "India-Pakistan have fought 3 full wars and 1 limited war (Kargil 1999)",
+        "Kashmir dispute active since 1947 \u2014 77 years unresolved",
+        "Pakistan spends 4% GDP on military, India 2.4% but 5x larger economy",
+        "Both nations have 150-170 nuclear warheads each",
+        "2020: 5,133 LoC ceasefire violations \u2014 record high",
+        "Indus Waters Treaty suspended by India in 2023 after Pahalgam attack"
+      ],
+      "scenarios": [
+        {
+          "name": "Kashmir LoC Ceasefire Breakdown",
+          "probability": 46.7,
+          "probability_pct": "46.7%",
+          "historical_basis": "2020 LoC violations: 5133 incidents (highest since 2003). Ceasefire restored Feb 2021",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Cross-LoC Terrorist Attack \u2192 Indian Retaliation",
+          "probability": 40.8,
+          "probability_pct": "40.8%",
+          "historical_basis": "Uri 2016 (18 soldiers killed) \u2192 surgical strikes. Pulwama 2019 (40 CRPF killed) \u2192 Balakot airstrikes",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW \u2014 both sides have shown restraint post-Balakot"
+        },
+        {
+          "name": "Water War \u2014 Indus Treaty Collapse",
+          "probability": 17.5,
+          "probability_pct": "17.5%",
+          "historical_basis": "India suspended Indus Waters Treaty 2023. Pakistan gets 80% of water from Indus system",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE \u2014 existential resource threat"
+        },
+        {
+          "name": "Full Scale War",
+          "probability": 9.3,
+          "probability_pct": "9.3%",
+          "historical_basis": "3 full wars (1947, 1965, 1971). Last major: Kargil 1999",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 Pakistan doctrine: first use if conventional loss"
+        }
+      ]
+    },
+    "2030": {
+      "country_a": "India",
+      "country_b": "Pakistan",
+      "year": 2030,
+      "ml_conflict_probability": 20.0,
+      "conflict_years_in_history": 27,
+      "territory_dispute": "Kashmir / Line of Control",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "India-Pakistan have fought 3 full wars and 1 limited war (Kargil 1999)",
+        "Kashmir dispute active since 1947 \u2014 77 years unresolved",
+        "Pakistan spends 4% GDP on military, India 2.4% but 5x larger economy",
+        "Both nations have 150-170 nuclear warheads each",
+        "2020: 5,133 LoC ceasefire violations \u2014 record high",
+        "Indus Waters Treaty suspended by India in 2023 after Pahalgam attack"
+      ],
+      "scenarios": [
+        {
+          "name": "Kashmir LoC Ceasefire Breakdown",
+          "probability": 26.7,
+          "probability_pct": "26.7%",
+          "historical_basis": "2020 LoC violations: 5133 incidents (highest since 2003). Ceasefire restored Feb 2021",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Cross-LoC Terrorist Attack \u2192 Indian Retaliation",
+          "probability": 23.3,
+          "probability_pct": "23.3%",
+          "historical_basis": "Uri 2016 (18 soldiers killed) \u2192 surgical strikes. Pulwama 2019 (40 CRPF killed) \u2192 Balakot airstrikes",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW \u2014 both sides have shown restraint post-Balakot"
+        },
+        {
+          "name": "Water War \u2014 Indus Treaty Collapse",
+          "probability": 10.0,
+          "probability_pct": "10.0%",
+          "historical_basis": "India suspended Indus Waters Treaty 2023. Pakistan gets 80% of water from Indus system",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE \u2014 existential resource threat"
+        },
+        {
+          "name": "Full Scale War",
+          "probability": 5.3,
+          "probability_pct": "5.3%",
+          "historical_basis": "3 full wars (1947, 1965, 1971). Last major: Kargil 1999",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 Pakistan doctrine: first use if conventional loss"
+        }
+      ]
+    },
+    "2031": {
+      "country_a": "India",
+      "country_b": "Pakistan",
+      "year": 2031,
+      "ml_conflict_probability": 10.0,
+      "conflict_years_in_history": 27,
+      "territory_dispute": "Kashmir / Line of Control",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "India-Pakistan have fought 3 full wars and 1 limited war (Kargil 1999)",
+        "Kashmir dispute active since 1947 \u2014 77 years unresolved",
+        "Pakistan spends 4% GDP on military, India 2.4% but 5x larger economy",
+        "Both nations have 150-170 nuclear warheads each",
+        "2020: 5,133 LoC ceasefire violations \u2014 record high",
+        "Indus Waters Treaty suspended by India in 2023 after Pahalgam attack"
+      ],
+      "scenarios": [
+        {
+          "name": "Kashmir LoC Ceasefire Breakdown",
+          "probability": 9.3,
+          "probability_pct": "9.3%",
+          "historical_basis": "2020 LoC violations: 5133 incidents (highest since 2003). Ceasefire restored Feb 2021",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Cross-LoC Terrorist Attack \u2192 Indian Retaliation",
+          "probability": 8.2,
+          "probability_pct": "8.2%",
+          "historical_basis": "Uri 2016 (18 soldiers killed) \u2192 surgical strikes. Pulwama 2019 (40 CRPF killed) \u2192 Balakot airstrikes",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW \u2014 both sides have shown restraint post-Balakot"
+        },
+        {
+          "name": "Water War \u2014 Indus Treaty Collapse",
+          "probability": 3.5,
+          "probability_pct": "3.5%",
+          "historical_basis": "India suspended Indus Waters Treaty 2023. Pakistan gets 80% of water from Indus system",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE \u2014 existential resource threat"
+        },
+        {
+          "name": "Full Scale War",
+          "probability": 1.9,
+          "probability_pct": "1.9%",
+          "historical_basis": "3 full wars (1947, 1965, 1971). Last major: Kargil 1999",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 Pakistan doctrine: first use if conventional loss"
+        }
+      ]
+    },
+    "2032": {
+      "country_a": "India",
+      "country_b": "Pakistan",
+      "year": 2032,
+      "ml_conflict_probability": 5.0,
+      "conflict_years_in_history": 27,
+      "territory_dispute": "Kashmir / Line of Control",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "India-Pakistan have fought 3 full wars and 1 limited war (Kargil 1999)",
+        "Kashmir dispute active since 1947 \u2014 77 years unresolved",
+        "Pakistan spends 4% GDP on military, India 2.4% but 5x larger economy",
+        "Both nations have 150-170 nuclear warheads each",
+        "2020: 5,133 LoC ceasefire violations \u2014 record high",
+        "Indus Waters Treaty suspended by India in 2023 after Pahalgam attack"
+      ],
+      "scenarios": [
+        {
+          "name": "Kashmir LoC Ceasefire Breakdown",
+          "probability": 8.4,
+          "probability_pct": "8.4%",
+          "historical_basis": "2020 LoC violations: 5133 incidents (highest since 2003). Ceasefire restored Feb 2021",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Cross-LoC Terrorist Attack \u2192 Indian Retaliation",
+          "probability": 7.3,
+          "probability_pct": "7.3%",
+          "historical_basis": "Uri 2016 (18 soldiers killed) \u2192 surgical strikes. Pulwama 2019 (40 CRPF killed) \u2192 Balakot airstrikes",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW \u2014 both sides have shown restraint post-Balakot"
+        },
+        {
+          "name": "Water War \u2014 Indus Treaty Collapse",
+          "probability": 3.1,
+          "probability_pct": "3.1%",
+          "historical_basis": "India suspended Indus Waters Treaty 2023. Pakistan gets 80% of water from Indus system",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE \u2014 existential resource threat"
+        },
+        {
+          "name": "Full Scale War",
+          "probability": 1.7,
+          "probability_pct": "1.7%",
+          "historical_basis": "3 full wars (1947, 1965, 1971). Last major: Kargil 1999",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 Pakistan doctrine: first use if conventional loss"
+        }
+      ]
+    },
+    "2033": {
+      "country_a": "India",
+      "country_b": "Pakistan",
+      "year": 2033,
+      "ml_conflict_probability": 5.0,
+      "conflict_years_in_history": 27,
+      "territory_dispute": "Kashmir / Line of Control",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "India-Pakistan have fought 3 full wars and 1 limited war (Kargil 1999)",
+        "Kashmir dispute active since 1947 \u2014 77 years unresolved",
+        "Pakistan spends 4% GDP on military, India 2.4% but 5x larger economy",
+        "Both nations have 150-170 nuclear warheads each",
+        "2020: 5,133 LoC ceasefire violations \u2014 record high",
+        "Indus Waters Treaty suspended by India in 2023 after Pahalgam attack"
+      ],
+      "scenarios": [
+        {
+          "name": "Kashmir LoC Ceasefire Breakdown",
+          "probability": 8.4,
+          "probability_pct": "8.4%",
+          "historical_basis": "2020 LoC violations: 5133 incidents (highest since 2003). Ceasefire restored Feb 2021",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Cross-LoC Terrorist Attack \u2192 Indian Retaliation",
+          "probability": 7.3,
+          "probability_pct": "7.3%",
+          "historical_basis": "Uri 2016 (18 soldiers killed) \u2192 surgical strikes. Pulwama 2019 (40 CRPF killed) \u2192 Balakot airstrikes",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW \u2014 both sides have shown restraint post-Balakot"
+        },
+        {
+          "name": "Water War \u2014 Indus Treaty Collapse",
+          "probability": 3.1,
+          "probability_pct": "3.1%",
+          "historical_basis": "India suspended Indus Waters Treaty 2023. Pakistan gets 80% of water from Indus system",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE \u2014 existential resource threat"
+        },
+        {
+          "name": "Full Scale War",
+          "probability": 1.7,
+          "probability_pct": "1.7%",
+          "historical_basis": "3 full wars (1947, 1965, 1971). Last major: Kargil 1999",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 Pakistan doctrine: first use if conventional loss"
+        }
+      ]
+    },
+    "2034": {
+      "country_a": "India",
+      "country_b": "Pakistan",
+      "year": 2034,
+      "ml_conflict_probability": 5.0,
+      "conflict_years_in_history": 27,
+      "territory_dispute": "Kashmir / Line of Control",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "India-Pakistan have fought 3 full wars and 1 limited war (Kargil 1999)",
+        "Kashmir dispute active since 1947 \u2014 77 years unresolved",
+        "Pakistan spends 4% GDP on military, India 2.4% but 5x larger economy",
+        "Both nations have 150-170 nuclear warheads each",
+        "2020: 5,133 LoC ceasefire violations \u2014 record high",
+        "Indus Waters Treaty suspended by India in 2023 after Pahalgam attack"
+      ],
+      "scenarios": [
+        {
+          "name": "Kashmir LoC Ceasefire Breakdown",
+          "probability": 8.4,
+          "probability_pct": "8.4%",
+          "historical_basis": "2020 LoC violations: 5133 incidents (highest since 2003). Ceasefire restored Feb 2021",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Cross-LoC Terrorist Attack \u2192 Indian Retaliation",
+          "probability": 7.3,
+          "probability_pct": "7.3%",
+          "historical_basis": "Uri 2016 (18 soldiers killed) \u2192 surgical strikes. Pulwama 2019 (40 CRPF killed) \u2192 Balakot airstrikes",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW \u2014 both sides have shown restraint post-Balakot"
+        },
+        {
+          "name": "Water War \u2014 Indus Treaty Collapse",
+          "probability": 3.1,
+          "probability_pct": "3.1%",
+          "historical_basis": "India suspended Indus Waters Treaty 2023. Pakistan gets 80% of water from Indus system",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE \u2014 existential resource threat"
+        },
+        {
+          "name": "Full Scale War",
+          "probability": 1.7,
+          "probability_pct": "1.7%",
+          "historical_basis": "3 full wars (1947, 1965, 1971). Last major: Kargil 1999",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 Pakistan doctrine: first use if conventional loss"
+        }
+      ]
+    },
+    "2035": {
+      "country_a": "India",
+      "country_b": "Pakistan",
+      "year": 2035,
+      "ml_conflict_probability": 3.0,
+      "conflict_years_in_history": 27,
+      "territory_dispute": "Kashmir / Line of Control",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "India-Pakistan have fought 3 full wars and 1 limited war (Kargil 1999)",
+        "Kashmir dispute active since 1947 \u2014 77 years unresolved",
+        "Pakistan spends 4% GDP on military, India 2.4% but 5x larger economy",
+        "Both nations have 150-170 nuclear warheads each",
+        "2020: 5,133 LoC ceasefire violations \u2014 record high",
+        "Indus Waters Treaty suspended by India in 2023 after Pahalgam attack"
+      ],
+      "scenarios": [
+        {
+          "name": "Kashmir LoC Ceasefire Breakdown",
+          "probability": 8.4,
+          "probability_pct": "8.4%",
+          "historical_basis": "2020 LoC violations: 5133 incidents (highest since 2003). Ceasefire restored Feb 2021",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Cross-LoC Terrorist Attack \u2192 Indian Retaliation",
+          "probability": 7.3,
+          "probability_pct": "7.3%",
+          "historical_basis": "Uri 2016 (18 soldiers killed) \u2192 surgical strikes. Pulwama 2019 (40 CRPF killed) \u2192 Balakot airstrikes",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW \u2014 both sides have shown restraint post-Balakot"
+        },
+        {
+          "name": "Water War \u2014 Indus Treaty Collapse",
+          "probability": 3.1,
+          "probability_pct": "3.1%",
+          "historical_basis": "India suspended Indus Waters Treaty 2023. Pakistan gets 80% of water from Indus system",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE \u2014 existential resource threat"
+        },
+        {
+          "name": "Full Scale War",
+          "probability": 1.7,
+          "probability_pct": "1.7%",
+          "historical_basis": "3 full wars (1947, 1965, 1971). Last major: Kargil 1999",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 Pakistan doctrine: first use if conventional loss"
+        }
+      ]
+    },
+    "2036": {
+      "country_a": "India",
+      "country_b": "Pakistan",
+      "year": 2036,
+      "ml_conflict_probability": 3.0,
+      "conflict_years_in_history": 27,
+      "territory_dispute": "Kashmir / Line of Control",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "India-Pakistan have fought 3 full wars and 1 limited war (Kargil 1999)",
+        "Kashmir dispute active since 1947 \u2014 77 years unresolved",
+        "Pakistan spends 4% GDP on military, India 2.4% but 5x larger economy",
+        "Both nations have 150-170 nuclear warheads each",
+        "2020: 5,133 LoC ceasefire violations \u2014 record high",
+        "Indus Waters Treaty suspended by India in 2023 after Pahalgam attack"
+      ],
+      "scenarios": [
+        {
+          "name": "Kashmir LoC Ceasefire Breakdown",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "2020 LoC violations: 5133 incidents (highest since 2003). Ceasefire restored Feb 2021",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Cross-LoC Terrorist Attack \u2192 Indian Retaliation",
+          "probability": 5.2,
+          "probability_pct": "5.2%",
+          "historical_basis": "Uri 2016 (18 soldiers killed) \u2192 surgical strikes. Pulwama 2019 (40 CRPF killed) \u2192 Balakot airstrikes",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW \u2014 both sides have shown restraint post-Balakot"
+        },
+        {
+          "name": "Water War \u2014 Indus Treaty Collapse",
+          "probability": 2.2,
+          "probability_pct": "2.2%",
+          "historical_basis": "India suspended Indus Waters Treaty 2023. Pakistan gets 80% of water from Indus system",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE \u2014 existential resource threat"
+        },
+        {
+          "name": "Full Scale War",
+          "probability": 1.2,
+          "probability_pct": "1.2%",
+          "historical_basis": "3 full wars (1947, 1965, 1971). Last major: Kargil 1999",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 Pakistan doctrine: first use if conventional loss"
+        }
+      ]
+    },
+    "2037": {
+      "country_a": "India",
+      "country_b": "Pakistan",
+      "year": 2037,
+      "ml_conflict_probability": 2.0,
+      "conflict_years_in_history": 27,
+      "territory_dispute": "Kashmir / Line of Control",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "India-Pakistan have fought 3 full wars and 1 limited war (Kargil 1999)",
+        "Kashmir dispute active since 1947 \u2014 77 years unresolved",
+        "Pakistan spends 4% GDP on military, India 2.4% but 5x larger economy",
+        "Both nations have 150-170 nuclear warheads each",
+        "2020: 5,133 LoC ceasefire violations \u2014 record high",
+        "Indus Waters Treaty suspended by India in 2023 after Pahalgam attack"
+      ],
+      "scenarios": [
+        {
+          "name": "Kashmir LoC Ceasefire Breakdown",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "2020 LoC violations: 5133 incidents (highest since 2003). Ceasefire restored Feb 2021",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Cross-LoC Terrorist Attack \u2192 Indian Retaliation",
+          "probability": 5.2,
+          "probability_pct": "5.2%",
+          "historical_basis": "Uri 2016 (18 soldiers killed) \u2192 surgical strikes. Pulwama 2019 (40 CRPF killed) \u2192 Balakot airstrikes",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW \u2014 both sides have shown restraint post-Balakot"
+        },
+        {
+          "name": "Water War \u2014 Indus Treaty Collapse",
+          "probability": 2.2,
+          "probability_pct": "2.2%",
+          "historical_basis": "India suspended Indus Waters Treaty 2023. Pakistan gets 80% of water from Indus system",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE \u2014 existential resource threat"
+        },
+        {
+          "name": "Full Scale War",
+          "probability": 1.2,
+          "probability_pct": "1.2%",
+          "historical_basis": "3 full wars (1947, 1965, 1971). Last major: Kargil 1999",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 Pakistan doctrine: first use if conventional loss"
+        }
+      ]
+    },
+    "2038": {
+      "country_a": "India",
+      "country_b": "Pakistan",
+      "year": 2038,
+      "ml_conflict_probability": 2.0,
+      "conflict_years_in_history": 27,
+      "territory_dispute": "Kashmir / Line of Control",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "India-Pakistan have fought 3 full wars and 1 limited war (Kargil 1999)",
+        "Kashmir dispute active since 1947 \u2014 77 years unresolved",
+        "Pakistan spends 4% GDP on military, India 2.4% but 5x larger economy",
+        "Both nations have 150-170 nuclear warheads each",
+        "2020: 5,133 LoC ceasefire violations \u2014 record high",
+        "Indus Waters Treaty suspended by India in 2023 after Pahalgam attack"
+      ],
+      "scenarios": [
+        {
+          "name": "Kashmir LoC Ceasefire Breakdown",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "2020 LoC violations: 5133 incidents (highest since 2003). Ceasefire restored Feb 2021",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Cross-LoC Terrorist Attack \u2192 Indian Retaliation",
+          "probability": 5.2,
+          "probability_pct": "5.2%",
+          "historical_basis": "Uri 2016 (18 soldiers killed) \u2192 surgical strikes. Pulwama 2019 (40 CRPF killed) \u2192 Balakot airstrikes",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW \u2014 both sides have shown restraint post-Balakot"
+        },
+        {
+          "name": "Water War \u2014 Indus Treaty Collapse",
+          "probability": 2.2,
+          "probability_pct": "2.2%",
+          "historical_basis": "India suspended Indus Waters Treaty 2023. Pakistan gets 80% of water from Indus system",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE \u2014 existential resource threat"
+        },
+        {
+          "name": "Full Scale War",
+          "probability": 1.2,
+          "probability_pct": "1.2%",
+          "historical_basis": "3 full wars (1947, 1965, 1971). Last major: Kargil 1999",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 Pakistan doctrine: first use if conventional loss"
+        }
+      ]
+    },
+    "2039": {
+      "country_a": "India",
+      "country_b": "Pakistan",
+      "year": 2039,
+      "ml_conflict_probability": 1.0,
+      "conflict_years_in_history": 27,
+      "territory_dispute": "Kashmir / Line of Control",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "India-Pakistan have fought 3 full wars and 1 limited war (Kargil 1999)",
+        "Kashmir dispute active since 1947 \u2014 77 years unresolved",
+        "Pakistan spends 4% GDP on military, India 2.4% but 5x larger economy",
+        "Both nations have 150-170 nuclear warheads each",
+        "2020: 5,133 LoC ceasefire violations \u2014 record high",
+        "Indus Waters Treaty suspended by India in 2023 after Pahalgam attack"
+      ],
+      "scenarios": [
+        {
+          "name": "Kashmir LoC Ceasefire Breakdown",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "2020 LoC violations: 5133 incidents (highest since 2003). Ceasefire restored Feb 2021",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Cross-LoC Terrorist Attack \u2192 Indian Retaliation",
+          "probability": 5.2,
+          "probability_pct": "5.2%",
+          "historical_basis": "Uri 2016 (18 soldiers killed) \u2192 surgical strikes. Pulwama 2019 (40 CRPF killed) \u2192 Balakot airstrikes",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW \u2014 both sides have shown restraint post-Balakot"
+        },
+        {
+          "name": "Water War \u2014 Indus Treaty Collapse",
+          "probability": 2.2,
+          "probability_pct": "2.2%",
+          "historical_basis": "India suspended Indus Waters Treaty 2023. Pakistan gets 80% of water from Indus system",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE \u2014 existential resource threat"
+        },
+        {
+          "name": "Full Scale War",
+          "probability": 1.2,
+          "probability_pct": "1.2%",
+          "historical_basis": "3 full wars (1947, 1965, 1971). Last major: Kargil 1999",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 Pakistan doctrine: first use if conventional loss"
+        }
+      ]
+    },
+    "2040": {
+      "country_a": "India",
+      "country_b": "Pakistan",
+      "year": 2040,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 27,
+      "territory_dispute": "Kashmir / Line of Control",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "India-Pakistan have fought 3 full wars and 1 limited war (Kargil 1999)",
+        "Kashmir dispute active since 1947 \u2014 77 years unresolved",
+        "Pakistan spends 4% GDP on military, India 2.4% but 5x larger economy",
+        "Both nations have 150-170 nuclear warheads each",
+        "2020: 5,133 LoC ceasefire violations \u2014 record high",
+        "Indus Waters Treaty suspended by India in 2023 after Pahalgam attack"
+      ],
+      "scenarios": [
+        {
+          "name": "Kashmir LoC Ceasefire Breakdown",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "2020 LoC violations: 5133 incidents (highest since 2003). Ceasefire restored Feb 2021",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Cross-LoC Terrorist Attack \u2192 Indian Retaliation",
+          "probability": 5.2,
+          "probability_pct": "5.2%",
+          "historical_basis": "Uri 2016 (18 soldiers killed) \u2192 surgical strikes. Pulwama 2019 (40 CRPF killed) \u2192 Balakot airstrikes",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW \u2014 both sides have shown restraint post-Balakot"
+        },
+        {
+          "name": "Water War \u2014 Indus Treaty Collapse",
+          "probability": 2.2,
+          "probability_pct": "2.2%",
+          "historical_basis": "India suspended Indus Waters Treaty 2023. Pakistan gets 80% of water from Indus system",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE \u2014 existential resource threat"
+        },
+        {
+          "name": "Full Scale War",
+          "probability": 1.2,
+          "probability_pct": "1.2%",
+          "historical_basis": "3 full wars (1947, 1965, 1971). Last major: Kargil 1999",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 Pakistan doctrine: first use if conventional loss"
+        }
+      ]
+    }
+  },
+  "Iran_Israel": {
+    "2025": {
+      "country_a": "Iran",
+      "country_b": "Israel",
+      "year": 2025,
+      "ml_conflict_probability": 78.0,
+      "conflict_years_in_history": 7,
+      "territory_dispute": "No shared border \u2014 proxy + direct strikes",
+      "incompatibility_type": "Government/Ideological",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "Iran fired 300+ projectiles at Israel in April 2024 \u2014 first direct attack in history",
+        "Iran fired 200 ballistic missiles October 2024",
+        "Iran funds Hezbollah $700M/year, Hamas $100M/year",
+        "Israel has ~90 undeclared nuclear warheads",
+        "Iran enriching uranium to 60% (weapons grade = 90%)",
+        "Strait of Hormuz: 20% of global oil supply \u2014 Iran can blockade"
+      ],
+      "scenarios": [
+        {
+          "name": "Iranian Ballistic Missile Barrage",
+          "probability": 95.0,
+          "probability_pct": "95.0%",
+          "historical_basis": "Apr 2024: 170 drones + 120 ballistic missiles. Oct 2024: 200 ballistic missiles fired",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        },
+        {
+          "name": "Hezbollah/Hamas Proxy Escalation",
+          "probability": 95.0,
+          "probability_pct": "95.0%",
+          "historical_basis": "Iran funds Hamas ($100M/yr), Hezbollah ($700M/yr). Gaza war 2023-2024",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Iranian Nuclear Facility Strike by Israel",
+          "probability": 75.0,
+          "probability_pct": "75.0%",
+          "historical_basis": "Israel struck Iraq Osirak 1981, Syria 2007. Netanyahu has threatened Iran strikes multiple times",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 could trigger Iranian nuclear acceleration"
+        },
+        {
+          "name": "Direct Naval Conflict \u2014 Strait of Hormuz",
+          "probability": 50.0,
+          "probability_pct": "50.0%",
+          "historical_basis": "Iran seized 20+ tankers 2019-2024. Controls key oil chokepoint (20% world oil)",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2026": {
+      "country_a": "Iran",
+      "country_b": "Israel",
+      "year": 2026,
+      "ml_conflict_probability": 72.0,
+      "conflict_years_in_history": 7,
+      "territory_dispute": "No shared border \u2014 proxy + direct strikes",
+      "incompatibility_type": "Government/Ideological",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "Iran fired 300+ projectiles at Israel in April 2024 \u2014 first direct attack in history",
+        "Iran fired 200 ballistic missiles October 2024",
+        "Iran funds Hezbollah $700M/year, Hamas $100M/year",
+        "Israel has ~90 undeclared nuclear warheads",
+        "Iran enriching uranium to 60% (weapons grade = 90%)",
+        "Strait of Hormuz: 20% of global oil supply \u2014 Iran can blockade"
+      ],
+      "scenarios": [
+        {
+          "name": "Iranian Ballistic Missile Barrage",
+          "probability": 95.0,
+          "probability_pct": "95.0%",
+          "historical_basis": "Apr 2024: 170 drones + 120 ballistic missiles. Oct 2024: 200 ballistic missiles fired",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        },
+        {
+          "name": "Hezbollah/Hamas Proxy Escalation",
+          "probability": 95.0,
+          "probability_pct": "95.0%",
+          "historical_basis": "Iran funds Hamas ($100M/yr), Hezbollah ($700M/yr). Gaza war 2023-2024",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Iranian Nuclear Facility Strike by Israel",
+          "probability": 72.0,
+          "probability_pct": "72.0%",
+          "historical_basis": "Israel struck Iraq Osirak 1981, Syria 2007. Netanyahu has threatened Iran strikes multiple times",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 could trigger Iranian nuclear acceleration"
+        },
+        {
+          "name": "Direct Naval Conflict \u2014 Strait of Hormuz",
+          "probability": 48.0,
+          "probability_pct": "48.0%",
+          "historical_basis": "Iran seized 20+ tankers 2019-2024. Controls key oil chokepoint (20% world oil)",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2027": {
+      "country_a": "Iran",
+      "country_b": "Israel",
+      "year": 2027,
+      "ml_conflict_probability": 55.0,
+      "conflict_years_in_history": 7,
+      "territory_dispute": "No shared border \u2014 proxy + direct strikes",
+      "incompatibility_type": "Government/Ideological",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "Iran fired 300+ projectiles at Israel in April 2024 \u2014 first direct attack in history",
+        "Iran fired 200 ballistic missiles October 2024",
+        "Iran funds Hezbollah $700M/year, Hamas $100M/year",
+        "Israel has ~90 undeclared nuclear warheads",
+        "Iran enriching uranium to 60% (weapons grade = 90%)",
+        "Strait of Hormuz: 20% of global oil supply \u2014 Iran can blockade"
+      ],
+      "scenarios": [
+        {
+          "name": "Hezbollah/Hamas Proxy Escalation",
+          "probability": 95.0,
+          "probability_pct": "95.0%",
+          "historical_basis": "Iran funds Hamas ($100M/yr), Hezbollah ($700M/yr). Gaza war 2023-2024",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Iranian Ballistic Missile Barrage",
+          "probability": 82.5,
+          "probability_pct": "82.5%",
+          "historical_basis": "Apr 2024: 170 drones + 120 ballistic missiles. Oct 2024: 200 ballistic missiles fired",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        },
+        {
+          "name": "Iranian Nuclear Facility Strike by Israel",
+          "probability": 55.0,
+          "probability_pct": "55.0%",
+          "historical_basis": "Israel struck Iraq Osirak 1981, Syria 2007. Netanyahu has threatened Iran strikes multiple times",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 could trigger Iranian nuclear acceleration"
+        },
+        {
+          "name": "Direct Naval Conflict \u2014 Strait of Hormuz",
+          "probability": 36.7,
+          "probability_pct": "36.7%",
+          "historical_basis": "Iran seized 20+ tankers 2019-2024. Controls key oil chokepoint (20% world oil)",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2028": {
+      "country_a": "Iran",
+      "country_b": "Israel",
+      "year": 2028,
+      "ml_conflict_probability": 45.0,
+      "conflict_years_in_history": 7,
+      "territory_dispute": "No shared border \u2014 proxy + direct strikes",
+      "incompatibility_type": "Government/Ideological",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "Iran fired 300+ projectiles at Israel in April 2024 \u2014 first direct attack in history",
+        "Iran fired 200 ballistic missiles October 2024",
+        "Iran funds Hezbollah $700M/year, Hamas $100M/year",
+        "Israel has ~90 undeclared nuclear warheads",
+        "Iran enriching uranium to 60% (weapons grade = 90%)",
+        "Strait of Hormuz: 20% of global oil supply \u2014 Iran can blockade"
+      ],
+      "scenarios": [
+        {
+          "name": "Hezbollah/Hamas Proxy Escalation",
+          "probability": 82.5,
+          "probability_pct": "82.5%",
+          "historical_basis": "Iran funds Hamas ($100M/yr), Hezbollah ($700M/yr). Gaza war 2023-2024",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Iranian Ballistic Missile Barrage",
+          "probability": 67.5,
+          "probability_pct": "67.5%",
+          "historical_basis": "Apr 2024: 170 drones + 120 ballistic missiles. Oct 2024: 200 ballistic missiles fired",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        },
+        {
+          "name": "Iranian Nuclear Facility Strike by Israel",
+          "probability": 45.0,
+          "probability_pct": "45.0%",
+          "historical_basis": "Israel struck Iraq Osirak 1981, Syria 2007. Netanyahu has threatened Iran strikes multiple times",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 could trigger Iranian nuclear acceleration"
+        },
+        {
+          "name": "Direct Naval Conflict \u2014 Strait of Hormuz",
+          "probability": 30.0,
+          "probability_pct": "30.0%",
+          "historical_basis": "Iran seized 20+ tankers 2019-2024. Controls key oil chokepoint (20% world oil)",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2029": {
+      "country_a": "Iran",
+      "country_b": "Israel",
+      "year": 2029,
+      "ml_conflict_probability": 30.0,
+      "conflict_years_in_history": 7,
+      "territory_dispute": "No shared border \u2014 proxy + direct strikes",
+      "incompatibility_type": "Government/Ideological",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "Iran fired 300+ projectiles at Israel in April 2024 \u2014 first direct attack in history",
+        "Iran fired 200 ballistic missiles October 2024",
+        "Iran funds Hezbollah $700M/year, Hamas $100M/year",
+        "Israel has ~90 undeclared nuclear warheads",
+        "Iran enriching uranium to 60% (weapons grade = 90%)",
+        "Strait of Hormuz: 20% of global oil supply \u2014 Iran can blockade"
+      ],
+      "scenarios": [
+        {
+          "name": "Hezbollah/Hamas Proxy Escalation",
+          "probability": 55.0,
+          "probability_pct": "55.0%",
+          "historical_basis": "Iran funds Hamas ($100M/yr), Hezbollah ($700M/yr). Gaza war 2023-2024",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Iranian Ballistic Missile Barrage",
+          "probability": 45.0,
+          "probability_pct": "45.0%",
+          "historical_basis": "Apr 2024: 170 drones + 120 ballistic missiles. Oct 2024: 200 ballistic missiles fired",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        },
+        {
+          "name": "Iranian Nuclear Facility Strike by Israel",
+          "probability": 30.0,
+          "probability_pct": "30.0%",
+          "historical_basis": "Israel struck Iraq Osirak 1981, Syria 2007. Netanyahu has threatened Iran strikes multiple times",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 could trigger Iranian nuclear acceleration"
+        },
+        {
+          "name": "Direct Naval Conflict \u2014 Strait of Hormuz",
+          "probability": 20.0,
+          "probability_pct": "20.0%",
+          "historical_basis": "Iran seized 20+ tankers 2019-2024. Controls key oil chokepoint (20% world oil)",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2030": {
+      "country_a": "Iran",
+      "country_b": "Israel",
+      "year": 2030,
+      "ml_conflict_probability": 20.0,
+      "conflict_years_in_history": 7,
+      "territory_dispute": "No shared border \u2014 proxy + direct strikes",
+      "incompatibility_type": "Government/Ideological",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "Iran fired 300+ projectiles at Israel in April 2024 \u2014 first direct attack in history",
+        "Iran fired 200 ballistic missiles October 2024",
+        "Iran funds Hezbollah $700M/year, Hamas $100M/year",
+        "Israel has ~90 undeclared nuclear warheads",
+        "Iran enriching uranium to 60% (weapons grade = 90%)",
+        "Strait of Hormuz: 20% of global oil supply \u2014 Iran can blockade"
+      ],
+      "scenarios": [
+        {
+          "name": "Hezbollah/Hamas Proxy Escalation",
+          "probability": 36.7,
+          "probability_pct": "36.7%",
+          "historical_basis": "Iran funds Hamas ($100M/yr), Hezbollah ($700M/yr). Gaza war 2023-2024",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Iranian Ballistic Missile Barrage",
+          "probability": 30.0,
+          "probability_pct": "30.0%",
+          "historical_basis": "Apr 2024: 170 drones + 120 ballistic missiles. Oct 2024: 200 ballistic missiles fired",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        },
+        {
+          "name": "Iranian Nuclear Facility Strike by Israel",
+          "probability": 20.0,
+          "probability_pct": "20.0%",
+          "historical_basis": "Israel struck Iraq Osirak 1981, Syria 2007. Netanyahu has threatened Iran strikes multiple times",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 could trigger Iranian nuclear acceleration"
+        },
+        {
+          "name": "Direct Naval Conflict \u2014 Strait of Hormuz",
+          "probability": 13.3,
+          "probability_pct": "13.3%",
+          "historical_basis": "Iran seized 20+ tankers 2019-2024. Controls key oil chokepoint (20% world oil)",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2031": {
+      "country_a": "Iran",
+      "country_b": "Israel",
+      "year": 2031,
+      "ml_conflict_probability": 15.0,
+      "conflict_years_in_history": 7,
+      "territory_dispute": "No shared border \u2014 proxy + direct strikes",
+      "incompatibility_type": "Government/Ideological",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "Iran fired 300+ projectiles at Israel in April 2024 \u2014 first direct attack in history",
+        "Iran fired 200 ballistic missiles October 2024",
+        "Iran funds Hezbollah $700M/year, Hamas $100M/year",
+        "Israel has ~90 undeclared nuclear warheads",
+        "Iran enriching uranium to 60% (weapons grade = 90%)",
+        "Strait of Hormuz: 20% of global oil supply \u2014 Iran can blockade"
+      ],
+      "scenarios": [
+        {
+          "name": "Hezbollah/Hamas Proxy Escalation",
+          "probability": 19.2,
+          "probability_pct": "19.2%",
+          "historical_basis": "Iran funds Hamas ($100M/yr), Hezbollah ($700M/yr). Gaza war 2023-2024",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Iranian Ballistic Missile Barrage",
+          "probability": 15.8,
+          "probability_pct": "15.8%",
+          "historical_basis": "Apr 2024: 170 drones + 120 ballistic missiles. Oct 2024: 200 ballistic missiles fired",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        },
+        {
+          "name": "Iranian Nuclear Facility Strike by Israel",
+          "probability": 10.5,
+          "probability_pct": "10.5%",
+          "historical_basis": "Israel struck Iraq Osirak 1981, Syria 2007. Netanyahu has threatened Iran strikes multiple times",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 could trigger Iranian nuclear acceleration"
+        },
+        {
+          "name": "Direct Naval Conflict \u2014 Strait of Hormuz",
+          "probability": 7.0,
+          "probability_pct": "7.0%",
+          "historical_basis": "Iran seized 20+ tankers 2019-2024. Controls key oil chokepoint (20% world oil)",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2032": {
+      "country_a": "Iran",
+      "country_b": "Israel",
+      "year": 2032,
+      "ml_conflict_probability": 13.0,
+      "conflict_years_in_history": 7,
+      "territory_dispute": "No shared border \u2014 proxy + direct strikes",
+      "incompatibility_type": "Government/Ideological",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "Iran fired 300+ projectiles at Israel in April 2024 \u2014 first direct attack in history",
+        "Iran fired 200 ballistic missiles October 2024",
+        "Iran funds Hezbollah $700M/year, Hamas $100M/year",
+        "Israel has ~90 undeclared nuclear warheads",
+        "Iran enriching uranium to 60% (weapons grade = 90%)",
+        "Strait of Hormuz: 20% of global oil supply \u2014 Iran can blockade"
+      ],
+      "scenarios": [
+        {
+          "name": "Hezbollah/Hamas Proxy Escalation",
+          "probability": 16.7,
+          "probability_pct": "16.7%",
+          "historical_basis": "Iran funds Hamas ($100M/yr), Hezbollah ($700M/yr). Gaza war 2023-2024",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Iranian Ballistic Missile Barrage",
+          "probability": 13.6,
+          "probability_pct": "13.6%",
+          "historical_basis": "Apr 2024: 170 drones + 120 ballistic missiles. Oct 2024: 200 ballistic missiles fired",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        },
+        {
+          "name": "Iranian Nuclear Facility Strike by Israel",
+          "probability": 9.1,
+          "probability_pct": "9.1%",
+          "historical_basis": "Israel struck Iraq Osirak 1981, Syria 2007. Netanyahu has threatened Iran strikes multiple times",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 could trigger Iranian nuclear acceleration"
+        },
+        {
+          "name": "Direct Naval Conflict \u2014 Strait of Hormuz",
+          "probability": 6.1,
+          "probability_pct": "6.1%",
+          "historical_basis": "Iran seized 20+ tankers 2019-2024. Controls key oil chokepoint (20% world oil)",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2033": {
+      "country_a": "Iran",
+      "country_b": "Israel",
+      "year": 2033,
+      "ml_conflict_probability": 10.0,
+      "conflict_years_in_history": 7,
+      "territory_dispute": "No shared border \u2014 proxy + direct strikes",
+      "incompatibility_type": "Government/Ideological",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "Iran fired 300+ projectiles at Israel in April 2024 \u2014 first direct attack in history",
+        "Iran fired 200 ballistic missiles October 2024",
+        "Iran funds Hezbollah $700M/year, Hamas $100M/year",
+        "Israel has ~90 undeclared nuclear warheads",
+        "Iran enriching uranium to 60% (weapons grade = 90%)",
+        "Strait of Hormuz: 20% of global oil supply \u2014 Iran can blockade"
+      ],
+      "scenarios": [
+        {
+          "name": "Hezbollah/Hamas Proxy Escalation",
+          "probability": 12.8,
+          "probability_pct": "12.8%",
+          "historical_basis": "Iran funds Hamas ($100M/yr), Hezbollah ($700M/yr). Gaza war 2023-2024",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Iranian Ballistic Missile Barrage",
+          "probability": 10.5,
+          "probability_pct": "10.5%",
+          "historical_basis": "Apr 2024: 170 drones + 120 ballistic missiles. Oct 2024: 200 ballistic missiles fired",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        },
+        {
+          "name": "Iranian Nuclear Facility Strike by Israel",
+          "probability": 7.0,
+          "probability_pct": "7.0%",
+          "historical_basis": "Israel struck Iraq Osirak 1981, Syria 2007. Netanyahu has threatened Iran strikes multiple times",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 could trigger Iranian nuclear acceleration"
+        },
+        {
+          "name": "Direct Naval Conflict \u2014 Strait of Hormuz",
+          "probability": 4.7,
+          "probability_pct": "4.7%",
+          "historical_basis": "Iran seized 20+ tankers 2019-2024. Controls key oil chokepoint (20% world oil)",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2034": {
+      "country_a": "Iran",
+      "country_b": "Israel",
+      "year": 2034,
+      "ml_conflict_probability": 10.0,
+      "conflict_years_in_history": 7,
+      "territory_dispute": "No shared border \u2014 proxy + direct strikes",
+      "incompatibility_type": "Government/Ideological",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "Iran fired 300+ projectiles at Israel in April 2024 \u2014 first direct attack in history",
+        "Iran fired 200 ballistic missiles October 2024",
+        "Iran funds Hezbollah $700M/year, Hamas $100M/year",
+        "Israel has ~90 undeclared nuclear warheads",
+        "Iran enriching uranium to 60% (weapons grade = 90%)",
+        "Strait of Hormuz: 20% of global oil supply \u2014 Iran can blockade"
+      ],
+      "scenarios": [
+        {
+          "name": "Hezbollah/Hamas Proxy Escalation",
+          "probability": 12.8,
+          "probability_pct": "12.8%",
+          "historical_basis": "Iran funds Hamas ($100M/yr), Hezbollah ($700M/yr). Gaza war 2023-2024",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Iranian Ballistic Missile Barrage",
+          "probability": 10.5,
+          "probability_pct": "10.5%",
+          "historical_basis": "Apr 2024: 170 drones + 120 ballistic missiles. Oct 2024: 200 ballistic missiles fired",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        },
+        {
+          "name": "Iranian Nuclear Facility Strike by Israel",
+          "probability": 7.0,
+          "probability_pct": "7.0%",
+          "historical_basis": "Israel struck Iraq Osirak 1981, Syria 2007. Netanyahu has threatened Iran strikes multiple times",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 could trigger Iranian nuclear acceleration"
+        },
+        {
+          "name": "Direct Naval Conflict \u2014 Strait of Hormuz",
+          "probability": 4.7,
+          "probability_pct": "4.7%",
+          "historical_basis": "Iran seized 20+ tankers 2019-2024. Controls key oil chokepoint (20% world oil)",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2035": {
+      "country_a": "Iran",
+      "country_b": "Israel",
+      "year": 2035,
+      "ml_conflict_probability": 8.0,
+      "conflict_years_in_history": 7,
+      "territory_dispute": "No shared border \u2014 proxy + direct strikes",
+      "incompatibility_type": "Government/Ideological",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "Iran fired 300+ projectiles at Israel in April 2024 \u2014 first direct attack in history",
+        "Iran fired 200 ballistic missiles October 2024",
+        "Iran funds Hezbollah $700M/year, Hamas $100M/year",
+        "Israel has ~90 undeclared nuclear warheads",
+        "Iran enriching uranium to 60% (weapons grade = 90%)",
+        "Strait of Hormuz: 20% of global oil supply \u2014 Iran can blockade"
+      ],
+      "scenarios": [
+        {
+          "name": "Hezbollah/Hamas Proxy Escalation",
+          "probability": 11.5,
+          "probability_pct": "11.5%",
+          "historical_basis": "Iran funds Hamas ($100M/yr), Hezbollah ($700M/yr). Gaza war 2023-2024",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Iranian Ballistic Missile Barrage",
+          "probability": 9.4,
+          "probability_pct": "9.4%",
+          "historical_basis": "Apr 2024: 170 drones + 120 ballistic missiles. Oct 2024: 200 ballistic missiles fired",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        },
+        {
+          "name": "Iranian Nuclear Facility Strike by Israel",
+          "probability": 6.3,
+          "probability_pct": "6.3%",
+          "historical_basis": "Israel struck Iraq Osirak 1981, Syria 2007. Netanyahu has threatened Iran strikes multiple times",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 could trigger Iranian nuclear acceleration"
+        },
+        {
+          "name": "Direct Naval Conflict \u2014 Strait of Hormuz",
+          "probability": 4.2,
+          "probability_pct": "4.2%",
+          "historical_basis": "Iran seized 20+ tankers 2019-2024. Controls key oil chokepoint (20% world oil)",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2036": {
+      "country_a": "Iran",
+      "country_b": "Israel",
+      "year": 2036,
+      "ml_conflict_probability": 8.0,
+      "conflict_years_in_history": 7,
+      "territory_dispute": "No shared border \u2014 proxy + direct strikes",
+      "incompatibility_type": "Government/Ideological",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "Iran fired 300+ projectiles at Israel in April 2024 \u2014 first direct attack in history",
+        "Iran fired 200 ballistic missiles October 2024",
+        "Iran funds Hezbollah $700M/year, Hamas $100M/year",
+        "Israel has ~90 undeclared nuclear warheads",
+        "Iran enriching uranium to 60% (weapons grade = 90%)",
+        "Strait of Hormuz: 20% of global oil supply \u2014 Iran can blockade"
+      ],
+      "scenarios": [
+        {
+          "name": "Hezbollah/Hamas Proxy Escalation",
+          "probability": 8.2,
+          "probability_pct": "8.2%",
+          "historical_basis": "Iran funds Hamas ($100M/yr), Hezbollah ($700M/yr). Gaza war 2023-2024",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Iranian Ballistic Missile Barrage",
+          "probability": 6.8,
+          "probability_pct": "6.8%",
+          "historical_basis": "Apr 2024: 170 drones + 120 ballistic missiles. Oct 2024: 200 ballistic missiles fired",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        },
+        {
+          "name": "Iranian Nuclear Facility Strike by Israel",
+          "probability": 4.5,
+          "probability_pct": "4.5%",
+          "historical_basis": "Israel struck Iraq Osirak 1981, Syria 2007. Netanyahu has threatened Iran strikes multiple times",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 could trigger Iranian nuclear acceleration"
+        },
+        {
+          "name": "Direct Naval Conflict \u2014 Strait of Hormuz",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "Iran seized 20+ tankers 2019-2024. Controls key oil chokepoint (20% world oil)",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2037": {
+      "country_a": "Iran",
+      "country_b": "Israel",
+      "year": 2037,
+      "ml_conflict_probability": 6.0,
+      "conflict_years_in_history": 7,
+      "territory_dispute": "No shared border \u2014 proxy + direct strikes",
+      "incompatibility_type": "Government/Ideological",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "Iran fired 300+ projectiles at Israel in April 2024 \u2014 first direct attack in history",
+        "Iran fired 200 ballistic missiles October 2024",
+        "Iran funds Hezbollah $700M/year, Hamas $100M/year",
+        "Israel has ~90 undeclared nuclear warheads",
+        "Iran enriching uranium to 60% (weapons grade = 90%)",
+        "Strait of Hormuz: 20% of global oil supply \u2014 Iran can blockade"
+      ],
+      "scenarios": [
+        {
+          "name": "Hezbollah/Hamas Proxy Escalation",
+          "probability": 8.2,
+          "probability_pct": "8.2%",
+          "historical_basis": "Iran funds Hamas ($100M/yr), Hezbollah ($700M/yr). Gaza war 2023-2024",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Iranian Ballistic Missile Barrage",
+          "probability": 6.8,
+          "probability_pct": "6.8%",
+          "historical_basis": "Apr 2024: 170 drones + 120 ballistic missiles. Oct 2024: 200 ballistic missiles fired",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        },
+        {
+          "name": "Iranian Nuclear Facility Strike by Israel",
+          "probability": 4.5,
+          "probability_pct": "4.5%",
+          "historical_basis": "Israel struck Iraq Osirak 1981, Syria 2007. Netanyahu has threatened Iran strikes multiple times",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 could trigger Iranian nuclear acceleration"
+        },
+        {
+          "name": "Direct Naval Conflict \u2014 Strait of Hormuz",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "Iran seized 20+ tankers 2019-2024. Controls key oil chokepoint (20% world oil)",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2038": {
+      "country_a": "Iran",
+      "country_b": "Israel",
+      "year": 2038,
+      "ml_conflict_probability": 6.0,
+      "conflict_years_in_history": 7,
+      "territory_dispute": "No shared border \u2014 proxy + direct strikes",
+      "incompatibility_type": "Government/Ideological",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "Iran fired 300+ projectiles at Israel in April 2024 \u2014 first direct attack in history",
+        "Iran fired 200 ballistic missiles October 2024",
+        "Iran funds Hezbollah $700M/year, Hamas $100M/year",
+        "Israel has ~90 undeclared nuclear warheads",
+        "Iran enriching uranium to 60% (weapons grade = 90%)",
+        "Strait of Hormuz: 20% of global oil supply \u2014 Iran can blockade"
+      ],
+      "scenarios": [
+        {
+          "name": "Hezbollah/Hamas Proxy Escalation",
+          "probability": 8.2,
+          "probability_pct": "8.2%",
+          "historical_basis": "Iran funds Hamas ($100M/yr), Hezbollah ($700M/yr). Gaza war 2023-2024",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Iranian Ballistic Missile Barrage",
+          "probability": 6.8,
+          "probability_pct": "6.8%",
+          "historical_basis": "Apr 2024: 170 drones + 120 ballistic missiles. Oct 2024: 200 ballistic missiles fired",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        },
+        {
+          "name": "Iranian Nuclear Facility Strike by Israel",
+          "probability": 4.5,
+          "probability_pct": "4.5%",
+          "historical_basis": "Israel struck Iraq Osirak 1981, Syria 2007. Netanyahu has threatened Iran strikes multiple times",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 could trigger Iranian nuclear acceleration"
+        },
+        {
+          "name": "Direct Naval Conflict \u2014 Strait of Hormuz",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "Iran seized 20+ tankers 2019-2024. Controls key oil chokepoint (20% world oil)",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2039": {
+      "country_a": "Iran",
+      "country_b": "Israel",
+      "year": 2039,
+      "ml_conflict_probability": 5.0,
+      "conflict_years_in_history": 7,
+      "territory_dispute": "No shared border \u2014 proxy + direct strikes",
+      "incompatibility_type": "Government/Ideological",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "Iran fired 300+ projectiles at Israel in April 2024 \u2014 first direct attack in history",
+        "Iran fired 200 ballistic missiles October 2024",
+        "Iran funds Hezbollah $700M/year, Hamas $100M/year",
+        "Israel has ~90 undeclared nuclear warheads",
+        "Iran enriching uranium to 60% (weapons grade = 90%)",
+        "Strait of Hormuz: 20% of global oil supply \u2014 Iran can blockade"
+      ],
+      "scenarios": [
+        {
+          "name": "Hezbollah/Hamas Proxy Escalation",
+          "probability": 8.2,
+          "probability_pct": "8.2%",
+          "historical_basis": "Iran funds Hamas ($100M/yr), Hezbollah ($700M/yr). Gaza war 2023-2024",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Iranian Ballistic Missile Barrage",
+          "probability": 6.8,
+          "probability_pct": "6.8%",
+          "historical_basis": "Apr 2024: 170 drones + 120 ballistic missiles. Oct 2024: 200 ballistic missiles fired",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        },
+        {
+          "name": "Iranian Nuclear Facility Strike by Israel",
+          "probability": 4.5,
+          "probability_pct": "4.5%",
+          "historical_basis": "Israel struck Iraq Osirak 1981, Syria 2007. Netanyahu has threatened Iran strikes multiple times",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 could trigger Iranian nuclear acceleration"
+        },
+        {
+          "name": "Direct Naval Conflict \u2014 Strait of Hormuz",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "Iran seized 20+ tankers 2019-2024. Controls key oil chokepoint (20% world oil)",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2040": {
+      "country_a": "Iran",
+      "country_b": "Israel",
+      "year": 2040,
+      "ml_conflict_probability": 5.0,
+      "conflict_years_in_history": 7,
+      "territory_dispute": "No shared border \u2014 proxy + direct strikes",
+      "incompatibility_type": "Government/Ideological",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "Iran fired 300+ projectiles at Israel in April 2024 \u2014 first direct attack in history",
+        "Iran fired 200 ballistic missiles October 2024",
+        "Iran funds Hezbollah $700M/year, Hamas $100M/year",
+        "Israel has ~90 undeclared nuclear warheads",
+        "Iran enriching uranium to 60% (weapons grade = 90%)",
+        "Strait of Hormuz: 20% of global oil supply \u2014 Iran can blockade"
+      ],
+      "scenarios": [
+        {
+          "name": "Hezbollah/Hamas Proxy Escalation",
+          "probability": 8.2,
+          "probability_pct": "8.2%",
+          "historical_basis": "Iran funds Hamas ($100M/yr), Hezbollah ($700M/yr). Gaza war 2023-2024",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Iranian Ballistic Missile Barrage",
+          "probability": 6.8,
+          "probability_pct": "6.8%",
+          "historical_basis": "Apr 2024: 170 drones + 120 ballistic missiles. Oct 2024: 200 ballistic missiles fired",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        },
+        {
+          "name": "Iranian Nuclear Facility Strike by Israel",
+          "probability": 4.5,
+          "probability_pct": "4.5%",
+          "historical_basis": "Israel struck Iraq Osirak 1981, Syria 2007. Netanyahu has threatened Iran strikes multiple times",
+          "escalation_risk": "CRITICAL",
+          "nuclear_risk": "HIGH \u2014 could trigger Iranian nuclear acceleration"
+        },
+        {
+          "name": "Direct Naval Conflict \u2014 Strait of Hormuz",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "Iran seized 20+ tankers 2019-2024. Controls key oil chokepoint (20% world oil)",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    }
+  },
+  "China_India": {
+    "2025": {
+      "country_a": "China",
+      "country_b": "India",
+      "year": 2025,
+      "ml_conflict_probability": 2.4,
+      "conflict_years_in_history": 3,
+      "territory_dispute": "Aksai Chin + Arunachal Pradesh (3,488 km disputed border)",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "1962 war: China captured 38,000 sq km Aksai Chin \u2014 still holds it",
+        "June 2020 Galwan: 20 Indian + 4 Chinese soldiers killed",
+        "China has built 628 villages along Indian border since 2017",
+        "China GDP: $18T vs India GDP: $3.7T \u2014 5x economic gap",
+        "China 350 nuclear warheads, India ~160",
+        "CPEC $62B investment \u2014 China has strategic interest in Pakistan"
+      ],
+      "scenarios": [
+        {
+          "name": "Galwan-Style Border Clash",
+          "probability": 10.5,
+          "probability_pct": "10.5%",
+          "historical_basis": "June 2020 Galwan Valley: 20 Indian + 4 Chinese soldiers killed (hand-to-hand combat)",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW \u2014 both sides avoid escalation"
+        },
+        {
+          "name": "Arunachal Pradesh Incursion",
+          "probability": 7.5,
+          "probability_pct": "7.5%",
+          "historical_basis": "China calls Arunachal \"South Tibet\". 2,000+ incursions 2010-2023. New Chinese village built 2021",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "China-Pakistan Coordinated Pressure",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "China-Pakistan Economic Corridor $62B. Two-front war scenario India fears most",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        }
+      ]
+    },
+    "2026": {
+      "country_a": "China",
+      "country_b": "India",
+      "year": 2026,
+      "ml_conflict_probability": 1.9,
+      "conflict_years_in_history": 3,
+      "territory_dispute": "Aksai Chin + Arunachal Pradesh (3,488 km disputed border)",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "1962 war: China captured 38,000 sq km Aksai Chin \u2014 still holds it",
+        "June 2020 Galwan: 20 Indian + 4 Chinese soldiers killed",
+        "China has built 628 villages along Indian border since 2017",
+        "China GDP: $18T vs India GDP: $3.7T \u2014 5x economic gap",
+        "China 350 nuclear warheads, India ~160",
+        "CPEC $62B investment \u2014 China has strategic interest in Pakistan"
+      ],
+      "scenarios": [
+        {
+          "name": "Galwan-Style Border Clash",
+          "probability": 10.5,
+          "probability_pct": "10.5%",
+          "historical_basis": "June 2020 Galwan Valley: 20 Indian + 4 Chinese soldiers killed (hand-to-hand combat)",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW \u2014 both sides avoid escalation"
+        },
+        {
+          "name": "Arunachal Pradesh Incursion",
+          "probability": 7.5,
+          "probability_pct": "7.5%",
+          "historical_basis": "China calls Arunachal \"South Tibet\". 2,000+ incursions 2010-2023. New Chinese village built 2021",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "China-Pakistan Coordinated Pressure",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "China-Pakistan Economic Corridor $62B. Two-front war scenario India fears most",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        }
+      ]
+    },
+    "2027": {
+      "country_a": "China",
+      "country_b": "India",
+      "year": 2027,
+      "ml_conflict_probability": 1.9,
+      "conflict_years_in_history": 3,
+      "territory_dispute": "Aksai Chin + Arunachal Pradesh (3,488 km disputed border)",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "1962 war: China captured 38,000 sq km Aksai Chin \u2014 still holds it",
+        "June 2020 Galwan: 20 Indian + 4 Chinese soldiers killed",
+        "China has built 628 villages along Indian border since 2017",
+        "China GDP: $18T vs India GDP: $3.7T \u2014 5x economic gap",
+        "China 350 nuclear warheads, India ~160",
+        "CPEC $62B investment \u2014 China has strategic interest in Pakistan"
+      ],
+      "scenarios": [
+        {
+          "name": "Galwan-Style Border Clash",
+          "probability": 10.5,
+          "probability_pct": "10.5%",
+          "historical_basis": "June 2020 Galwan Valley: 20 Indian + 4 Chinese soldiers killed (hand-to-hand combat)",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW \u2014 both sides avoid escalation"
+        },
+        {
+          "name": "Arunachal Pradesh Incursion",
+          "probability": 7.5,
+          "probability_pct": "7.5%",
+          "historical_basis": "China calls Arunachal \"South Tibet\". 2,000+ incursions 2010-2023. New Chinese village built 2021",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "China-Pakistan Coordinated Pressure",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "China-Pakistan Economic Corridor $62B. Two-front war scenario India fears most",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        }
+      ]
+    },
+    "2028": {
+      "country_a": "China",
+      "country_b": "India",
+      "year": 2028,
+      "ml_conflict_probability": 1.4,
+      "conflict_years_in_history": 3,
+      "territory_dispute": "Aksai Chin + Arunachal Pradesh (3,488 km disputed border)",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "1962 war: China captured 38,000 sq km Aksai Chin \u2014 still holds it",
+        "June 2020 Galwan: 20 Indian + 4 Chinese soldiers killed",
+        "China has built 628 villages along Indian border since 2017",
+        "China GDP: $18T vs India GDP: $3.7T \u2014 5x economic gap",
+        "China 350 nuclear warheads, India ~160",
+        "CPEC $62B investment \u2014 China has strategic interest in Pakistan"
+      ],
+      "scenarios": [
+        {
+          "name": "Galwan-Style Border Clash",
+          "probability": 10.5,
+          "probability_pct": "10.5%",
+          "historical_basis": "June 2020 Galwan Valley: 20 Indian + 4 Chinese soldiers killed (hand-to-hand combat)",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW \u2014 both sides avoid escalation"
+        },
+        {
+          "name": "Arunachal Pradesh Incursion",
+          "probability": 7.5,
+          "probability_pct": "7.5%",
+          "historical_basis": "China calls Arunachal \"South Tibet\". 2,000+ incursions 2010-2023. New Chinese village built 2021",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "China-Pakistan Coordinated Pressure",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "China-Pakistan Economic Corridor $62B. Two-front war scenario India fears most",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        }
+      ]
+    },
+    "2029": {
+      "country_a": "China",
+      "country_b": "India",
+      "year": 2029,
+      "ml_conflict_probability": 1.9,
+      "conflict_years_in_history": 3,
+      "territory_dispute": "Aksai Chin + Arunachal Pradesh (3,488 km disputed border)",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "1962 war: China captured 38,000 sq km Aksai Chin \u2014 still holds it",
+        "June 2020 Galwan: 20 Indian + 4 Chinese soldiers killed",
+        "China has built 628 villages along Indian border since 2017",
+        "China GDP: $18T vs India GDP: $3.7T \u2014 5x economic gap",
+        "China 350 nuclear warheads, India ~160",
+        "CPEC $62B investment \u2014 China has strategic interest in Pakistan"
+      ],
+      "scenarios": [
+        {
+          "name": "Galwan-Style Border Clash",
+          "probability": 10.5,
+          "probability_pct": "10.5%",
+          "historical_basis": "June 2020 Galwan Valley: 20 Indian + 4 Chinese soldiers killed (hand-to-hand combat)",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW \u2014 both sides avoid escalation"
+        },
+        {
+          "name": "Arunachal Pradesh Incursion",
+          "probability": 7.5,
+          "probability_pct": "7.5%",
+          "historical_basis": "China calls Arunachal \"South Tibet\". 2,000+ incursions 2010-2023. New Chinese village built 2021",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "China-Pakistan Coordinated Pressure",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "China-Pakistan Economic Corridor $62B. Two-front war scenario India fears most",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        }
+      ]
+    },
+    "2030": {
+      "country_a": "China",
+      "country_b": "India",
+      "year": 2030,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 3,
+      "territory_dispute": "Aksai Chin + Arunachal Pradesh (3,488 km disputed border)",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "1962 war: China captured 38,000 sq km Aksai Chin \u2014 still holds it",
+        "June 2020 Galwan: 20 Indian + 4 Chinese soldiers killed",
+        "China has built 628 villages along Indian border since 2017",
+        "China GDP: $18T vs India GDP: $3.7T \u2014 5x economic gap",
+        "China 350 nuclear warheads, India ~160",
+        "CPEC $62B investment \u2014 China has strategic interest in Pakistan"
+      ],
+      "scenarios": [
+        {
+          "name": "Galwan-Style Border Clash",
+          "probability": 10.5,
+          "probability_pct": "10.5%",
+          "historical_basis": "June 2020 Galwan Valley: 20 Indian + 4 Chinese soldiers killed (hand-to-hand combat)",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW \u2014 both sides avoid escalation"
+        },
+        {
+          "name": "Arunachal Pradesh Incursion",
+          "probability": 7.5,
+          "probability_pct": "7.5%",
+          "historical_basis": "China calls Arunachal \"South Tibet\". 2,000+ incursions 2010-2023. New Chinese village built 2021",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "China-Pakistan Coordinated Pressure",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "China-Pakistan Economic Corridor $62B. Two-front war scenario India fears most",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        }
+      ]
+    },
+    "2031": {
+      "country_a": "China",
+      "country_b": "India",
+      "year": 2031,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 3,
+      "territory_dispute": "Aksai Chin + Arunachal Pradesh (3,488 km disputed border)",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "1962 war: China captured 38,000 sq km Aksai Chin \u2014 still holds it",
+        "June 2020 Galwan: 20 Indian + 4 Chinese soldiers killed",
+        "China has built 628 villages along Indian border since 2017",
+        "China GDP: $18T vs India GDP: $3.7T \u2014 5x economic gap",
+        "China 350 nuclear warheads, India ~160",
+        "CPEC $62B investment \u2014 China has strategic interest in Pakistan"
+      ],
+      "scenarios": [
+        {
+          "name": "Galwan-Style Border Clash",
+          "probability": 7.3,
+          "probability_pct": "7.3%",
+          "historical_basis": "June 2020 Galwan Valley: 20 Indian + 4 Chinese soldiers killed (hand-to-hand combat)",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW \u2014 both sides avoid escalation"
+        },
+        {
+          "name": "Arunachal Pradesh Incursion",
+          "probability": 5.2,
+          "probability_pct": "5.2%",
+          "historical_basis": "China calls Arunachal \"South Tibet\". 2,000+ incursions 2010-2023. New Chinese village built 2021",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "China-Pakistan Coordinated Pressure",
+          "probability": 4.2,
+          "probability_pct": "4.2%",
+          "historical_basis": "China-Pakistan Economic Corridor $62B. Two-front war scenario India fears most",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        }
+      ]
+    },
+    "2032": {
+      "country_a": "China",
+      "country_b": "India",
+      "year": 2032,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 3,
+      "territory_dispute": "Aksai Chin + Arunachal Pradesh (3,488 km disputed border)",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "1962 war: China captured 38,000 sq km Aksai Chin \u2014 still holds it",
+        "June 2020 Galwan: 20 Indian + 4 Chinese soldiers killed",
+        "China has built 628 villages along Indian border since 2017",
+        "China GDP: $18T vs India GDP: $3.7T \u2014 5x economic gap",
+        "China 350 nuclear warheads, India ~160",
+        "CPEC $62B investment \u2014 China has strategic interest in Pakistan"
+      ],
+      "scenarios": [
+        {
+          "name": "Galwan-Style Border Clash",
+          "probability": 7.3,
+          "probability_pct": "7.3%",
+          "historical_basis": "June 2020 Galwan Valley: 20 Indian + 4 Chinese soldiers killed (hand-to-hand combat)",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW \u2014 both sides avoid escalation"
+        },
+        {
+          "name": "Arunachal Pradesh Incursion",
+          "probability": 5.2,
+          "probability_pct": "5.2%",
+          "historical_basis": "China calls Arunachal \"South Tibet\". 2,000+ incursions 2010-2023. New Chinese village built 2021",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "China-Pakistan Coordinated Pressure",
+          "probability": 4.2,
+          "probability_pct": "4.2%",
+          "historical_basis": "China-Pakistan Economic Corridor $62B. Two-front war scenario India fears most",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        }
+      ]
+    },
+    "2033": {
+      "country_a": "China",
+      "country_b": "India",
+      "year": 2033,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 3,
+      "territory_dispute": "Aksai Chin + Arunachal Pradesh (3,488 km disputed border)",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "1962 war: China captured 38,000 sq km Aksai Chin \u2014 still holds it",
+        "June 2020 Galwan: 20 Indian + 4 Chinese soldiers killed",
+        "China has built 628 villages along Indian border since 2017",
+        "China GDP: $18T vs India GDP: $3.7T \u2014 5x economic gap",
+        "China 350 nuclear warheads, India ~160",
+        "CPEC $62B investment \u2014 China has strategic interest in Pakistan"
+      ],
+      "scenarios": [
+        {
+          "name": "Galwan-Style Border Clash",
+          "probability": 7.3,
+          "probability_pct": "7.3%",
+          "historical_basis": "June 2020 Galwan Valley: 20 Indian + 4 Chinese soldiers killed (hand-to-hand combat)",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW \u2014 both sides avoid escalation"
+        },
+        {
+          "name": "Arunachal Pradesh Incursion",
+          "probability": 5.2,
+          "probability_pct": "5.2%",
+          "historical_basis": "China calls Arunachal \"South Tibet\". 2,000+ incursions 2010-2023. New Chinese village built 2021",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "China-Pakistan Coordinated Pressure",
+          "probability": 4.2,
+          "probability_pct": "4.2%",
+          "historical_basis": "China-Pakistan Economic Corridor $62B. Two-front war scenario India fears most",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        }
+      ]
+    },
+    "2034": {
+      "country_a": "China",
+      "country_b": "India",
+      "year": 2034,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 3,
+      "territory_dispute": "Aksai Chin + Arunachal Pradesh (3,488 km disputed border)",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "1962 war: China captured 38,000 sq km Aksai Chin \u2014 still holds it",
+        "June 2020 Galwan: 20 Indian + 4 Chinese soldiers killed",
+        "China has built 628 villages along Indian border since 2017",
+        "China GDP: $18T vs India GDP: $3.7T \u2014 5x economic gap",
+        "China 350 nuclear warheads, India ~160",
+        "CPEC $62B investment \u2014 China has strategic interest in Pakistan"
+      ],
+      "scenarios": [
+        {
+          "name": "Galwan-Style Border Clash",
+          "probability": 7.3,
+          "probability_pct": "7.3%",
+          "historical_basis": "June 2020 Galwan Valley: 20 Indian + 4 Chinese soldiers killed (hand-to-hand combat)",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW \u2014 both sides avoid escalation"
+        },
+        {
+          "name": "Arunachal Pradesh Incursion",
+          "probability": 5.2,
+          "probability_pct": "5.2%",
+          "historical_basis": "China calls Arunachal \"South Tibet\". 2,000+ incursions 2010-2023. New Chinese village built 2021",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "China-Pakistan Coordinated Pressure",
+          "probability": 4.2,
+          "probability_pct": "4.2%",
+          "historical_basis": "China-Pakistan Economic Corridor $62B. Two-front war scenario India fears most",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        }
+      ]
+    },
+    "2035": {
+      "country_a": "China",
+      "country_b": "India",
+      "year": 2035,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 3,
+      "territory_dispute": "Aksai Chin + Arunachal Pradesh (3,488 km disputed border)",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "1962 war: China captured 38,000 sq km Aksai Chin \u2014 still holds it",
+        "June 2020 Galwan: 20 Indian + 4 Chinese soldiers killed",
+        "China has built 628 villages along Indian border since 2017",
+        "China GDP: $18T vs India GDP: $3.7T \u2014 5x economic gap",
+        "China 350 nuclear warheads, India ~160",
+        "CPEC $62B investment \u2014 China has strategic interest in Pakistan"
+      ],
+      "scenarios": [
+        {
+          "name": "Galwan-Style Border Clash",
+          "probability": 7.3,
+          "probability_pct": "7.3%",
+          "historical_basis": "June 2020 Galwan Valley: 20 Indian + 4 Chinese soldiers killed (hand-to-hand combat)",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW \u2014 both sides avoid escalation"
+        },
+        {
+          "name": "Arunachal Pradesh Incursion",
+          "probability": 5.2,
+          "probability_pct": "5.2%",
+          "historical_basis": "China calls Arunachal \"South Tibet\". 2,000+ incursions 2010-2023. New Chinese village built 2021",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "China-Pakistan Coordinated Pressure",
+          "probability": 4.2,
+          "probability_pct": "4.2%",
+          "historical_basis": "China-Pakistan Economic Corridor $62B. Two-front war scenario India fears most",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        }
+      ]
+    },
+    "2036": {
+      "country_a": "China",
+      "country_b": "India",
+      "year": 2036,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 3,
+      "territory_dispute": "Aksai Chin + Arunachal Pradesh (3,488 km disputed border)",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "1962 war: China captured 38,000 sq km Aksai Chin \u2014 still holds it",
+        "June 2020 Galwan: 20 Indian + 4 Chinese soldiers killed",
+        "China has built 628 villages along Indian border since 2017",
+        "China GDP: $18T vs India GDP: $3.7T \u2014 5x economic gap",
+        "China 350 nuclear warheads, India ~160",
+        "CPEC $62B investment \u2014 China has strategic interest in Pakistan"
+      ],
+      "scenarios": [
+        {
+          "name": "Galwan-Style Border Clash",
+          "probability": 5.2,
+          "probability_pct": "5.2%",
+          "historical_basis": "June 2020 Galwan Valley: 20 Indian + 4 Chinese soldiers killed (hand-to-hand combat)",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW \u2014 both sides avoid escalation"
+        },
+        {
+          "name": "Arunachal Pradesh Incursion",
+          "probability": 3.8,
+          "probability_pct": "3.8%",
+          "historical_basis": "China calls Arunachal \"South Tibet\". 2,000+ incursions 2010-2023. New Chinese village built 2021",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "China-Pakistan Coordinated Pressure",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "China-Pakistan Economic Corridor $62B. Two-front war scenario India fears most",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        }
+      ]
+    },
+    "2037": {
+      "country_a": "China",
+      "country_b": "India",
+      "year": 2037,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 3,
+      "territory_dispute": "Aksai Chin + Arunachal Pradesh (3,488 km disputed border)",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "1962 war: China captured 38,000 sq km Aksai Chin \u2014 still holds it",
+        "June 2020 Galwan: 20 Indian + 4 Chinese soldiers killed",
+        "China has built 628 villages along Indian border since 2017",
+        "China GDP: $18T vs India GDP: $3.7T \u2014 5x economic gap",
+        "China 350 nuclear warheads, India ~160",
+        "CPEC $62B investment \u2014 China has strategic interest in Pakistan"
+      ],
+      "scenarios": [
+        {
+          "name": "Galwan-Style Border Clash",
+          "probability": 5.2,
+          "probability_pct": "5.2%",
+          "historical_basis": "June 2020 Galwan Valley: 20 Indian + 4 Chinese soldiers killed (hand-to-hand combat)",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW \u2014 both sides avoid escalation"
+        },
+        {
+          "name": "Arunachal Pradesh Incursion",
+          "probability": 3.8,
+          "probability_pct": "3.8%",
+          "historical_basis": "China calls Arunachal \"South Tibet\". 2,000+ incursions 2010-2023. New Chinese village built 2021",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "China-Pakistan Coordinated Pressure",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "China-Pakistan Economic Corridor $62B. Two-front war scenario India fears most",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        }
+      ]
+    },
+    "2038": {
+      "country_a": "China",
+      "country_b": "India",
+      "year": 2038,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 3,
+      "territory_dispute": "Aksai Chin + Arunachal Pradesh (3,488 km disputed border)",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "1962 war: China captured 38,000 sq km Aksai Chin \u2014 still holds it",
+        "June 2020 Galwan: 20 Indian + 4 Chinese soldiers killed",
+        "China has built 628 villages along Indian border since 2017",
+        "China GDP: $18T vs India GDP: $3.7T \u2014 5x economic gap",
+        "China 350 nuclear warheads, India ~160",
+        "CPEC $62B investment \u2014 China has strategic interest in Pakistan"
+      ],
+      "scenarios": [
+        {
+          "name": "Galwan-Style Border Clash",
+          "probability": 5.2,
+          "probability_pct": "5.2%",
+          "historical_basis": "June 2020 Galwan Valley: 20 Indian + 4 Chinese soldiers killed (hand-to-hand combat)",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW \u2014 both sides avoid escalation"
+        },
+        {
+          "name": "Arunachal Pradesh Incursion",
+          "probability": 3.8,
+          "probability_pct": "3.8%",
+          "historical_basis": "China calls Arunachal \"South Tibet\". 2,000+ incursions 2010-2023. New Chinese village built 2021",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "China-Pakistan Coordinated Pressure",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "China-Pakistan Economic Corridor $62B. Two-front war scenario India fears most",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        }
+      ]
+    },
+    "2039": {
+      "country_a": "China",
+      "country_b": "India",
+      "year": 2039,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 3,
+      "territory_dispute": "Aksai Chin + Arunachal Pradesh (3,488 km disputed border)",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "1962 war: China captured 38,000 sq km Aksai Chin \u2014 still holds it",
+        "June 2020 Galwan: 20 Indian + 4 Chinese soldiers killed",
+        "China has built 628 villages along Indian border since 2017",
+        "China GDP: $18T vs India GDP: $3.7T \u2014 5x economic gap",
+        "China 350 nuclear warheads, India ~160",
+        "CPEC $62B investment \u2014 China has strategic interest in Pakistan"
+      ],
+      "scenarios": [
+        {
+          "name": "Galwan-Style Border Clash",
+          "probability": 5.2,
+          "probability_pct": "5.2%",
+          "historical_basis": "June 2020 Galwan Valley: 20 Indian + 4 Chinese soldiers killed (hand-to-hand combat)",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW \u2014 both sides avoid escalation"
+        },
+        {
+          "name": "Arunachal Pradesh Incursion",
+          "probability": 3.8,
+          "probability_pct": "3.8%",
+          "historical_basis": "China calls Arunachal \"South Tibet\". 2,000+ incursions 2010-2023. New Chinese village built 2021",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "China-Pakistan Coordinated Pressure",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "China-Pakistan Economic Corridor $62B. Two-front war scenario India fears most",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        }
+      ]
+    },
+    "2040": {
+      "country_a": "China",
+      "country_b": "India",
+      "year": 2040,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 3,
+      "territory_dispute": "Aksai Chin + Arunachal Pradesh (3,488 km disputed border)",
+      "incompatibility_type": "Territorial",
+      "last_historical_conflict": 2020,
+      "both_nuclear": true,
+      "key_facts": [
+        "1962 war: China captured 38,000 sq km Aksai Chin \u2014 still holds it",
+        "June 2020 Galwan: 20 Indian + 4 Chinese soldiers killed",
+        "China has built 628 villages along Indian border since 2017",
+        "China GDP: $18T vs India GDP: $3.7T \u2014 5x economic gap",
+        "China 350 nuclear warheads, India ~160",
+        "CPEC $62B investment \u2014 China has strategic interest in Pakistan"
+      ],
+      "scenarios": [
+        {
+          "name": "Galwan-Style Border Clash",
+          "probability": 5.2,
+          "probability_pct": "5.2%",
+          "historical_basis": "June 2020 Galwan Valley: 20 Indian + 4 Chinese soldiers killed (hand-to-hand combat)",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "VERY LOW \u2014 both sides avoid escalation"
+        },
+        {
+          "name": "Arunachal Pradesh Incursion",
+          "probability": 3.8,
+          "probability_pct": "3.8%",
+          "historical_basis": "China calls Arunachal \"South Tibet\". 2,000+ incursions 2010-2023. New Chinese village built 2021",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "China-Pakistan Coordinated Pressure",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "China-Pakistan Economic Corridor $62B. Two-front war scenario India fears most",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "MODERATE"
+        }
+      ]
+    }
+  },
+  "Afghanistan_Pakistan": {
+    "2025": {
+      "country_a": "Afghanistan",
+      "country_b": "Pakistan",
+      "year": 2025,
+      "ml_conflict_probability": 10.1,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Durand Line (2,640 km disputed border)",
+      "incompatibility_type": "Territorial + TTP terrorism",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "TTP launched 1,000+ attacks on Pakistan from Afghan soil in 2023",
+        "Pakistan struck inside Afghanistan March 2024 killing civilians",
+        "Durand Line never recognized by any Afghan government since 1893",
+        "3+ million Afghan refugees in Pakistan creating tension",
+        "Afghanistan GDP: $14B vs Pakistan $340B \u2014 massive economic gap",
+        "Taliban took power August 2021 \u2014 Pakistan initially supported them"
+      ],
+      "scenarios": [
+        {
+          "name": "TTP Cross-Border Attacks",
+          "probability": 20.2,
+          "probability_pct": "20.2%",
+          "historical_basis": "TTP killed 1,000+ Pakistanis in 2023. Afghanistan-based TTP launched 1,000+ attacks",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Pakistan Military Strikes Inside Afghanistan",
+          "probability": 13.5,
+          "probability_pct": "13.5%",
+          "historical_basis": "Pakistan struck Afghan territory March 2024, killing 8 civilians. Afghanistan retaliated",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE \u2014 Afghanistan has no nuclear weapons"
+        },
+        {
+          "name": "Durand Line Border War",
+          "probability": 6.7,
+          "probability_pct": "6.7%",
+          "historical_basis": "Afghanistan never recognized Durand Line. Border clashes 2021, 2022, 2023, 2024",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE"
+        }
+      ]
+    },
+    "2026": {
+      "country_a": "Afghanistan",
+      "country_b": "Pakistan",
+      "year": 2026,
+      "ml_conflict_probability": 13.1,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Durand Line (2,640 km disputed border)",
+      "incompatibility_type": "Territorial + TTP terrorism",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "TTP launched 1,000+ attacks on Pakistan from Afghan soil in 2023",
+        "Pakistan struck inside Afghanistan March 2024 killing civilians",
+        "Durand Line never recognized by any Afghan government since 1893",
+        "3+ million Afghan refugees in Pakistan creating tension",
+        "Afghanistan GDP: $14B vs Pakistan $340B \u2014 massive economic gap",
+        "Taliban took power August 2021 \u2014 Pakistan initially supported them"
+      ],
+      "scenarios": [
+        {
+          "name": "TTP Cross-Border Attacks",
+          "probability": 26.2,
+          "probability_pct": "26.2%",
+          "historical_basis": "TTP killed 1,000+ Pakistanis in 2023. Afghanistan-based TTP launched 1,000+ attacks",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Pakistan Military Strikes Inside Afghanistan",
+          "probability": 17.5,
+          "probability_pct": "17.5%",
+          "historical_basis": "Pakistan struck Afghan territory March 2024, killing 8 civilians. Afghanistan retaliated",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE \u2014 Afghanistan has no nuclear weapons"
+        },
+        {
+          "name": "Durand Line Border War",
+          "probability": 8.7,
+          "probability_pct": "8.7%",
+          "historical_basis": "Afghanistan never recognized Durand Line. Border clashes 2021, 2022, 2023, 2024",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE"
+        }
+      ]
+    },
+    "2027": {
+      "country_a": "Afghanistan",
+      "country_b": "Pakistan",
+      "year": 2027,
+      "ml_conflict_probability": 13.1,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Durand Line (2,640 km disputed border)",
+      "incompatibility_type": "Territorial + TTP terrorism",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "TTP launched 1,000+ attacks on Pakistan from Afghan soil in 2023",
+        "Pakistan struck inside Afghanistan March 2024 killing civilians",
+        "Durand Line never recognized by any Afghan government since 1893",
+        "3+ million Afghan refugees in Pakistan creating tension",
+        "Afghanistan GDP: $14B vs Pakistan $340B \u2014 massive economic gap",
+        "Taliban took power August 2021 \u2014 Pakistan initially supported them"
+      ],
+      "scenarios": [
+        {
+          "name": "TTP Cross-Border Attacks",
+          "probability": 26.2,
+          "probability_pct": "26.2%",
+          "historical_basis": "TTP killed 1,000+ Pakistanis in 2023. Afghanistan-based TTP launched 1,000+ attacks",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Pakistan Military Strikes Inside Afghanistan",
+          "probability": 17.5,
+          "probability_pct": "17.5%",
+          "historical_basis": "Pakistan struck Afghan territory March 2024, killing 8 civilians. Afghanistan retaliated",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE \u2014 Afghanistan has no nuclear weapons"
+        },
+        {
+          "name": "Durand Line Border War",
+          "probability": 8.7,
+          "probability_pct": "8.7%",
+          "historical_basis": "Afghanistan never recognized Durand Line. Border clashes 2021, 2022, 2023, 2024",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE"
+        }
+      ]
+    },
+    "2028": {
+      "country_a": "Afghanistan",
+      "country_b": "Pakistan",
+      "year": 2028,
+      "ml_conflict_probability": 13.1,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Durand Line (2,640 km disputed border)",
+      "incompatibility_type": "Territorial + TTP terrorism",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "TTP launched 1,000+ attacks on Pakistan from Afghan soil in 2023",
+        "Pakistan struck inside Afghanistan March 2024 killing civilians",
+        "Durand Line never recognized by any Afghan government since 1893",
+        "3+ million Afghan refugees in Pakistan creating tension",
+        "Afghanistan GDP: $14B vs Pakistan $340B \u2014 massive economic gap",
+        "Taliban took power August 2021 \u2014 Pakistan initially supported them"
+      ],
+      "scenarios": [
+        {
+          "name": "TTP Cross-Border Attacks",
+          "probability": 26.2,
+          "probability_pct": "26.2%",
+          "historical_basis": "TTP killed 1,000+ Pakistanis in 2023. Afghanistan-based TTP launched 1,000+ attacks",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Pakistan Military Strikes Inside Afghanistan",
+          "probability": 17.5,
+          "probability_pct": "17.5%",
+          "historical_basis": "Pakistan struck Afghan territory March 2024, killing 8 civilians. Afghanistan retaliated",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE \u2014 Afghanistan has no nuclear weapons"
+        },
+        {
+          "name": "Durand Line Border War",
+          "probability": 8.7,
+          "probability_pct": "8.7%",
+          "historical_basis": "Afghanistan never recognized Durand Line. Border clashes 2021, 2022, 2023, 2024",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE"
+        }
+      ]
+    },
+    "2029": {
+      "country_a": "Afghanistan",
+      "country_b": "Pakistan",
+      "year": 2029,
+      "ml_conflict_probability": 15.8,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Durand Line (2,640 km disputed border)",
+      "incompatibility_type": "Territorial + TTP terrorism",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "TTP launched 1,000+ attacks on Pakistan from Afghan soil in 2023",
+        "Pakistan struck inside Afghanistan March 2024 killing civilians",
+        "Durand Line never recognized by any Afghan government since 1893",
+        "3+ million Afghan refugees in Pakistan creating tension",
+        "Afghanistan GDP: $14B vs Pakistan $340B \u2014 massive economic gap",
+        "Taliban took power August 2021 \u2014 Pakistan initially supported them"
+      ],
+      "scenarios": [
+        {
+          "name": "TTP Cross-Border Attacks",
+          "probability": 31.6,
+          "probability_pct": "31.6%",
+          "historical_basis": "TTP killed 1,000+ Pakistanis in 2023. Afghanistan-based TTP launched 1,000+ attacks",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Pakistan Military Strikes Inside Afghanistan",
+          "probability": 21.1,
+          "probability_pct": "21.1%",
+          "historical_basis": "Pakistan struck Afghan territory March 2024, killing 8 civilians. Afghanistan retaliated",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE \u2014 Afghanistan has no nuclear weapons"
+        },
+        {
+          "name": "Durand Line Border War",
+          "probability": 10.5,
+          "probability_pct": "10.5%",
+          "historical_basis": "Afghanistan never recognized Durand Line. Border clashes 2021, 2022, 2023, 2024",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE"
+        }
+      ]
+    },
+    "2030": {
+      "country_a": "Afghanistan",
+      "country_b": "Pakistan",
+      "year": 2030,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Durand Line (2,640 km disputed border)",
+      "incompatibility_type": "Territorial + TTP terrorism",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "TTP launched 1,000+ attacks on Pakistan from Afghan soil in 2023",
+        "Pakistan struck inside Afghanistan March 2024 killing civilians",
+        "Durand Line never recognized by any Afghan government since 1893",
+        "3+ million Afghan refugees in Pakistan creating tension",
+        "Afghanistan GDP: $14B vs Pakistan $340B \u2014 massive economic gap",
+        "Taliban took power August 2021 \u2014 Pakistan initially supported them"
+      ],
+      "scenarios": [
+        {
+          "name": "TTP Cross-Border Attacks",
+          "probability": 18.0,
+          "probability_pct": "18.0%",
+          "historical_basis": "TTP killed 1,000+ Pakistanis in 2023. Afghanistan-based TTP launched 1,000+ attacks",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Pakistan Military Strikes Inside Afghanistan",
+          "probability": 12.0,
+          "probability_pct": "12.0%",
+          "historical_basis": "Pakistan struck Afghan territory March 2024, killing 8 civilians. Afghanistan retaliated",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE \u2014 Afghanistan has no nuclear weapons"
+        },
+        {
+          "name": "Durand Line Border War",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "Afghanistan never recognized Durand Line. Border clashes 2021, 2022, 2023, 2024",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE"
+        }
+      ]
+    },
+    "2031": {
+      "country_a": "Afghanistan",
+      "country_b": "Pakistan",
+      "year": 2031,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Durand Line (2,640 km disputed border)",
+      "incompatibility_type": "Territorial + TTP terrorism",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "TTP launched 1,000+ attacks on Pakistan from Afghan soil in 2023",
+        "Pakistan struck inside Afghanistan March 2024 killing civilians",
+        "Durand Line never recognized by any Afghan government since 1893",
+        "3+ million Afghan refugees in Pakistan creating tension",
+        "Afghanistan GDP: $14B vs Pakistan $340B \u2014 massive economic gap",
+        "Taliban took power August 2021 \u2014 Pakistan initially supported them"
+      ],
+      "scenarios": [
+        {
+          "name": "TTP Cross-Border Attacks",
+          "probability": 12.6,
+          "probability_pct": "12.6%",
+          "historical_basis": "TTP killed 1,000+ Pakistanis in 2023. Afghanistan-based TTP launched 1,000+ attacks",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Pakistan Military Strikes Inside Afghanistan",
+          "probability": 8.4,
+          "probability_pct": "8.4%",
+          "historical_basis": "Pakistan struck Afghan territory March 2024, killing 8 civilians. Afghanistan retaliated",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE \u2014 Afghanistan has no nuclear weapons"
+        },
+        {
+          "name": "Durand Line Border War",
+          "probability": 4.2,
+          "probability_pct": "4.2%",
+          "historical_basis": "Afghanistan never recognized Durand Line. Border clashes 2021, 2022, 2023, 2024",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE"
+        }
+      ]
+    },
+    "2032": {
+      "country_a": "Afghanistan",
+      "country_b": "Pakistan",
+      "year": 2032,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Durand Line (2,640 km disputed border)",
+      "incompatibility_type": "Territorial + TTP terrorism",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "TTP launched 1,000+ attacks on Pakistan from Afghan soil in 2023",
+        "Pakistan struck inside Afghanistan March 2024 killing civilians",
+        "Durand Line never recognized by any Afghan government since 1893",
+        "3+ million Afghan refugees in Pakistan creating tension",
+        "Afghanistan GDP: $14B vs Pakistan $340B \u2014 massive economic gap",
+        "Taliban took power August 2021 \u2014 Pakistan initially supported them"
+      ],
+      "scenarios": [
+        {
+          "name": "TTP Cross-Border Attacks",
+          "probability": 12.6,
+          "probability_pct": "12.6%",
+          "historical_basis": "TTP killed 1,000+ Pakistanis in 2023. Afghanistan-based TTP launched 1,000+ attacks",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Pakistan Military Strikes Inside Afghanistan",
+          "probability": 8.4,
+          "probability_pct": "8.4%",
+          "historical_basis": "Pakistan struck Afghan territory March 2024, killing 8 civilians. Afghanistan retaliated",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE \u2014 Afghanistan has no nuclear weapons"
+        },
+        {
+          "name": "Durand Line Border War",
+          "probability": 4.2,
+          "probability_pct": "4.2%",
+          "historical_basis": "Afghanistan never recognized Durand Line. Border clashes 2021, 2022, 2023, 2024",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE"
+        }
+      ]
+    },
+    "2033": {
+      "country_a": "Afghanistan",
+      "country_b": "Pakistan",
+      "year": 2033,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Durand Line (2,640 km disputed border)",
+      "incompatibility_type": "Territorial + TTP terrorism",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "TTP launched 1,000+ attacks on Pakistan from Afghan soil in 2023",
+        "Pakistan struck inside Afghanistan March 2024 killing civilians",
+        "Durand Line never recognized by any Afghan government since 1893",
+        "3+ million Afghan refugees in Pakistan creating tension",
+        "Afghanistan GDP: $14B vs Pakistan $340B \u2014 massive economic gap",
+        "Taliban took power August 2021 \u2014 Pakistan initially supported them"
+      ],
+      "scenarios": [
+        {
+          "name": "TTP Cross-Border Attacks",
+          "probability": 12.6,
+          "probability_pct": "12.6%",
+          "historical_basis": "TTP killed 1,000+ Pakistanis in 2023. Afghanistan-based TTP launched 1,000+ attacks",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Pakistan Military Strikes Inside Afghanistan",
+          "probability": 8.4,
+          "probability_pct": "8.4%",
+          "historical_basis": "Pakistan struck Afghan territory March 2024, killing 8 civilians. Afghanistan retaliated",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE \u2014 Afghanistan has no nuclear weapons"
+        },
+        {
+          "name": "Durand Line Border War",
+          "probability": 4.2,
+          "probability_pct": "4.2%",
+          "historical_basis": "Afghanistan never recognized Durand Line. Border clashes 2021, 2022, 2023, 2024",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE"
+        }
+      ]
+    },
+    "2034": {
+      "country_a": "Afghanistan",
+      "country_b": "Pakistan",
+      "year": 2034,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Durand Line (2,640 km disputed border)",
+      "incompatibility_type": "Territorial + TTP terrorism",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "TTP launched 1,000+ attacks on Pakistan from Afghan soil in 2023",
+        "Pakistan struck inside Afghanistan March 2024 killing civilians",
+        "Durand Line never recognized by any Afghan government since 1893",
+        "3+ million Afghan refugees in Pakistan creating tension",
+        "Afghanistan GDP: $14B vs Pakistan $340B \u2014 massive economic gap",
+        "Taliban took power August 2021 \u2014 Pakistan initially supported them"
+      ],
+      "scenarios": [
+        {
+          "name": "TTP Cross-Border Attacks",
+          "probability": 12.6,
+          "probability_pct": "12.6%",
+          "historical_basis": "TTP killed 1,000+ Pakistanis in 2023. Afghanistan-based TTP launched 1,000+ attacks",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Pakistan Military Strikes Inside Afghanistan",
+          "probability": 8.4,
+          "probability_pct": "8.4%",
+          "historical_basis": "Pakistan struck Afghan territory March 2024, killing 8 civilians. Afghanistan retaliated",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE \u2014 Afghanistan has no nuclear weapons"
+        },
+        {
+          "name": "Durand Line Border War",
+          "probability": 4.2,
+          "probability_pct": "4.2%",
+          "historical_basis": "Afghanistan never recognized Durand Line. Border clashes 2021, 2022, 2023, 2024",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE"
+        }
+      ]
+    },
+    "2035": {
+      "country_a": "Afghanistan",
+      "country_b": "Pakistan",
+      "year": 2035,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Durand Line (2,640 km disputed border)",
+      "incompatibility_type": "Territorial + TTP terrorism",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "TTP launched 1,000+ attacks on Pakistan from Afghan soil in 2023",
+        "Pakistan struck inside Afghanistan March 2024 killing civilians",
+        "Durand Line never recognized by any Afghan government since 1893",
+        "3+ million Afghan refugees in Pakistan creating tension",
+        "Afghanistan GDP: $14B vs Pakistan $340B \u2014 massive economic gap",
+        "Taliban took power August 2021 \u2014 Pakistan initially supported them"
+      ],
+      "scenarios": [
+        {
+          "name": "TTP Cross-Border Attacks",
+          "probability": 12.6,
+          "probability_pct": "12.6%",
+          "historical_basis": "TTP killed 1,000+ Pakistanis in 2023. Afghanistan-based TTP launched 1,000+ attacks",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Pakistan Military Strikes Inside Afghanistan",
+          "probability": 8.4,
+          "probability_pct": "8.4%",
+          "historical_basis": "Pakistan struck Afghan territory March 2024, killing 8 civilians. Afghanistan retaliated",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE \u2014 Afghanistan has no nuclear weapons"
+        },
+        {
+          "name": "Durand Line Border War",
+          "probability": 4.2,
+          "probability_pct": "4.2%",
+          "historical_basis": "Afghanistan never recognized Durand Line. Border clashes 2021, 2022, 2023, 2024",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE"
+        }
+      ]
+    },
+    "2036": {
+      "country_a": "Afghanistan",
+      "country_b": "Pakistan",
+      "year": 2036,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Durand Line (2,640 km disputed border)",
+      "incompatibility_type": "Territorial + TTP terrorism",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "TTP launched 1,000+ attacks on Pakistan from Afghan soil in 2023",
+        "Pakistan struck inside Afghanistan March 2024 killing civilians",
+        "Durand Line never recognized by any Afghan government since 1893",
+        "3+ million Afghan refugees in Pakistan creating tension",
+        "Afghanistan GDP: $14B vs Pakistan $340B \u2014 massive economic gap",
+        "Taliban took power August 2021 \u2014 Pakistan initially supported them"
+      ],
+      "scenarios": [
+        {
+          "name": "TTP Cross-Border Attacks",
+          "probability": 9.0,
+          "probability_pct": "9.0%",
+          "historical_basis": "TTP killed 1,000+ Pakistanis in 2023. Afghanistan-based TTP launched 1,000+ attacks",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Pakistan Military Strikes Inside Afghanistan",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "Pakistan struck Afghan territory March 2024, killing 8 civilians. Afghanistan retaliated",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE \u2014 Afghanistan has no nuclear weapons"
+        },
+        {
+          "name": "Durand Line Border War",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "Afghanistan never recognized Durand Line. Border clashes 2021, 2022, 2023, 2024",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE"
+        }
+      ]
+    },
+    "2037": {
+      "country_a": "Afghanistan",
+      "country_b": "Pakistan",
+      "year": 2037,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Durand Line (2,640 km disputed border)",
+      "incompatibility_type": "Territorial + TTP terrorism",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "TTP launched 1,000+ attacks on Pakistan from Afghan soil in 2023",
+        "Pakistan struck inside Afghanistan March 2024 killing civilians",
+        "Durand Line never recognized by any Afghan government since 1893",
+        "3+ million Afghan refugees in Pakistan creating tension",
+        "Afghanistan GDP: $14B vs Pakistan $340B \u2014 massive economic gap",
+        "Taliban took power August 2021 \u2014 Pakistan initially supported them"
+      ],
+      "scenarios": [
+        {
+          "name": "TTP Cross-Border Attacks",
+          "probability": 9.0,
+          "probability_pct": "9.0%",
+          "historical_basis": "TTP killed 1,000+ Pakistanis in 2023. Afghanistan-based TTP launched 1,000+ attacks",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Pakistan Military Strikes Inside Afghanistan",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "Pakistan struck Afghan territory March 2024, killing 8 civilians. Afghanistan retaliated",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE \u2014 Afghanistan has no nuclear weapons"
+        },
+        {
+          "name": "Durand Line Border War",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "Afghanistan never recognized Durand Line. Border clashes 2021, 2022, 2023, 2024",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE"
+        }
+      ]
+    },
+    "2038": {
+      "country_a": "Afghanistan",
+      "country_b": "Pakistan",
+      "year": 2038,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Durand Line (2,640 km disputed border)",
+      "incompatibility_type": "Territorial + TTP terrorism",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "TTP launched 1,000+ attacks on Pakistan from Afghan soil in 2023",
+        "Pakistan struck inside Afghanistan March 2024 killing civilians",
+        "Durand Line never recognized by any Afghan government since 1893",
+        "3+ million Afghan refugees in Pakistan creating tension",
+        "Afghanistan GDP: $14B vs Pakistan $340B \u2014 massive economic gap",
+        "Taliban took power August 2021 \u2014 Pakistan initially supported them"
+      ],
+      "scenarios": [
+        {
+          "name": "TTP Cross-Border Attacks",
+          "probability": 9.0,
+          "probability_pct": "9.0%",
+          "historical_basis": "TTP killed 1,000+ Pakistanis in 2023. Afghanistan-based TTP launched 1,000+ attacks",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Pakistan Military Strikes Inside Afghanistan",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "Pakistan struck Afghan territory March 2024, killing 8 civilians. Afghanistan retaliated",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE \u2014 Afghanistan has no nuclear weapons"
+        },
+        {
+          "name": "Durand Line Border War",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "Afghanistan never recognized Durand Line. Border clashes 2021, 2022, 2023, 2024",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE"
+        }
+      ]
+    },
+    "2039": {
+      "country_a": "Afghanistan",
+      "country_b": "Pakistan",
+      "year": 2039,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Durand Line (2,640 km disputed border)",
+      "incompatibility_type": "Territorial + TTP terrorism",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "TTP launched 1,000+ attacks on Pakistan from Afghan soil in 2023",
+        "Pakistan struck inside Afghanistan March 2024 killing civilians",
+        "Durand Line never recognized by any Afghan government since 1893",
+        "3+ million Afghan refugees in Pakistan creating tension",
+        "Afghanistan GDP: $14B vs Pakistan $340B \u2014 massive economic gap",
+        "Taliban took power August 2021 \u2014 Pakistan initially supported them"
+      ],
+      "scenarios": [
+        {
+          "name": "TTP Cross-Border Attacks",
+          "probability": 9.0,
+          "probability_pct": "9.0%",
+          "historical_basis": "TTP killed 1,000+ Pakistanis in 2023. Afghanistan-based TTP launched 1,000+ attacks",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Pakistan Military Strikes Inside Afghanistan",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "Pakistan struck Afghan territory March 2024, killing 8 civilians. Afghanistan retaliated",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE \u2014 Afghanistan has no nuclear weapons"
+        },
+        {
+          "name": "Durand Line Border War",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "Afghanistan never recognized Durand Line. Border clashes 2021, 2022, 2023, 2024",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE"
+        }
+      ]
+    },
+    "2040": {
+      "country_a": "Afghanistan",
+      "country_b": "Pakistan",
+      "year": 2040,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Durand Line (2,640 km disputed border)",
+      "incompatibility_type": "Territorial + TTP terrorism",
+      "last_historical_conflict": 2024,
+      "both_nuclear": false,
+      "key_facts": [
+        "TTP launched 1,000+ attacks on Pakistan from Afghan soil in 2023",
+        "Pakistan struck inside Afghanistan March 2024 killing civilians",
+        "Durand Line never recognized by any Afghan government since 1893",
+        "3+ million Afghan refugees in Pakistan creating tension",
+        "Afghanistan GDP: $14B vs Pakistan $340B \u2014 massive economic gap",
+        "Taliban took power August 2021 \u2014 Pakistan initially supported them"
+      ],
+      "scenarios": [
+        {
+          "name": "TTP Cross-Border Attacks",
+          "probability": 9.0,
+          "probability_pct": "9.0%",
+          "historical_basis": "TTP killed 1,000+ Pakistanis in 2023. Afghanistan-based TTP launched 1,000+ attacks",
+          "escalation_risk": "MODERATE",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Pakistan Military Strikes Inside Afghanistan",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "Pakistan struck Afghan territory March 2024, killing 8 civilians. Afghanistan retaliated",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE \u2014 Afghanistan has no nuclear weapons"
+        },
+        {
+          "name": "Durand Line Border War",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "Afghanistan never recognized Durand Line. Border clashes 2021, 2022, 2023, 2024",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "NONE"
+        }
+      ]
+    }
+  },
+  "Iran_Saudi Arabia": {
+    "2025": {
+      "country_a": "Iran",
+      "country_b": "Saudi Arabia",
+      "year": 2025,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 0,
+      "territory_dispute": "No shared border \u2014 proxy wars in Yemen, Syria, Iraq",
+      "incompatibility_type": "Government/Regional hegemony + Sunni-Shia",
+      "last_historical_conflict": 2019,
+      "both_nuclear": false,
+      "key_facts": [
+        "2019 Aramco attack: 5.7M barrels/day offline \u2014 largest oil disruption in history",
+        "Yemen war: 150,000+ dead since 2015 \u2014 Saudi vs Iran-backed Houthis",
+        "Saudi Arabia spends $75B/year on military \u2014 6% GDP",
+        "Iran nuclear program: enriching to 60%, breakout time ~2-3 months",
+        "China brokered normalization deal March 2023 \u2014 fragile peace",
+        "Both compete for Sunni-Shia leadership of Muslim world"
+      ],
+      "scenarios": [
+        {
+          "name": "China-Brokered Peace Holds",
+          "probability": 13.5,
+          "probability_pct": "13.5%",
+          "historical_basis": "March 2023: China brokered Iran-Saudi normalization deal. Ambassadors exchanged June 2023",
+          "escalation_risk": "LOW \u2014 de-escalation scenario",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Houthi Escalation \u2192 Direct War",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "Sept 2019: Houthi drones struck Saudi Aramco \u2014 5% world oil supply offline for days",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Strait of Hormuz Blockade",
+          "probability": 4.5,
+          "probability_pct": "4.5%",
+          "historical_basis": "Iran threatened closure multiple times. 20% global oil passes through. 2019 tanker seizures",
+          "escalation_risk": "CRITICAL \u2014 would trigger US intervention",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2026": {
+      "country_a": "Iran",
+      "country_b": "Saudi Arabia",
+      "year": 2026,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 0,
+      "territory_dispute": "No shared border \u2014 proxy wars in Yemen, Syria, Iraq",
+      "incompatibility_type": "Government/Regional hegemony + Sunni-Shia",
+      "last_historical_conflict": 2019,
+      "both_nuclear": false,
+      "key_facts": [
+        "2019 Aramco attack: 5.7M barrels/day offline \u2014 largest oil disruption in history",
+        "Yemen war: 150,000+ dead since 2015 \u2014 Saudi vs Iran-backed Houthis",
+        "Saudi Arabia spends $75B/year on military \u2014 6% GDP",
+        "Iran nuclear program: enriching to 60%, breakout time ~2-3 months",
+        "China brokered normalization deal March 2023 \u2014 fragile peace",
+        "Both compete for Sunni-Shia leadership of Muslim world"
+      ],
+      "scenarios": [
+        {
+          "name": "China-Brokered Peace Holds",
+          "probability": 13.5,
+          "probability_pct": "13.5%",
+          "historical_basis": "March 2023: China brokered Iran-Saudi normalization deal. Ambassadors exchanged June 2023",
+          "escalation_risk": "LOW \u2014 de-escalation scenario",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Houthi Escalation \u2192 Direct War",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "Sept 2019: Houthi drones struck Saudi Aramco \u2014 5% world oil supply offline for days",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Strait of Hormuz Blockade",
+          "probability": 4.5,
+          "probability_pct": "4.5%",
+          "historical_basis": "Iran threatened closure multiple times. 20% global oil passes through. 2019 tanker seizures",
+          "escalation_risk": "CRITICAL \u2014 would trigger US intervention",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2027": {
+      "country_a": "Iran",
+      "country_b": "Saudi Arabia",
+      "year": 2027,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 0,
+      "territory_dispute": "No shared border \u2014 proxy wars in Yemen, Syria, Iraq",
+      "incompatibility_type": "Government/Regional hegemony + Sunni-Shia",
+      "last_historical_conflict": 2019,
+      "both_nuclear": false,
+      "key_facts": [
+        "2019 Aramco attack: 5.7M barrels/day offline \u2014 largest oil disruption in history",
+        "Yemen war: 150,000+ dead since 2015 \u2014 Saudi vs Iran-backed Houthis",
+        "Saudi Arabia spends $75B/year on military \u2014 6% GDP",
+        "Iran nuclear program: enriching to 60%, breakout time ~2-3 months",
+        "China brokered normalization deal March 2023 \u2014 fragile peace",
+        "Both compete for Sunni-Shia leadership of Muslim world"
+      ],
+      "scenarios": [
+        {
+          "name": "China-Brokered Peace Holds",
+          "probability": 13.5,
+          "probability_pct": "13.5%",
+          "historical_basis": "March 2023: China brokered Iran-Saudi normalization deal. Ambassadors exchanged June 2023",
+          "escalation_risk": "LOW \u2014 de-escalation scenario",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Houthi Escalation \u2192 Direct War",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "Sept 2019: Houthi drones struck Saudi Aramco \u2014 5% world oil supply offline for days",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Strait of Hormuz Blockade",
+          "probability": 4.5,
+          "probability_pct": "4.5%",
+          "historical_basis": "Iran threatened closure multiple times. 20% global oil passes through. 2019 tanker seizures",
+          "escalation_risk": "CRITICAL \u2014 would trigger US intervention",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2028": {
+      "country_a": "Iran",
+      "country_b": "Saudi Arabia",
+      "year": 2028,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 0,
+      "territory_dispute": "No shared border \u2014 proxy wars in Yemen, Syria, Iraq",
+      "incompatibility_type": "Government/Regional hegemony + Sunni-Shia",
+      "last_historical_conflict": 2019,
+      "both_nuclear": false,
+      "key_facts": [
+        "2019 Aramco attack: 5.7M barrels/day offline \u2014 largest oil disruption in history",
+        "Yemen war: 150,000+ dead since 2015 \u2014 Saudi vs Iran-backed Houthis",
+        "Saudi Arabia spends $75B/year on military \u2014 6% GDP",
+        "Iran nuclear program: enriching to 60%, breakout time ~2-3 months",
+        "China brokered normalization deal March 2023 \u2014 fragile peace",
+        "Both compete for Sunni-Shia leadership of Muslim world"
+      ],
+      "scenarios": [
+        {
+          "name": "China-Brokered Peace Holds",
+          "probability": 13.5,
+          "probability_pct": "13.5%",
+          "historical_basis": "March 2023: China brokered Iran-Saudi normalization deal. Ambassadors exchanged June 2023",
+          "escalation_risk": "LOW \u2014 de-escalation scenario",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Houthi Escalation \u2192 Direct War",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "Sept 2019: Houthi drones struck Saudi Aramco \u2014 5% world oil supply offline for days",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Strait of Hormuz Blockade",
+          "probability": 4.5,
+          "probability_pct": "4.5%",
+          "historical_basis": "Iran threatened closure multiple times. 20% global oil passes through. 2019 tanker seizures",
+          "escalation_risk": "CRITICAL \u2014 would trigger US intervention",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2029": {
+      "country_a": "Iran",
+      "country_b": "Saudi Arabia",
+      "year": 2029,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 0,
+      "territory_dispute": "No shared border \u2014 proxy wars in Yemen, Syria, Iraq",
+      "incompatibility_type": "Government/Regional hegemony + Sunni-Shia",
+      "last_historical_conflict": 2019,
+      "both_nuclear": false,
+      "key_facts": [
+        "2019 Aramco attack: 5.7M barrels/day offline \u2014 largest oil disruption in history",
+        "Yemen war: 150,000+ dead since 2015 \u2014 Saudi vs Iran-backed Houthis",
+        "Saudi Arabia spends $75B/year on military \u2014 6% GDP",
+        "Iran nuclear program: enriching to 60%, breakout time ~2-3 months",
+        "China brokered normalization deal March 2023 \u2014 fragile peace",
+        "Both compete for Sunni-Shia leadership of Muslim world"
+      ],
+      "scenarios": [
+        {
+          "name": "China-Brokered Peace Holds",
+          "probability": 13.5,
+          "probability_pct": "13.5%",
+          "historical_basis": "March 2023: China brokered Iran-Saudi normalization deal. Ambassadors exchanged June 2023",
+          "escalation_risk": "LOW \u2014 de-escalation scenario",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Houthi Escalation \u2192 Direct War",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "Sept 2019: Houthi drones struck Saudi Aramco \u2014 5% world oil supply offline for days",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Strait of Hormuz Blockade",
+          "probability": 4.5,
+          "probability_pct": "4.5%",
+          "historical_basis": "Iran threatened closure multiple times. 20% global oil passes through. 2019 tanker seizures",
+          "escalation_risk": "CRITICAL \u2014 would trigger US intervention",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2030": {
+      "country_a": "Iran",
+      "country_b": "Saudi Arabia",
+      "year": 2030,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 0,
+      "territory_dispute": "No shared border \u2014 proxy wars in Yemen, Syria, Iraq",
+      "incompatibility_type": "Government/Regional hegemony + Sunni-Shia",
+      "last_historical_conflict": 2019,
+      "both_nuclear": false,
+      "key_facts": [
+        "2019 Aramco attack: 5.7M barrels/day offline \u2014 largest oil disruption in history",
+        "Yemen war: 150,000+ dead since 2015 \u2014 Saudi vs Iran-backed Houthis",
+        "Saudi Arabia spends $75B/year on military \u2014 6% GDP",
+        "Iran nuclear program: enriching to 60%, breakout time ~2-3 months",
+        "China brokered normalization deal March 2023 \u2014 fragile peace",
+        "Both compete for Sunni-Shia leadership of Muslim world"
+      ],
+      "scenarios": [
+        {
+          "name": "China-Brokered Peace Holds",
+          "probability": 13.5,
+          "probability_pct": "13.5%",
+          "historical_basis": "March 2023: China brokered Iran-Saudi normalization deal. Ambassadors exchanged June 2023",
+          "escalation_risk": "LOW \u2014 de-escalation scenario",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Houthi Escalation \u2192 Direct War",
+          "probability": 6.0,
+          "probability_pct": "6.0%",
+          "historical_basis": "Sept 2019: Houthi drones struck Saudi Aramco \u2014 5% world oil supply offline for days",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Strait of Hormuz Blockade",
+          "probability": 4.5,
+          "probability_pct": "4.5%",
+          "historical_basis": "Iran threatened closure multiple times. 20% global oil passes through. 2019 tanker seizures",
+          "escalation_risk": "CRITICAL \u2014 would trigger US intervention",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2031": {
+      "country_a": "Iran",
+      "country_b": "Saudi Arabia",
+      "year": 2031,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 0,
+      "territory_dispute": "No shared border \u2014 proxy wars in Yemen, Syria, Iraq",
+      "incompatibility_type": "Government/Regional hegemony + Sunni-Shia",
+      "last_historical_conflict": 2019,
+      "both_nuclear": false,
+      "key_facts": [
+        "2019 Aramco attack: 5.7M barrels/day offline \u2014 largest oil disruption in history",
+        "Yemen war: 150,000+ dead since 2015 \u2014 Saudi vs Iran-backed Houthis",
+        "Saudi Arabia spends $75B/year on military \u2014 6% GDP",
+        "Iran nuclear program: enriching to 60%, breakout time ~2-3 months",
+        "China brokered normalization deal March 2023 \u2014 fragile peace",
+        "Both compete for Sunni-Shia leadership of Muslim world"
+      ],
+      "scenarios": [
+        {
+          "name": "China-Brokered Peace Holds",
+          "probability": 9.4,
+          "probability_pct": "9.4%",
+          "historical_basis": "March 2023: China brokered Iran-Saudi normalization deal. Ambassadors exchanged June 2023",
+          "escalation_risk": "LOW \u2014 de-escalation scenario",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Houthi Escalation \u2192 Direct War",
+          "probability": 4.2,
+          "probability_pct": "4.2%",
+          "historical_basis": "Sept 2019: Houthi drones struck Saudi Aramco \u2014 5% world oil supply offline for days",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Strait of Hormuz Blockade",
+          "probability": 3.1,
+          "probability_pct": "3.1%",
+          "historical_basis": "Iran threatened closure multiple times. 20% global oil passes through. 2019 tanker seizures",
+          "escalation_risk": "CRITICAL \u2014 would trigger US intervention",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2032": {
+      "country_a": "Iran",
+      "country_b": "Saudi Arabia",
+      "year": 2032,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 0,
+      "territory_dispute": "No shared border \u2014 proxy wars in Yemen, Syria, Iraq",
+      "incompatibility_type": "Government/Regional hegemony + Sunni-Shia",
+      "last_historical_conflict": 2019,
+      "both_nuclear": false,
+      "key_facts": [
+        "2019 Aramco attack: 5.7M barrels/day offline \u2014 largest oil disruption in history",
+        "Yemen war: 150,000+ dead since 2015 \u2014 Saudi vs Iran-backed Houthis",
+        "Saudi Arabia spends $75B/year on military \u2014 6% GDP",
+        "Iran nuclear program: enriching to 60%, breakout time ~2-3 months",
+        "China brokered normalization deal March 2023 \u2014 fragile peace",
+        "Both compete for Sunni-Shia leadership of Muslim world"
+      ],
+      "scenarios": [
+        {
+          "name": "China-Brokered Peace Holds",
+          "probability": 9.4,
+          "probability_pct": "9.4%",
+          "historical_basis": "March 2023: China brokered Iran-Saudi normalization deal. Ambassadors exchanged June 2023",
+          "escalation_risk": "LOW \u2014 de-escalation scenario",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Houthi Escalation \u2192 Direct War",
+          "probability": 4.2,
+          "probability_pct": "4.2%",
+          "historical_basis": "Sept 2019: Houthi drones struck Saudi Aramco \u2014 5% world oil supply offline for days",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Strait of Hormuz Blockade",
+          "probability": 3.1,
+          "probability_pct": "3.1%",
+          "historical_basis": "Iran threatened closure multiple times. 20% global oil passes through. 2019 tanker seizures",
+          "escalation_risk": "CRITICAL \u2014 would trigger US intervention",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2033": {
+      "country_a": "Iran",
+      "country_b": "Saudi Arabia",
+      "year": 2033,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 0,
+      "territory_dispute": "No shared border \u2014 proxy wars in Yemen, Syria, Iraq",
+      "incompatibility_type": "Government/Regional hegemony + Sunni-Shia",
+      "last_historical_conflict": 2019,
+      "both_nuclear": false,
+      "key_facts": [
+        "2019 Aramco attack: 5.7M barrels/day offline \u2014 largest oil disruption in history",
+        "Yemen war: 150,000+ dead since 2015 \u2014 Saudi vs Iran-backed Houthis",
+        "Saudi Arabia spends $75B/year on military \u2014 6% GDP",
+        "Iran nuclear program: enriching to 60%, breakout time ~2-3 months",
+        "China brokered normalization deal March 2023 \u2014 fragile peace",
+        "Both compete for Sunni-Shia leadership of Muslim world"
+      ],
+      "scenarios": [
+        {
+          "name": "China-Brokered Peace Holds",
+          "probability": 9.4,
+          "probability_pct": "9.4%",
+          "historical_basis": "March 2023: China brokered Iran-Saudi normalization deal. Ambassadors exchanged June 2023",
+          "escalation_risk": "LOW \u2014 de-escalation scenario",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Houthi Escalation \u2192 Direct War",
+          "probability": 4.2,
+          "probability_pct": "4.2%",
+          "historical_basis": "Sept 2019: Houthi drones struck Saudi Aramco \u2014 5% world oil supply offline for days",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Strait of Hormuz Blockade",
+          "probability": 3.1,
+          "probability_pct": "3.1%",
+          "historical_basis": "Iran threatened closure multiple times. 20% global oil passes through. 2019 tanker seizures",
+          "escalation_risk": "CRITICAL \u2014 would trigger US intervention",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2034": {
+      "country_a": "Iran",
+      "country_b": "Saudi Arabia",
+      "year": 2034,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 0,
+      "territory_dispute": "No shared border \u2014 proxy wars in Yemen, Syria, Iraq",
+      "incompatibility_type": "Government/Regional hegemony + Sunni-Shia",
+      "last_historical_conflict": 2019,
+      "both_nuclear": false,
+      "key_facts": [
+        "2019 Aramco attack: 5.7M barrels/day offline \u2014 largest oil disruption in history",
+        "Yemen war: 150,000+ dead since 2015 \u2014 Saudi vs Iran-backed Houthis",
+        "Saudi Arabia spends $75B/year on military \u2014 6% GDP",
+        "Iran nuclear program: enriching to 60%, breakout time ~2-3 months",
+        "China brokered normalization deal March 2023 \u2014 fragile peace",
+        "Both compete for Sunni-Shia leadership of Muslim world"
+      ],
+      "scenarios": [
+        {
+          "name": "China-Brokered Peace Holds",
+          "probability": 9.4,
+          "probability_pct": "9.4%",
+          "historical_basis": "March 2023: China brokered Iran-Saudi normalization deal. Ambassadors exchanged June 2023",
+          "escalation_risk": "LOW \u2014 de-escalation scenario",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Houthi Escalation \u2192 Direct War",
+          "probability": 4.2,
+          "probability_pct": "4.2%",
+          "historical_basis": "Sept 2019: Houthi drones struck Saudi Aramco \u2014 5% world oil supply offline for days",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Strait of Hormuz Blockade",
+          "probability": 3.1,
+          "probability_pct": "3.1%",
+          "historical_basis": "Iran threatened closure multiple times. 20% global oil passes through. 2019 tanker seizures",
+          "escalation_risk": "CRITICAL \u2014 would trigger US intervention",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2035": {
+      "country_a": "Iran",
+      "country_b": "Saudi Arabia",
+      "year": 2035,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 0,
+      "territory_dispute": "No shared border \u2014 proxy wars in Yemen, Syria, Iraq",
+      "incompatibility_type": "Government/Regional hegemony + Sunni-Shia",
+      "last_historical_conflict": 2019,
+      "both_nuclear": false,
+      "key_facts": [
+        "2019 Aramco attack: 5.7M barrels/day offline \u2014 largest oil disruption in history",
+        "Yemen war: 150,000+ dead since 2015 \u2014 Saudi vs Iran-backed Houthis",
+        "Saudi Arabia spends $75B/year on military \u2014 6% GDP",
+        "Iran nuclear program: enriching to 60%, breakout time ~2-3 months",
+        "China brokered normalization deal March 2023 \u2014 fragile peace",
+        "Both compete for Sunni-Shia leadership of Muslim world"
+      ],
+      "scenarios": [
+        {
+          "name": "China-Brokered Peace Holds",
+          "probability": 9.4,
+          "probability_pct": "9.4%",
+          "historical_basis": "March 2023: China brokered Iran-Saudi normalization deal. Ambassadors exchanged June 2023",
+          "escalation_risk": "LOW \u2014 de-escalation scenario",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Houthi Escalation \u2192 Direct War",
+          "probability": 4.2,
+          "probability_pct": "4.2%",
+          "historical_basis": "Sept 2019: Houthi drones struck Saudi Aramco \u2014 5% world oil supply offline for days",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Strait of Hormuz Blockade",
+          "probability": 3.1,
+          "probability_pct": "3.1%",
+          "historical_basis": "Iran threatened closure multiple times. 20% global oil passes through. 2019 tanker seizures",
+          "escalation_risk": "CRITICAL \u2014 would trigger US intervention",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2036": {
+      "country_a": "Iran",
+      "country_b": "Saudi Arabia",
+      "year": 2036,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 0,
+      "territory_dispute": "No shared border \u2014 proxy wars in Yemen, Syria, Iraq",
+      "incompatibility_type": "Government/Regional hegemony + Sunni-Shia",
+      "last_historical_conflict": 2019,
+      "both_nuclear": false,
+      "key_facts": [
+        "2019 Aramco attack: 5.7M barrels/day offline \u2014 largest oil disruption in history",
+        "Yemen war: 150,000+ dead since 2015 \u2014 Saudi vs Iran-backed Houthis",
+        "Saudi Arabia spends $75B/year on military \u2014 6% GDP",
+        "Iran nuclear program: enriching to 60%, breakout time ~2-3 months",
+        "China brokered normalization deal March 2023 \u2014 fragile peace",
+        "Both compete for Sunni-Shia leadership of Muslim world"
+      ],
+      "scenarios": [
+        {
+          "name": "China-Brokered Peace Holds",
+          "probability": 6.8,
+          "probability_pct": "6.8%",
+          "historical_basis": "March 2023: China brokered Iran-Saudi normalization deal. Ambassadors exchanged June 2023",
+          "escalation_risk": "LOW \u2014 de-escalation scenario",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Houthi Escalation \u2192 Direct War",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "Sept 2019: Houthi drones struck Saudi Aramco \u2014 5% world oil supply offline for days",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Strait of Hormuz Blockade",
+          "probability": 2.2,
+          "probability_pct": "2.2%",
+          "historical_basis": "Iran threatened closure multiple times. 20% global oil passes through. 2019 tanker seizures",
+          "escalation_risk": "CRITICAL \u2014 would trigger US intervention",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2037": {
+      "country_a": "Iran",
+      "country_b": "Saudi Arabia",
+      "year": 2037,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 0,
+      "territory_dispute": "No shared border \u2014 proxy wars in Yemen, Syria, Iraq",
+      "incompatibility_type": "Government/Regional hegemony + Sunni-Shia",
+      "last_historical_conflict": 2019,
+      "both_nuclear": false,
+      "key_facts": [
+        "2019 Aramco attack: 5.7M barrels/day offline \u2014 largest oil disruption in history",
+        "Yemen war: 150,000+ dead since 2015 \u2014 Saudi vs Iran-backed Houthis",
+        "Saudi Arabia spends $75B/year on military \u2014 6% GDP",
+        "Iran nuclear program: enriching to 60%, breakout time ~2-3 months",
+        "China brokered normalization deal March 2023 \u2014 fragile peace",
+        "Both compete for Sunni-Shia leadership of Muslim world"
+      ],
+      "scenarios": [
+        {
+          "name": "China-Brokered Peace Holds",
+          "probability": 6.8,
+          "probability_pct": "6.8%",
+          "historical_basis": "March 2023: China brokered Iran-Saudi normalization deal. Ambassadors exchanged June 2023",
+          "escalation_risk": "LOW \u2014 de-escalation scenario",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Houthi Escalation \u2192 Direct War",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "Sept 2019: Houthi drones struck Saudi Aramco \u2014 5% world oil supply offline for days",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Strait of Hormuz Blockade",
+          "probability": 2.2,
+          "probability_pct": "2.2%",
+          "historical_basis": "Iran threatened closure multiple times. 20% global oil passes through. 2019 tanker seizures",
+          "escalation_risk": "CRITICAL \u2014 would trigger US intervention",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2038": {
+      "country_a": "Iran",
+      "country_b": "Saudi Arabia",
+      "year": 2038,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 0,
+      "territory_dispute": "No shared border \u2014 proxy wars in Yemen, Syria, Iraq",
+      "incompatibility_type": "Government/Regional hegemony + Sunni-Shia",
+      "last_historical_conflict": 2019,
+      "both_nuclear": false,
+      "key_facts": [
+        "2019 Aramco attack: 5.7M barrels/day offline \u2014 largest oil disruption in history",
+        "Yemen war: 150,000+ dead since 2015 \u2014 Saudi vs Iran-backed Houthis",
+        "Saudi Arabia spends $75B/year on military \u2014 6% GDP",
+        "Iran nuclear program: enriching to 60%, breakout time ~2-3 months",
+        "China brokered normalization deal March 2023 \u2014 fragile peace",
+        "Both compete for Sunni-Shia leadership of Muslim world"
+      ],
+      "scenarios": [
+        {
+          "name": "China-Brokered Peace Holds",
+          "probability": 6.8,
+          "probability_pct": "6.8%",
+          "historical_basis": "March 2023: China brokered Iran-Saudi normalization deal. Ambassadors exchanged June 2023",
+          "escalation_risk": "LOW \u2014 de-escalation scenario",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Houthi Escalation \u2192 Direct War",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "Sept 2019: Houthi drones struck Saudi Aramco \u2014 5% world oil supply offline for days",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Strait of Hormuz Blockade",
+          "probability": 2.2,
+          "probability_pct": "2.2%",
+          "historical_basis": "Iran threatened closure multiple times. 20% global oil passes through. 2019 tanker seizures",
+          "escalation_risk": "CRITICAL \u2014 would trigger US intervention",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2039": {
+      "country_a": "Iran",
+      "country_b": "Saudi Arabia",
+      "year": 2039,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 0,
+      "territory_dispute": "No shared border \u2014 proxy wars in Yemen, Syria, Iraq",
+      "incompatibility_type": "Government/Regional hegemony + Sunni-Shia",
+      "last_historical_conflict": 2019,
+      "both_nuclear": false,
+      "key_facts": [
+        "2019 Aramco attack: 5.7M barrels/day offline \u2014 largest oil disruption in history",
+        "Yemen war: 150,000+ dead since 2015 \u2014 Saudi vs Iran-backed Houthis",
+        "Saudi Arabia spends $75B/year on military \u2014 6% GDP",
+        "Iran nuclear program: enriching to 60%, breakout time ~2-3 months",
+        "China brokered normalization deal March 2023 \u2014 fragile peace",
+        "Both compete for Sunni-Shia leadership of Muslim world"
+      ],
+      "scenarios": [
+        {
+          "name": "China-Brokered Peace Holds",
+          "probability": 6.8,
+          "probability_pct": "6.8%",
+          "historical_basis": "March 2023: China brokered Iran-Saudi normalization deal. Ambassadors exchanged June 2023",
+          "escalation_risk": "LOW \u2014 de-escalation scenario",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Houthi Escalation \u2192 Direct War",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "Sept 2019: Houthi drones struck Saudi Aramco \u2014 5% world oil supply offline for days",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Strait of Hormuz Blockade",
+          "probability": 2.2,
+          "probability_pct": "2.2%",
+          "historical_basis": "Iran threatened closure multiple times. 20% global oil passes through. 2019 tanker seizures",
+          "escalation_risk": "CRITICAL \u2014 would trigger US intervention",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    },
+    "2040": {
+      "country_a": "Iran",
+      "country_b": "Saudi Arabia",
+      "year": 2040,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 0,
+      "territory_dispute": "No shared border \u2014 proxy wars in Yemen, Syria, Iraq",
+      "incompatibility_type": "Government/Regional hegemony + Sunni-Shia",
+      "last_historical_conflict": 2019,
+      "both_nuclear": false,
+      "key_facts": [
+        "2019 Aramco attack: 5.7M barrels/day offline \u2014 largest oil disruption in history",
+        "Yemen war: 150,000+ dead since 2015 \u2014 Saudi vs Iran-backed Houthis",
+        "Saudi Arabia spends $75B/year on military \u2014 6% GDP",
+        "Iran nuclear program: enriching to 60%, breakout time ~2-3 months",
+        "China brokered normalization deal March 2023 \u2014 fragile peace",
+        "Both compete for Sunni-Shia leadership of Muslim world"
+      ],
+      "scenarios": [
+        {
+          "name": "China-Brokered Peace Holds",
+          "probability": 6.8,
+          "probability_pct": "6.8%",
+          "historical_basis": "March 2023: China brokered Iran-Saudi normalization deal. Ambassadors exchanged June 2023",
+          "escalation_risk": "LOW \u2014 de-escalation scenario",
+          "nuclear_risk": "NONE"
+        },
+        {
+          "name": "Houthi Escalation \u2192 Direct War",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "Sept 2019: Houthi drones struck Saudi Aramco \u2014 5% world oil supply offline for days",
+          "escalation_risk": "HIGH",
+          "nuclear_risk": "LOW"
+        },
+        {
+          "name": "Strait of Hormuz Blockade",
+          "probability": 2.2,
+          "probability_pct": "2.2%",
+          "historical_basis": "Iran threatened closure multiple times. 20% global oil passes through. 2019 tanker seizures",
+          "escalation_risk": "CRITICAL \u2014 would trigger US intervention",
+          "nuclear_risk": "LOW"
+        }
+      ]
+    }
+  },
+  "Russia_China": {
+    "2025": {
+      "country_a": "Russia",
+      "country_b": "China",
+      "year": 2025,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Ussuri River (settled 2008), Central Asia influence",
+      "incompatibility_type": "Historical territorial + current competition",
+      "last_historical_conflict": 1969,
+      "both_nuclear": true,
+      "key_facts": [
+        "1969 Ussuri River conflict: 58 Soviet + unknown Chinese soldiers killed",
+        "Border fully demarcated and settled in 2008 \u2014 no active dispute",
+        "Both in SCO together \u2014 strategic partnership since 2001",
+        "Russia-China trade: $240B in 2023 \u2014 record high after Ukraine war",
+        "Russia selling oil to China at discount \u2014 dependency increasing",
+        "Both have 1,500+ deployed nuclear warheads \u2014 MAD applies"
+      ],
+      "scenarios": [
+        {
+          "name": "Central Asia Sphere of Influence Clash",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "China BRI dominates Kazakhstan, Uzbekistan. Russia CSTO losing influence. Competition intensifying",
+          "escalation_risk": "LOW \u2014 economic competition not military",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Russia weakened post-Ukraine \u2192 China opportunism",
+          "probability": 2.4,
+          "probability_pct": "2.4%",
+          "historical_basis": "Russia GDP fallen, military depleted in Ukraine. China may reassert Siberia claims long-term",
+          "escalation_risk": "LOW",
+          "nuclear_risk": "LOW \u2014 MAD doctrine applies"
+        }
+      ]
+    },
+    "2026": {
+      "country_a": "Russia",
+      "country_b": "China",
+      "year": 2026,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Ussuri River (settled 2008), Central Asia influence",
+      "incompatibility_type": "Historical territorial + current competition",
+      "last_historical_conflict": 1969,
+      "both_nuclear": true,
+      "key_facts": [
+        "1969 Ussuri River conflict: 58 Soviet + unknown Chinese soldiers killed",
+        "Border fully demarcated and settled in 2008 \u2014 no active dispute",
+        "Both in SCO together \u2014 strategic partnership since 2001",
+        "Russia-China trade: $240B in 2023 \u2014 record high after Ukraine war",
+        "Russia selling oil to China at discount \u2014 dependency increasing",
+        "Both have 1,500+ deployed nuclear warheads \u2014 MAD applies"
+      ],
+      "scenarios": [
+        {
+          "name": "Central Asia Sphere of Influence Clash",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "China BRI dominates Kazakhstan, Uzbekistan. Russia CSTO losing influence. Competition intensifying",
+          "escalation_risk": "LOW \u2014 economic competition not military",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Russia weakened post-Ukraine \u2192 China opportunism",
+          "probability": 2.4,
+          "probability_pct": "2.4%",
+          "historical_basis": "Russia GDP fallen, military depleted in Ukraine. China may reassert Siberia claims long-term",
+          "escalation_risk": "LOW",
+          "nuclear_risk": "LOW \u2014 MAD doctrine applies"
+        }
+      ]
+    },
+    "2027": {
+      "country_a": "Russia",
+      "country_b": "China",
+      "year": 2027,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Ussuri River (settled 2008), Central Asia influence",
+      "incompatibility_type": "Historical territorial + current competition",
+      "last_historical_conflict": 1969,
+      "both_nuclear": true,
+      "key_facts": [
+        "1969 Ussuri River conflict: 58 Soviet + unknown Chinese soldiers killed",
+        "Border fully demarcated and settled in 2008 \u2014 no active dispute",
+        "Both in SCO together \u2014 strategic partnership since 2001",
+        "Russia-China trade: $240B in 2023 \u2014 record high after Ukraine war",
+        "Russia selling oil to China at discount \u2014 dependency increasing",
+        "Both have 1,500+ deployed nuclear warheads \u2014 MAD applies"
+      ],
+      "scenarios": [
+        {
+          "name": "Central Asia Sphere of Influence Clash",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "China BRI dominates Kazakhstan, Uzbekistan. Russia CSTO losing influence. Competition intensifying",
+          "escalation_risk": "LOW \u2014 economic competition not military",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Russia weakened post-Ukraine \u2192 China opportunism",
+          "probability": 2.4,
+          "probability_pct": "2.4%",
+          "historical_basis": "Russia GDP fallen, military depleted in Ukraine. China may reassert Siberia claims long-term",
+          "escalation_risk": "LOW",
+          "nuclear_risk": "LOW \u2014 MAD doctrine applies"
+        }
+      ]
+    },
+    "2028": {
+      "country_a": "Russia",
+      "country_b": "China",
+      "year": 2028,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Ussuri River (settled 2008), Central Asia influence",
+      "incompatibility_type": "Historical territorial + current competition",
+      "last_historical_conflict": 1969,
+      "both_nuclear": true,
+      "key_facts": [
+        "1969 Ussuri River conflict: 58 Soviet + unknown Chinese soldiers killed",
+        "Border fully demarcated and settled in 2008 \u2014 no active dispute",
+        "Both in SCO together \u2014 strategic partnership since 2001",
+        "Russia-China trade: $240B in 2023 \u2014 record high after Ukraine war",
+        "Russia selling oil to China at discount \u2014 dependency increasing",
+        "Both have 1,500+ deployed nuclear warheads \u2014 MAD applies"
+      ],
+      "scenarios": [
+        {
+          "name": "Central Asia Sphere of Influence Clash",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "China BRI dominates Kazakhstan, Uzbekistan. Russia CSTO losing influence. Competition intensifying",
+          "escalation_risk": "LOW \u2014 economic competition not military",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Russia weakened post-Ukraine \u2192 China opportunism",
+          "probability": 2.4,
+          "probability_pct": "2.4%",
+          "historical_basis": "Russia GDP fallen, military depleted in Ukraine. China may reassert Siberia claims long-term",
+          "escalation_risk": "LOW",
+          "nuclear_risk": "LOW \u2014 MAD doctrine applies"
+        }
+      ]
+    },
+    "2029": {
+      "country_a": "Russia",
+      "country_b": "China",
+      "year": 2029,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Ussuri River (settled 2008), Central Asia influence",
+      "incompatibility_type": "Historical territorial + current competition",
+      "last_historical_conflict": 1969,
+      "both_nuclear": true,
+      "key_facts": [
+        "1969 Ussuri River conflict: 58 Soviet + unknown Chinese soldiers killed",
+        "Border fully demarcated and settled in 2008 \u2014 no active dispute",
+        "Both in SCO together \u2014 strategic partnership since 2001",
+        "Russia-China trade: $240B in 2023 \u2014 record high after Ukraine war",
+        "Russia selling oil to China at discount \u2014 dependency increasing",
+        "Both have 1,500+ deployed nuclear warheads \u2014 MAD applies"
+      ],
+      "scenarios": [
+        {
+          "name": "Central Asia Sphere of Influence Clash",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "China BRI dominates Kazakhstan, Uzbekistan. Russia CSTO losing influence. Competition intensifying",
+          "escalation_risk": "LOW \u2014 economic competition not military",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Russia weakened post-Ukraine \u2192 China opportunism",
+          "probability": 2.4,
+          "probability_pct": "2.4%",
+          "historical_basis": "Russia GDP fallen, military depleted in Ukraine. China may reassert Siberia claims long-term",
+          "escalation_risk": "LOW",
+          "nuclear_risk": "LOW \u2014 MAD doctrine applies"
+        }
+      ]
+    },
+    "2030": {
+      "country_a": "Russia",
+      "country_b": "China",
+      "year": 2030,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Ussuri River (settled 2008), Central Asia influence",
+      "incompatibility_type": "Historical territorial + current competition",
+      "last_historical_conflict": 1969,
+      "both_nuclear": true,
+      "key_facts": [
+        "1969 Ussuri River conflict: 58 Soviet + unknown Chinese soldiers killed",
+        "Border fully demarcated and settled in 2008 \u2014 no active dispute",
+        "Both in SCO together \u2014 strategic partnership since 2001",
+        "Russia-China trade: $240B in 2023 \u2014 record high after Ukraine war",
+        "Russia selling oil to China at discount \u2014 dependency increasing",
+        "Both have 1,500+ deployed nuclear warheads \u2014 MAD applies"
+      ],
+      "scenarios": [
+        {
+          "name": "Central Asia Sphere of Influence Clash",
+          "probability": 3.0,
+          "probability_pct": "3.0%",
+          "historical_basis": "China BRI dominates Kazakhstan, Uzbekistan. Russia CSTO losing influence. Competition intensifying",
+          "escalation_risk": "LOW \u2014 economic competition not military",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Russia weakened post-Ukraine \u2192 China opportunism",
+          "probability": 2.4,
+          "probability_pct": "2.4%",
+          "historical_basis": "Russia GDP fallen, military depleted in Ukraine. China may reassert Siberia claims long-term",
+          "escalation_risk": "LOW",
+          "nuclear_risk": "LOW \u2014 MAD doctrine applies"
+        }
+      ]
+    },
+    "2031": {
+      "country_a": "Russia",
+      "country_b": "China",
+      "year": 2031,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Ussuri River (settled 2008), Central Asia influence",
+      "incompatibility_type": "Historical territorial + current competition",
+      "last_historical_conflict": 1969,
+      "both_nuclear": true,
+      "key_facts": [
+        "1969 Ussuri River conflict: 58 Soviet + unknown Chinese soldiers killed",
+        "Border fully demarcated and settled in 2008 \u2014 no active dispute",
+        "Both in SCO together \u2014 strategic partnership since 2001",
+        "Russia-China trade: $240B in 2023 \u2014 record high after Ukraine war",
+        "Russia selling oil to China at discount \u2014 dependency increasing",
+        "Both have 1,500+ deployed nuclear warheads \u2014 MAD applies"
+      ],
+      "scenarios": [
+        {
+          "name": "Central Asia Sphere of Influence Clash",
+          "probability": 2.1,
+          "probability_pct": "2.1%",
+          "historical_basis": "China BRI dominates Kazakhstan, Uzbekistan. Russia CSTO losing influence. Competition intensifying",
+          "escalation_risk": "LOW \u2014 economic competition not military",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Russia weakened post-Ukraine \u2192 China opportunism",
+          "probability": 1.7,
+          "probability_pct": "1.7%",
+          "historical_basis": "Russia GDP fallen, military depleted in Ukraine. China may reassert Siberia claims long-term",
+          "escalation_risk": "LOW",
+          "nuclear_risk": "LOW \u2014 MAD doctrine applies"
+        }
+      ]
+    },
+    "2032": {
+      "country_a": "Russia",
+      "country_b": "China",
+      "year": 2032,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Ussuri River (settled 2008), Central Asia influence",
+      "incompatibility_type": "Historical territorial + current competition",
+      "last_historical_conflict": 1969,
+      "both_nuclear": true,
+      "key_facts": [
+        "1969 Ussuri River conflict: 58 Soviet + unknown Chinese soldiers killed",
+        "Border fully demarcated and settled in 2008 \u2014 no active dispute",
+        "Both in SCO together \u2014 strategic partnership since 2001",
+        "Russia-China trade: $240B in 2023 \u2014 record high after Ukraine war",
+        "Russia selling oil to China at discount \u2014 dependency increasing",
+        "Both have 1,500+ deployed nuclear warheads \u2014 MAD applies"
+      ],
+      "scenarios": [
+        {
+          "name": "Central Asia Sphere of Influence Clash",
+          "probability": 2.1,
+          "probability_pct": "2.1%",
+          "historical_basis": "China BRI dominates Kazakhstan, Uzbekistan. Russia CSTO losing influence. Competition intensifying",
+          "escalation_risk": "LOW \u2014 economic competition not military",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Russia weakened post-Ukraine \u2192 China opportunism",
+          "probability": 1.7,
+          "probability_pct": "1.7%",
+          "historical_basis": "Russia GDP fallen, military depleted in Ukraine. China may reassert Siberia claims long-term",
+          "escalation_risk": "LOW",
+          "nuclear_risk": "LOW \u2014 MAD doctrine applies"
+        }
+      ]
+    },
+    "2033": {
+      "country_a": "Russia",
+      "country_b": "China",
+      "year": 2033,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Ussuri River (settled 2008), Central Asia influence",
+      "incompatibility_type": "Historical territorial + current competition",
+      "last_historical_conflict": 1969,
+      "both_nuclear": true,
+      "key_facts": [
+        "1969 Ussuri River conflict: 58 Soviet + unknown Chinese soldiers killed",
+        "Border fully demarcated and settled in 2008 \u2014 no active dispute",
+        "Both in SCO together \u2014 strategic partnership since 2001",
+        "Russia-China trade: $240B in 2023 \u2014 record high after Ukraine war",
+        "Russia selling oil to China at discount \u2014 dependency increasing",
+        "Both have 1,500+ deployed nuclear warheads \u2014 MAD applies"
+      ],
+      "scenarios": [
+        {
+          "name": "Central Asia Sphere of Influence Clash",
+          "probability": 2.1,
+          "probability_pct": "2.1%",
+          "historical_basis": "China BRI dominates Kazakhstan, Uzbekistan. Russia CSTO losing influence. Competition intensifying",
+          "escalation_risk": "LOW \u2014 economic competition not military",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Russia weakened post-Ukraine \u2192 China opportunism",
+          "probability": 1.7,
+          "probability_pct": "1.7%",
+          "historical_basis": "Russia GDP fallen, military depleted in Ukraine. China may reassert Siberia claims long-term",
+          "escalation_risk": "LOW",
+          "nuclear_risk": "LOW \u2014 MAD doctrine applies"
+        }
+      ]
+    },
+    "2034": {
+      "country_a": "Russia",
+      "country_b": "China",
+      "year": 2034,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Ussuri River (settled 2008), Central Asia influence",
+      "incompatibility_type": "Historical territorial + current competition",
+      "last_historical_conflict": 1969,
+      "both_nuclear": true,
+      "key_facts": [
+        "1969 Ussuri River conflict: 58 Soviet + unknown Chinese soldiers killed",
+        "Border fully demarcated and settled in 2008 \u2014 no active dispute",
+        "Both in SCO together \u2014 strategic partnership since 2001",
+        "Russia-China trade: $240B in 2023 \u2014 record high after Ukraine war",
+        "Russia selling oil to China at discount \u2014 dependency increasing",
+        "Both have 1,500+ deployed nuclear warheads \u2014 MAD applies"
+      ],
+      "scenarios": [
+        {
+          "name": "Central Asia Sphere of Influence Clash",
+          "probability": 2.1,
+          "probability_pct": "2.1%",
+          "historical_basis": "China BRI dominates Kazakhstan, Uzbekistan. Russia CSTO losing influence. Competition intensifying",
+          "escalation_risk": "LOW \u2014 economic competition not military",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Russia weakened post-Ukraine \u2192 China opportunism",
+          "probability": 1.7,
+          "probability_pct": "1.7%",
+          "historical_basis": "Russia GDP fallen, military depleted in Ukraine. China may reassert Siberia claims long-term",
+          "escalation_risk": "LOW",
+          "nuclear_risk": "LOW \u2014 MAD doctrine applies"
+        }
+      ]
+    },
+    "2035": {
+      "country_a": "Russia",
+      "country_b": "China",
+      "year": 2035,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Ussuri River (settled 2008), Central Asia influence",
+      "incompatibility_type": "Historical territorial + current competition",
+      "last_historical_conflict": 1969,
+      "both_nuclear": true,
+      "key_facts": [
+        "1969 Ussuri River conflict: 58 Soviet + unknown Chinese soldiers killed",
+        "Border fully demarcated and settled in 2008 \u2014 no active dispute",
+        "Both in SCO together \u2014 strategic partnership since 2001",
+        "Russia-China trade: $240B in 2023 \u2014 record high after Ukraine war",
+        "Russia selling oil to China at discount \u2014 dependency increasing",
+        "Both have 1,500+ deployed nuclear warheads \u2014 MAD applies"
+      ],
+      "scenarios": [
+        {
+          "name": "Central Asia Sphere of Influence Clash",
+          "probability": 2.1,
+          "probability_pct": "2.1%",
+          "historical_basis": "China BRI dominates Kazakhstan, Uzbekistan. Russia CSTO losing influence. Competition intensifying",
+          "escalation_risk": "LOW \u2014 economic competition not military",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Russia weakened post-Ukraine \u2192 China opportunism",
+          "probability": 1.7,
+          "probability_pct": "1.7%",
+          "historical_basis": "Russia GDP fallen, military depleted in Ukraine. China may reassert Siberia claims long-term",
+          "escalation_risk": "LOW",
+          "nuclear_risk": "LOW \u2014 MAD doctrine applies"
+        }
+      ]
+    },
+    "2036": {
+      "country_a": "Russia",
+      "country_b": "China",
+      "year": 2036,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Ussuri River (settled 2008), Central Asia influence",
+      "incompatibility_type": "Historical territorial + current competition",
+      "last_historical_conflict": 1969,
+      "both_nuclear": true,
+      "key_facts": [
+        "1969 Ussuri River conflict: 58 Soviet + unknown Chinese soldiers killed",
+        "Border fully demarcated and settled in 2008 \u2014 no active dispute",
+        "Both in SCO together \u2014 strategic partnership since 2001",
+        "Russia-China trade: $240B in 2023 \u2014 record high after Ukraine war",
+        "Russia selling oil to China at discount \u2014 dependency increasing",
+        "Both have 1,500+ deployed nuclear warheads \u2014 MAD applies"
+      ],
+      "scenarios": [
+        {
+          "name": "Central Asia Sphere of Influence Clash",
+          "probability": 1.5,
+          "probability_pct": "1.5%",
+          "historical_basis": "China BRI dominates Kazakhstan, Uzbekistan. Russia CSTO losing influence. Competition intensifying",
+          "escalation_risk": "LOW \u2014 economic competition not military",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Russia weakened post-Ukraine \u2192 China opportunism",
+          "probability": 1.2,
+          "probability_pct": "1.2%",
+          "historical_basis": "Russia GDP fallen, military depleted in Ukraine. China may reassert Siberia claims long-term",
+          "escalation_risk": "LOW",
+          "nuclear_risk": "LOW \u2014 MAD doctrine applies"
+        }
+      ]
+    },
+    "2037": {
+      "country_a": "Russia",
+      "country_b": "China",
+      "year": 2037,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Ussuri River (settled 2008), Central Asia influence",
+      "incompatibility_type": "Historical territorial + current competition",
+      "last_historical_conflict": 1969,
+      "both_nuclear": true,
+      "key_facts": [
+        "1969 Ussuri River conflict: 58 Soviet + unknown Chinese soldiers killed",
+        "Border fully demarcated and settled in 2008 \u2014 no active dispute",
+        "Both in SCO together \u2014 strategic partnership since 2001",
+        "Russia-China trade: $240B in 2023 \u2014 record high after Ukraine war",
+        "Russia selling oil to China at discount \u2014 dependency increasing",
+        "Both have 1,500+ deployed nuclear warheads \u2014 MAD applies"
+      ],
+      "scenarios": [
+        {
+          "name": "Central Asia Sphere of Influence Clash",
+          "probability": 1.5,
+          "probability_pct": "1.5%",
+          "historical_basis": "China BRI dominates Kazakhstan, Uzbekistan. Russia CSTO losing influence. Competition intensifying",
+          "escalation_risk": "LOW \u2014 economic competition not military",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Russia weakened post-Ukraine \u2192 China opportunism",
+          "probability": 1.2,
+          "probability_pct": "1.2%",
+          "historical_basis": "Russia GDP fallen, military depleted in Ukraine. China may reassert Siberia claims long-term",
+          "escalation_risk": "LOW",
+          "nuclear_risk": "LOW \u2014 MAD doctrine applies"
+        }
+      ]
+    },
+    "2038": {
+      "country_a": "Russia",
+      "country_b": "China",
+      "year": 2038,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Ussuri River (settled 2008), Central Asia influence",
+      "incompatibility_type": "Historical territorial + current competition",
+      "last_historical_conflict": 1969,
+      "both_nuclear": true,
+      "key_facts": [
+        "1969 Ussuri River conflict: 58 Soviet + unknown Chinese soldiers killed",
+        "Border fully demarcated and settled in 2008 \u2014 no active dispute",
+        "Both in SCO together \u2014 strategic partnership since 2001",
+        "Russia-China trade: $240B in 2023 \u2014 record high after Ukraine war",
+        "Russia selling oil to China at discount \u2014 dependency increasing",
+        "Both have 1,500+ deployed nuclear warheads \u2014 MAD applies"
+      ],
+      "scenarios": [
+        {
+          "name": "Central Asia Sphere of Influence Clash",
+          "probability": 1.5,
+          "probability_pct": "1.5%",
+          "historical_basis": "China BRI dominates Kazakhstan, Uzbekistan. Russia CSTO losing influence. Competition intensifying",
+          "escalation_risk": "LOW \u2014 economic competition not military",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Russia weakened post-Ukraine \u2192 China opportunism",
+          "probability": 1.2,
+          "probability_pct": "1.2%",
+          "historical_basis": "Russia GDP fallen, military depleted in Ukraine. China may reassert Siberia claims long-term",
+          "escalation_risk": "LOW",
+          "nuclear_risk": "LOW \u2014 MAD doctrine applies"
+        }
+      ]
+    },
+    "2039": {
+      "country_a": "Russia",
+      "country_b": "China",
+      "year": 2039,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Ussuri River (settled 2008), Central Asia influence",
+      "incompatibility_type": "Historical territorial + current competition",
+      "last_historical_conflict": 1969,
+      "both_nuclear": true,
+      "key_facts": [
+        "1969 Ussuri River conflict: 58 Soviet + unknown Chinese soldiers killed",
+        "Border fully demarcated and settled in 2008 \u2014 no active dispute",
+        "Both in SCO together \u2014 strategic partnership since 2001",
+        "Russia-China trade: $240B in 2023 \u2014 record high after Ukraine war",
+        "Russia selling oil to China at discount \u2014 dependency increasing",
+        "Both have 1,500+ deployed nuclear warheads \u2014 MAD applies"
+      ],
+      "scenarios": [
+        {
+          "name": "Central Asia Sphere of Influence Clash",
+          "probability": 1.5,
+          "probability_pct": "1.5%",
+          "historical_basis": "China BRI dominates Kazakhstan, Uzbekistan. Russia CSTO losing influence. Competition intensifying",
+          "escalation_risk": "LOW \u2014 economic competition not military",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Russia weakened post-Ukraine \u2192 China opportunism",
+          "probability": 1.2,
+          "probability_pct": "1.2%",
+          "historical_basis": "Russia GDP fallen, military depleted in Ukraine. China may reassert Siberia claims long-term",
+          "escalation_risk": "LOW",
+          "nuclear_risk": "LOW \u2014 MAD doctrine applies"
+        }
+      ]
+    },
+    "2040": {
+      "country_a": "Russia",
+      "country_b": "China",
+      "year": 2040,
+      "ml_conflict_probability": 0.0,
+      "conflict_years_in_history": 1,
+      "territory_dispute": "Ussuri River (settled 2008), Central Asia influence",
+      "incompatibility_type": "Historical territorial + current competition",
+      "last_historical_conflict": 1969,
+      "both_nuclear": true,
+      "key_facts": [
+        "1969 Ussuri River conflict: 58 Soviet + unknown Chinese soldiers killed",
+        "Border fully demarcated and settled in 2008 \u2014 no active dispute",
+        "Both in SCO together \u2014 strategic partnership since 2001",
+        "Russia-China trade: $240B in 2023 \u2014 record high after Ukraine war",
+        "Russia selling oil to China at discount \u2014 dependency increasing",
+        "Both have 1,500+ deployed nuclear warheads \u2014 MAD applies"
+      ],
+      "scenarios": [
+        {
+          "name": "Central Asia Sphere of Influence Clash",
+          "probability": 1.5,
+          "probability_pct": "1.5%",
+          "historical_basis": "China BRI dominates Kazakhstan, Uzbekistan. Russia CSTO losing influence. Competition intensifying",
+          "escalation_risk": "LOW \u2014 economic competition not military",
+          "nuclear_risk": "VERY LOW"
+        },
+        {
+          "name": "Russia weakened post-Ukraine \u2192 China opportunism",
+          "probability": 1.2,
+          "probability_pct": "1.2%",
+          "historical_basis": "Russia GDP fallen, military depleted in Ukraine. China may reassert Siberia claims long-term",
+          "escalation_risk": "LOW",
+          "nuclear_risk": "LOW \u2014 MAD doctrine applies"
+        }
+      ]
+    }
+  }
+}
