@@ -43,11 +43,16 @@ export default function Home() {
             GEOPOLITICAL RISK MONITOR
           </h1>
         </div>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
           <Link href="/map" style={{ padding: '8px 20px', borderRadius: 4, border: '1px solid rgba(255,255,255,0.15)', fontSize: 11, letterSpacing: 2, color: '#94a3b8', textDecoration: 'none', display: 'flex', alignItems: 'center', gap: 8, transition: 'all 0.2s' }}
             onMouseEnter={e => (e.currentTarget.style.borderColor = '#94a3b8')}
             onMouseLeave={e => (e.currentTarget.style.borderColor = 'rgba(255,255,255,0.15)')}>
             🗺️ CONFLICT MAP
+          </Link>
+          <Link href="/rivalries" style={{ padding: '8px 20px', borderRadius: 4, border: '1px solid rgba(239,68,68,0.4)', fontSize: 11, letterSpacing: 2, color: '#ef4444', textDecoration: 'none', display: 'flex', alignItems: 'center', gap: 8, transition: 'all 0.2s' }}
+            onMouseEnter={e => (e.currentTarget.style.borderColor = '#ef4444')}
+            onMouseLeave={e => (e.currentTarget.style.borderColor = 'rgba(239,68,68,0.4)')}>
+            ⚔ RIVALRIES
           </Link>
           <div style={{ textAlign: 'right' }}>
             <div style={{ fontSize: 11, color: '#64748b', letterSpacing: 2 }}>MODEL STATUS</div>

@@ -1,0 +1,1249 @@
+year,country_a,country_b,conflict_probability,ever_fought,same_region,both_nuclear
+2025,USA,Russia,0.0,0,0,1
+2025,USA,China,0.0,0,0,1
+2025,USA,India,0.0,0,0,1
+2025,USA,Iran,0.0,1,0,0
+2025,USA,Israel,0.0,0,0,1
+2025,USA,UK,0.0,0,0,1
+2025,USA,France,0.0,0,0,1
+2025,USA,Pakistan,0.0,0,0,1
+2025,USA,Saudi Arabia,0.0,0,0,0
+2025,USA,Turkey,0.0,0,0,0
+2025,USA,Indonesia,0.0,0,0,0
+2025,USA,Afghanistan,0.0,1,0,0
+2025,Russia,China,0.0,1,0,1
+2025,Russia,India,0.0,0,0,1
+2025,Russia,Iran,0.0,0,0,0
+2025,Russia,Israel,0.0,0,0,1
+2025,Russia,UK,0.0,0,0,1
+2025,Russia,France,0.0,0,0,1
+2025,Russia,Pakistan,0.0,0,0,1
+2025,Russia,Saudi Arabia,0.0,0,0,0
+2025,Russia,Turkey,0.0,1,0,0
+2025,Russia,Indonesia,0.0,0,0,0
+2025,Russia,Afghanistan,0.0,1,0,0
+2025,China,India,1.9,1,1,1
+2025,China,Iran,0.0,0,0,0
+2025,China,Israel,0.0,0,0,1
+2025,China,UK,0.0,0,0,1
+2025,China,France,0.0,0,0,1
+2025,China,Pakistan,0.0,0,1,1
+2025,China,Saudi Arabia,0.0,0,0,0
+2025,China,Turkey,0.0,0,0,0
+2025,China,Indonesia,0.0,0,1,0
+2025,China,Afghanistan,0.0,0,1,0
+2025,India,Iran,0.0,0,0,0
+2025,India,Israel,0.0,0,0,1
+2025,India,UK,0.0,0,0,1
+2025,India,France,0.0,0,0,1
+2025,India,Pakistan,29.4,1,1,1
+2025,India,Saudi Arabia,0.0,0,0,0
+2025,India,Turkey,0.0,0,0,0
+2025,India,Indonesia,0.0,0,1,0
+2025,India,Afghanistan,0.0,0,1,0
+2025,Iran,Israel,13.1,1,1,0
+2025,Iran,UK,0.0,0,0,0
+2025,Iran,France,0.0,0,0,0
+2025,Iran,Pakistan,0.0,1,0,0
+2025,Iran,Saudi Arabia,4.5,1,1,0
+2025,Iran,Turkey,0.0,0,1,0
+2025,Iran,Indonesia,0.0,0,0,0
+2025,Iran,Afghanistan,0.0,0,0,0
+2025,Israel,UK,0.0,0,0,1
+2025,Israel,France,0.0,0,0,1
+2025,Israel,Pakistan,0.0,0,0,1
+2025,Israel,Saudi Arabia,0.3,0,1,0
+2025,Israel,Turkey,0.3,0,1,0
+2025,Israel,Indonesia,0.0,0,0,0
+2025,Israel,Afghanistan,0.0,0,0,0
+2025,UK,France,0.0,0,1,1
+2025,UK,Pakistan,0.0,0,0,1
+2025,UK,Saudi Arabia,0.0,0,0,0
+2025,UK,Turkey,0.0,0,0,0
+2025,UK,Indonesia,0.0,0,0,0
+2025,UK,Afghanistan,0.0,1,0,0
+2025,France,Pakistan,0.0,0,0,1
+2025,France,Saudi Arabia,0.0,0,0,0
+2025,France,Turkey,0.0,0,0,0
+2025,France,Indonesia,0.0,0,0,0
+2025,France,Afghanistan,0.0,1,0,0
+2025,Pakistan,Saudi Arabia,0.0,0,0,0
+2025,Pakistan,Turkey,0.0,0,0,0
+2025,Pakistan,Indonesia,0.0,0,1,0
+2025,Pakistan,Afghanistan,13.1,1,1,0
+2025,Saudi Arabia,Turkey,0.0,0,1,0
+2025,Saudi Arabia,Indonesia,0.0,0,0,0
+2025,Saudi Arabia,Afghanistan,0.0,0,0,0
+2025,Turkey,Indonesia,0.0,0,0,0
+2025,Turkey,Afghanistan,0.0,0,0,0
+2025,Indonesia,Afghanistan,0.0,0,1,0
+2026,USA,Russia,0.0,0,0,1
+2026,USA,China,0.0,0,0,1
+2026,USA,India,0.0,0,0,1
+2026,USA,Iran,0.0,1,0,0
+2026,USA,Israel,0.0,0,0,1
+2026,USA,UK,0.0,0,0,1
+2026,USA,France,0.0,0,0,1
+2026,USA,Pakistan,0.0,0,0,1
+2026,USA,Saudi Arabia,0.0,0,0,0
+2026,USA,Turkey,0.0,0,0,0
+2026,USA,Indonesia,0.0,0,0,0
+2026,USA,Afghanistan,0.0,1,0,0
+2026,Russia,China,0.0,1,0,1
+2026,Russia,India,0.0,0,0,1
+2026,Russia,Iran,0.0,0,0,0
+2026,Russia,Israel,0.0,0,0,1
+2026,Russia,UK,0.0,0,0,1
+2026,Russia,France,0.0,0,0,1
+2026,Russia,Pakistan,0.0,0,0,1
+2026,Russia,Saudi Arabia,0.0,0,0,0
+2026,Russia,Turkey,0.0,1,0,0
+2026,Russia,Indonesia,0.0,0,0,0
+2026,Russia,Afghanistan,0.0,1,0,0
+2026,China,India,1.9,1,1,1
+2026,China,Iran,0.0,0,0,0
+2026,China,Israel,0.0,0,0,1
+2026,China,UK,0.0,0,0,1
+2026,China,France,0.0,0,0,1
+2026,China,Pakistan,0.0,0,1,1
+2026,China,Saudi Arabia,0.0,0,0,0
+2026,China,Turkey,0.0,0,0,0
+2026,China,Indonesia,0.0,0,1,0
+2026,China,Afghanistan,0.0,0,1,0
+2026,India,Iran,0.0,0,0,0
+2026,India,Israel,0.0,0,0,1
+2026,India,UK,0.0,0,0,1
+2026,India,France,0.0,0,0,1
+2026,India,Pakistan,29.4,1,1,1
+2026,India,Saudi Arabia,0.0,0,0,0
+2026,India,Turkey,0.0,0,0,0
+2026,India,Indonesia,0.0,0,1,0
+2026,India,Afghanistan,0.0,0,1,0
+2026,Iran,Israel,13.1,1,1,0
+2026,Iran,UK,0.0,0,0,0
+2026,Iran,France,0.0,0,0,0
+2026,Iran,Pakistan,0.0,1,0,0
+2026,Iran,Saudi Arabia,4.5,1,1,0
+2026,Iran,Turkey,0.0,0,1,0
+2026,Iran,Indonesia,0.0,0,0,0
+2026,Iran,Afghanistan,0.0,0,0,0
+2026,Israel,UK,0.0,0,0,1
+2026,Israel,France,0.0,0,0,1
+2026,Israel,Pakistan,0.0,0,0,1
+2026,Israel,Saudi Arabia,0.3,0,1,0
+2026,Israel,Turkey,0.3,0,1,0
+2026,Israel,Indonesia,0.0,0,0,0
+2026,Israel,Afghanistan,0.0,0,0,0
+2026,UK,France,0.0,0,1,1
+2026,UK,Pakistan,0.0,0,0,1
+2026,UK,Saudi Arabia,0.0,0,0,0
+2026,UK,Turkey,0.0,0,0,0
+2026,UK,Indonesia,0.0,0,0,0
+2026,UK,Afghanistan,0.0,1,0,0
+2026,France,Pakistan,0.0,0,0,1
+2026,France,Saudi Arabia,0.0,0,0,0
+2026,France,Turkey,0.0,0,0,0
+2026,France,Indonesia,0.0,0,0,0
+2026,France,Afghanistan,0.0,1,0,0
+2026,Pakistan,Saudi Arabia,0.0,0,0,0
+2026,Pakistan,Turkey,0.0,0,0,0
+2026,Pakistan,Indonesia,0.0,0,1,0
+2026,Pakistan,Afghanistan,13.1,1,1,0
+2026,Saudi Arabia,Turkey,0.0,0,1,0
+2026,Saudi Arabia,Indonesia,0.0,0,0,0
+2026,Saudi Arabia,Afghanistan,0.0,0,0,0
+2026,Turkey,Indonesia,0.0,0,0,0
+2026,Turkey,Afghanistan,0.0,0,0,0
+2026,Indonesia,Afghanistan,0.0,0,1,0
+2027,USA,Russia,0.0,0,0,1
+2027,USA,China,0.0,0,0,1
+2027,USA,India,0.0,0,0,1
+2027,USA,Iran,0.0,1,0,0
+2027,USA,Israel,0.0,0,0,1
+2027,USA,UK,0.0,0,0,1
+2027,USA,France,0.0,0,0,1
+2027,USA,Pakistan,0.0,0,0,1
+2027,USA,Saudi Arabia,0.0,0,0,0
+2027,USA,Turkey,0.0,0,0,0
+2027,USA,Indonesia,0.0,0,0,0
+2027,USA,Afghanistan,0.0,1,0,0
+2027,Russia,China,0.0,1,0,1
+2027,Russia,India,0.0,0,0,1
+2027,Russia,Iran,0.0,0,0,0
+2027,Russia,Israel,0.0,0,0,1
+2027,Russia,UK,0.0,0,0,1
+2027,Russia,France,0.0,0,0,1
+2027,Russia,Pakistan,0.0,0,0,1
+2027,Russia,Saudi Arabia,0.0,0,0,0
+2027,Russia,Turkey,0.0,1,0,0
+2027,Russia,Indonesia,0.0,0,0,0
+2027,Russia,Afghanistan,0.0,1,0,0
+2027,China,India,1.9,1,1,1
+2027,China,Iran,0.0,0,0,0
+2027,China,Israel,0.0,0,0,1
+2027,China,UK,0.0,0,0,1
+2027,China,France,0.0,0,0,1
+2027,China,Pakistan,0.0,0,1,1
+2027,China,Saudi Arabia,0.0,0,0,0
+2027,China,Turkey,0.0,0,0,0
+2027,China,Indonesia,0.0,0,1,0
+2027,China,Afghanistan,0.0,0,1,0
+2027,India,Iran,0.0,0,0,0
+2027,India,Israel,0.0,0,0,1
+2027,India,UK,0.0,0,0,1
+2027,India,France,0.0,0,0,1
+2027,India,Pakistan,42.9,1,1,1
+2027,India,Saudi Arabia,0.0,0,0,0
+2027,India,Turkey,0.0,0,0,0
+2027,India,Indonesia,0.0,0,1,0
+2027,India,Afghanistan,1.0,0,1,0
+2027,Iran,Israel,15.8,1,1,0
+2027,Iran,UK,0.0,0,0,0
+2027,Iran,France,0.0,0,0,0
+2027,Iran,Pakistan,0.0,1,0,0
+2027,Iran,Saudi Arabia,4.5,1,1,0
+2027,Iran,Turkey,0.0,0,1,0
+2027,Iran,Indonesia,0.0,0,0,0
+2027,Iran,Afghanistan,0.0,0,0,0
+2027,Israel,UK,0.0,0,0,1
+2027,Israel,France,0.0,0,0,1
+2027,Israel,Pakistan,0.0,0,0,1
+2027,Israel,Saudi Arabia,0.3,0,1,0
+2027,Israel,Turkey,0.3,0,1,0
+2027,Israel,Indonesia,0.0,0,0,0
+2027,Israel,Afghanistan,0.0,0,0,0
+2027,UK,France,0.0,0,1,1
+2027,UK,Pakistan,0.0,0,0,1
+2027,UK,Saudi Arabia,0.0,0,0,0
+2027,UK,Turkey,0.0,0,0,0
+2027,UK,Indonesia,0.0,0,0,0
+2027,UK,Afghanistan,0.0,1,0,0
+2027,France,Pakistan,0.0,0,0,1
+2027,France,Saudi Arabia,0.0,0,0,0
+2027,France,Turkey,0.0,0,0,0
+2027,France,Indonesia,0.0,0,0,0
+2027,France,Afghanistan,0.0,1,0,0
+2027,Pakistan,Saudi Arabia,0.0,0,0,0
+2027,Pakistan,Turkey,0.0,0,0,0
+2027,Pakistan,Indonesia,0.0,0,1,0
+2027,Pakistan,Afghanistan,15.8,1,1,0
+2027,Saudi Arabia,Turkey,0.0,0,1,0
+2027,Saudi Arabia,Indonesia,0.0,0,0,0
+2027,Saudi Arabia,Afghanistan,0.0,0,0,0
+2027,Turkey,Indonesia,0.0,0,0,0
+2027,Turkey,Afghanistan,0.0,0,0,0
+2027,Indonesia,Afghanistan,0.0,0,1,0
+2028,USA,Russia,0.0,0,0,1
+2028,USA,China,0.0,0,0,1
+2028,USA,India,0.0,0,0,1
+2028,USA,Iran,0.0,1,0,0
+2028,USA,Israel,0.0,0,0,1
+2028,USA,UK,0.0,0,0,1
+2028,USA,France,0.0,0,0,1
+2028,USA,Pakistan,0.0,0,0,1
+2028,USA,Saudi Arabia,0.0,0,0,0
+2028,USA,Turkey,0.0,0,0,0
+2028,USA,Indonesia,0.0,0,0,0
+2028,USA,Afghanistan,0.0,1,0,0
+2028,Russia,China,0.0,1,0,1
+2028,Russia,India,0.0,0,0,1
+2028,Russia,Iran,0.0,0,0,0
+2028,Russia,Israel,0.0,0,0,1
+2028,Russia,UK,0.0,0,0,1
+2028,Russia,France,0.0,0,0,1
+2028,Russia,Pakistan,0.0,0,0,1
+2028,Russia,Saudi Arabia,0.0,0,0,0
+2028,Russia,Turkey,0.0,1,0,0
+2028,Russia,Indonesia,0.0,0,0,0
+2028,Russia,Afghanistan,0.0,1,0,0
+2028,China,India,1.9,1,1,1
+2028,China,Iran,0.0,0,0,0
+2028,China,Israel,0.0,0,0,1
+2028,China,UK,0.0,0,0,1
+2028,China,France,0.0,0,0,1
+2028,China,Pakistan,0.0,0,1,1
+2028,China,Saudi Arabia,0.0,0,0,0
+2028,China,Turkey,0.0,0,0,0
+2028,China,Indonesia,0.0,0,1,0
+2028,China,Afghanistan,0.0,0,1,0
+2028,India,Iran,0.0,0,0,0
+2028,India,Israel,0.0,0,0,1
+2028,India,UK,0.0,0,0,1
+2028,India,France,0.0,0,0,1
+2028,India,Pakistan,42.9,1,1,1
+2028,India,Saudi Arabia,0.0,0,0,0
+2028,India,Turkey,0.0,0,0,0
+2028,India,Indonesia,0.0,0,1,0
+2028,India,Afghanistan,1.0,0,1,0
+2028,Iran,Israel,15.8,1,1,0
+2028,Iran,UK,0.0,0,0,0
+2028,Iran,France,0.0,0,0,0
+2028,Iran,Pakistan,0.0,1,0,0
+2028,Iran,Saudi Arabia,4.5,1,1,0
+2028,Iran,Turkey,0.0,0,1,0
+2028,Iran,Indonesia,0.0,0,0,0
+2028,Iran,Afghanistan,0.0,0,0,0
+2028,Israel,UK,0.0,0,0,1
+2028,Israel,France,0.0,0,0,1
+2028,Israel,Pakistan,0.0,0,0,1
+2028,Israel,Saudi Arabia,0.3,0,1,0
+2028,Israel,Turkey,0.3,0,1,0
+2028,Israel,Indonesia,0.0,0,0,0
+2028,Israel,Afghanistan,0.0,0,0,0
+2028,UK,France,0.0,0,1,1
+2028,UK,Pakistan,0.0,0,0,1
+2028,UK,Saudi Arabia,0.0,0,0,0
+2028,UK,Turkey,0.0,0,0,0
+2028,UK,Indonesia,0.0,0,0,0
+2028,UK,Afghanistan,0.0,1,0,0
+2028,France,Pakistan,0.0,0,0,1
+2028,France,Saudi Arabia,0.0,0,0,0
+2028,France,Turkey,0.0,0,0,0
+2028,France,Indonesia,0.0,0,0,0
+2028,France,Afghanistan,0.0,1,0,0
+2028,Pakistan,Saudi Arabia,0.0,0,0,0
+2028,Pakistan,Turkey,0.0,0,0,0
+2028,Pakistan,Indonesia,0.0,0,1,0
+2028,Pakistan,Afghanistan,15.8,1,1,0
+2028,Saudi Arabia,Turkey,0.0,0,1,0
+2028,Saudi Arabia,Indonesia,0.0,0,0,0
+2028,Saudi Arabia,Afghanistan,0.0,0,0,0
+2028,Turkey,Indonesia,0.0,0,0,0
+2028,Turkey,Afghanistan,0.0,0,0,0
+2028,Indonesia,Afghanistan,0.0,0,1,0
+2029,USA,Russia,0.0,0,0,1
+2029,USA,China,0.0,0,0,1
+2029,USA,India,0.0,0,0,1
+2029,USA,Iran,0.0,1,0,0
+2029,USA,Israel,0.0,0,0,1
+2029,USA,UK,0.0,0,0,1
+2029,USA,France,0.0,0,0,1
+2029,USA,Pakistan,0.0,0,0,1
+2029,USA,Saudi Arabia,0.0,0,0,0
+2029,USA,Turkey,0.0,0,0,0
+2029,USA,Indonesia,0.0,0,0,0
+2029,USA,Afghanistan,0.0,1,0,0
+2029,Russia,China,0.0,1,0,1
+2029,Russia,India,0.0,0,0,1
+2029,Russia,Iran,0.0,0,0,0
+2029,Russia,Israel,0.0,0,0,1
+2029,Russia,UK,0.0,0,0,1
+2029,Russia,France,0.0,0,0,1
+2029,Russia,Pakistan,0.0,0,0,1
+2029,Russia,Saudi Arabia,0.0,0,0,0
+2029,Russia,Turkey,0.0,1,0,0
+2029,Russia,Indonesia,0.0,0,0,0
+2029,Russia,Afghanistan,0.0,1,0,0
+2029,China,India,0.0,1,1,1
+2029,China,Iran,0.0,0,0,0
+2029,China,Israel,0.0,0,0,1
+2029,China,UK,0.0,0,0,1
+2029,China,France,0.0,0,0,1
+2029,China,Pakistan,0.0,0,1,1
+2029,China,Saudi Arabia,0.0,0,0,0
+2029,China,Turkey,0.0,0,0,0
+2029,China,Indonesia,0.0,0,1,0
+2029,China,Afghanistan,0.0,0,1,0
+2029,India,Iran,0.0,0,0,0
+2029,India,Israel,0.0,0,0,1
+2029,India,UK,0.0,0,0,1
+2029,India,France,0.0,0,0,1
+2029,India,Pakistan,0.0,1,1,1
+2029,India,Saudi Arabia,0.0,0,0,0
+2029,India,Turkey,0.0,0,0,0
+2029,India,Indonesia,0.0,0,1,0
+2029,India,Afghanistan,0.0,0,1,0
+2029,Iran,Israel,0.0,1,1,0
+2029,Iran,UK,0.0,0,0,0
+2029,Iran,France,0.0,0,0,0
+2029,Iran,Pakistan,0.0,1,0,0
+2029,Iran,Saudi Arabia,0.0,1,1,0
+2029,Iran,Turkey,0.0,0,1,0
+2029,Iran,Indonesia,0.0,0,0,0
+2029,Iran,Afghanistan,0.0,0,0,0
+2029,Israel,UK,0.0,0,0,1
+2029,Israel,France,0.0,0,0,1
+2029,Israel,Pakistan,0.0,0,0,1
+2029,Israel,Saudi Arabia,0.0,0,1,0
+2029,Israel,Turkey,0.0,0,1,0
+2029,Israel,Indonesia,0.0,0,0,0
+2029,Israel,Afghanistan,0.0,0,0,0
+2029,UK,France,0.0,0,1,1
+2029,UK,Pakistan,0.0,0,0,1
+2029,UK,Saudi Arabia,0.0,0,0,0
+2029,UK,Turkey,0.0,0,0,0
+2029,UK,Indonesia,0.0,0,0,0
+2029,UK,Afghanistan,0.0,1,0,0
+2029,France,Pakistan,0.0,0,0,1
+2029,France,Saudi Arabia,0.0,0,0,0
+2029,France,Turkey,0.0,0,0,0
+2029,France,Indonesia,0.0,0,0,0
+2029,France,Afghanistan,0.0,1,0,0
+2029,Pakistan,Saudi Arabia,0.0,0,0,0
+2029,Pakistan,Turkey,0.0,0,0,0
+2029,Pakistan,Indonesia,0.0,0,1,0
+2029,Pakistan,Afghanistan,0.0,1,1,0
+2029,Saudi Arabia,Turkey,0.0,0,1,0
+2029,Saudi Arabia,Indonesia,0.0,0,0,0
+2029,Saudi Arabia,Afghanistan,0.0,0,0,0
+2029,Turkey,Indonesia,0.0,0,0,0
+2029,Turkey,Afghanistan,0.0,0,0,0
+2029,Indonesia,Afghanistan,0.0,0,1,0
+2030,USA,Russia,0.0,0,0,1
+2030,USA,China,0.0,0,0,1
+2030,USA,India,0.0,0,0,1
+2030,USA,Iran,0.0,1,0,0
+2030,USA,Israel,0.0,0,0,1
+2030,USA,UK,0.0,0,0,1
+2030,USA,France,0.0,0,0,1
+2030,USA,Pakistan,0.0,0,0,1
+2030,USA,Saudi Arabia,0.0,0,0,0
+2030,USA,Turkey,0.0,0,0,0
+2030,USA,Indonesia,0.0,0,0,0
+2030,USA,Afghanistan,0.0,1,0,0
+2030,Russia,China,0.0,1,0,1
+2030,Russia,India,0.0,0,0,1
+2030,Russia,Iran,0.0,0,0,0
+2030,Russia,Israel,0.0,0,0,1
+2030,Russia,UK,0.0,0,0,1
+2030,Russia,France,0.0,0,0,1
+2030,Russia,Pakistan,0.0,0,0,1
+2030,Russia,Saudi Arabia,0.0,0,0,0
+2030,Russia,Turkey,0.0,1,0,0
+2030,Russia,Indonesia,0.0,0,0,0
+2030,Russia,Afghanistan,0.0,1,0,0
+2030,China,India,0.0,1,1,1
+2030,China,Iran,0.0,0,0,0
+2030,China,Israel,0.0,0,0,1
+2030,China,UK,0.0,0,0,1
+2030,China,France,0.0,0,0,1
+2030,China,Pakistan,0.0,0,1,1
+2030,China,Saudi Arabia,0.0,0,0,0
+2030,China,Turkey,0.0,0,0,0
+2030,China,Indonesia,0.0,0,1,0
+2030,China,Afghanistan,0.0,0,1,0
+2030,India,Iran,0.0,0,0,0
+2030,India,Israel,0.0,0,0,1
+2030,India,UK,0.0,0,0,1
+2030,India,France,0.0,0,0,1
+2030,India,Pakistan,0.0,1,1,1
+2030,India,Saudi Arabia,0.0,0,0,0
+2030,India,Turkey,0.0,0,0,0
+2030,India,Indonesia,0.0,0,1,0
+2030,India,Afghanistan,0.0,0,1,0
+2030,Iran,Israel,0.0,1,1,0
+2030,Iran,UK,0.0,0,0,0
+2030,Iran,France,0.0,0,0,0
+2030,Iran,Pakistan,0.0,1,0,0
+2030,Iran,Saudi Arabia,0.0,1,1,0
+2030,Iran,Turkey,0.0,0,1,0
+2030,Iran,Indonesia,0.0,0,0,0
+2030,Iran,Afghanistan,0.0,0,0,0
+2030,Israel,UK,0.0,0,0,1
+2030,Israel,France,0.0,0,0,1
+2030,Israel,Pakistan,0.0,0,0,1
+2030,Israel,Saudi Arabia,0.0,0,1,0
+2030,Israel,Turkey,0.0,0,1,0
+2030,Israel,Indonesia,0.0,0,0,0
+2030,Israel,Afghanistan,0.0,0,0,0
+2030,UK,France,0.0,0,1,1
+2030,UK,Pakistan,0.0,0,0,1
+2030,UK,Saudi Arabia,0.0,0,0,0
+2030,UK,Turkey,0.0,0,0,0
+2030,UK,Indonesia,0.0,0,0,0
+2030,UK,Afghanistan,0.0,1,0,0
+2030,France,Pakistan,0.0,0,0,1
+2030,France,Saudi Arabia,0.0,0,0,0
+2030,France,Turkey,0.0,0,0,0
+2030,France,Indonesia,0.0,0,0,0
+2030,France,Afghanistan,0.0,1,0,0
+2030,Pakistan,Saudi Arabia,0.0,0,0,0
+2030,Pakistan,Turkey,0.0,0,0,0
+2030,Pakistan,Indonesia,0.0,0,1,0
+2030,Pakistan,Afghanistan,0.0,1,1,0
+2030,Saudi Arabia,Turkey,0.0,0,1,0
+2030,Saudi Arabia,Indonesia,0.0,0,0,0
+2030,Saudi Arabia,Afghanistan,0.0,0,0,0
+2030,Turkey,Indonesia,0.0,0,0,0
+2030,Turkey,Afghanistan,0.0,0,0,0
+2030,Indonesia,Afghanistan,0.0,0,1,0
+2031,USA,Russia,0.0,0,0,1
+2031,USA,China,0.0,0,0,1
+2031,USA,India,0.0,0,0,1
+2031,USA,Iran,0.0,1,0,0
+2031,USA,Israel,0.0,0,0,1
+2031,USA,UK,0.0,0,0,1
+2031,USA,France,0.0,0,0,1
+2031,USA,Pakistan,0.0,0,0,1
+2031,USA,Saudi Arabia,0.0,0,0,0
+2031,USA,Turkey,0.0,0,0,0
+2031,USA,Indonesia,0.0,0,0,0
+2031,USA,Afghanistan,0.0,1,0,0
+2031,Russia,China,0.0,1,0,1
+2031,Russia,India,0.0,0,0,1
+2031,Russia,Iran,0.0,0,0,0
+2031,Russia,Israel,0.0,0,0,1
+2031,Russia,UK,0.0,0,0,1
+2031,Russia,France,0.0,0,0,1
+2031,Russia,Pakistan,0.0,0,0,1
+2031,Russia,Saudi Arabia,0.0,0,0,0
+2031,Russia,Turkey,0.0,1,0,0
+2031,Russia,Indonesia,0.0,0,0,0
+2031,Russia,Afghanistan,0.0,1,0,0
+2031,China,India,0.0,1,1,1
+2031,China,Iran,0.0,0,0,0
+2031,China,Israel,0.0,0,0,1
+2031,China,UK,0.0,0,0,1
+2031,China,France,0.0,0,0,1
+2031,China,Pakistan,0.0,0,1,1
+2031,China,Saudi Arabia,0.0,0,0,0
+2031,China,Turkey,0.0,0,0,0
+2031,China,Indonesia,0.0,0,1,0
+2031,China,Afghanistan,0.0,0,1,0
+2031,India,Iran,0.0,0,0,0
+2031,India,Israel,0.0,0,0,1
+2031,India,UK,0.0,0,0,1
+2031,India,France,0.0,0,0,1
+2031,India,Pakistan,0.0,1,1,1
+2031,India,Saudi Arabia,0.0,0,0,0
+2031,India,Turkey,0.0,0,0,0
+2031,India,Indonesia,0.0,0,1,0
+2031,India,Afghanistan,0.0,0,1,0
+2031,Iran,Israel,0.0,1,1,0
+2031,Iran,UK,0.0,0,0,0
+2031,Iran,France,0.0,0,0,0
+2031,Iran,Pakistan,0.0,1,0,0
+2031,Iran,Saudi Arabia,0.0,1,1,0
+2031,Iran,Turkey,0.0,0,1,0
+2031,Iran,Indonesia,0.0,0,0,0
+2031,Iran,Afghanistan,0.0,0,0,0
+2031,Israel,UK,0.0,0,0,1
+2031,Israel,France,0.0,0,0,1
+2031,Israel,Pakistan,0.0,0,0,1
+2031,Israel,Saudi Arabia,0.0,0,1,0
+2031,Israel,Turkey,0.0,0,1,0
+2031,Israel,Indonesia,0.0,0,0,0
+2031,Israel,Afghanistan,0.0,0,0,0
+2031,UK,France,0.0,0,1,1
+2031,UK,Pakistan,0.0,0,0,1
+2031,UK,Saudi Arabia,0.0,0,0,0
+2031,UK,Turkey,0.0,0,0,0
+2031,UK,Indonesia,0.0,0,0,0
+2031,UK,Afghanistan,0.0,1,0,0
+2031,France,Pakistan,0.0,0,0,1
+2031,France,Saudi Arabia,0.0,0,0,0
+2031,France,Turkey,0.0,0,0,0
+2031,France,Indonesia,0.0,0,0,0
+2031,France,Afghanistan,0.0,1,0,0
+2031,Pakistan,Saudi Arabia,0.0,0,0,0
+2031,Pakistan,Turkey,0.0,0,0,0
+2031,Pakistan,Indonesia,0.0,0,1,0
+2031,Pakistan,Afghanistan,0.0,1,1,0
+2031,Saudi Arabia,Turkey,0.0,0,1,0
+2031,Saudi Arabia,Indonesia,0.0,0,0,0
+2031,Saudi Arabia,Afghanistan,0.0,0,0,0
+2031,Turkey,Indonesia,0.0,0,0,0
+2031,Turkey,Afghanistan,0.0,0,0,0
+2031,Indonesia,Afghanistan,0.0,0,1,0
+2032,USA,Russia,0.0,0,0,1
+2032,USA,China,0.0,0,0,1
+2032,USA,India,0.0,0,0,1
+2032,USA,Iran,0.0,1,0,0
+2032,USA,Israel,0.0,0,0,1
+2032,USA,UK,0.0,0,0,1
+2032,USA,France,0.0,0,0,1
+2032,USA,Pakistan,0.0,0,0,1
+2032,USA,Saudi Arabia,0.0,0,0,0
+2032,USA,Turkey,0.0,0,0,0
+2032,USA,Indonesia,0.0,0,0,0
+2032,USA,Afghanistan,0.0,1,0,0
+2032,Russia,China,0.0,1,0,1
+2032,Russia,India,0.0,0,0,1
+2032,Russia,Iran,0.0,0,0,0
+2032,Russia,Israel,0.0,0,0,1
+2032,Russia,UK,0.0,0,0,1
+2032,Russia,France,0.0,0,0,1
+2032,Russia,Pakistan,0.0,0,0,1
+2032,Russia,Saudi Arabia,0.0,0,0,0
+2032,Russia,Turkey,0.0,1,0,0
+2032,Russia,Indonesia,0.0,0,0,0
+2032,Russia,Afghanistan,0.0,1,0,0
+2032,China,India,0.0,1,1,1
+2032,China,Iran,0.0,0,0,0
+2032,China,Israel,0.0,0,0,1
+2032,China,UK,0.0,0,0,1
+2032,China,France,0.0,0,0,1
+2032,China,Pakistan,0.0,0,1,1
+2032,China,Saudi Arabia,0.0,0,0,0
+2032,China,Turkey,0.0,0,0,0
+2032,China,Indonesia,0.0,0,1,0
+2032,China,Afghanistan,0.0,0,1,0
+2032,India,Iran,0.0,0,0,0
+2032,India,Israel,0.0,0,0,1
+2032,India,UK,0.0,0,0,1
+2032,India,France,0.0,0,0,1
+2032,India,Pakistan,0.0,1,1,1
+2032,India,Saudi Arabia,0.0,0,0,0
+2032,India,Turkey,0.0,0,0,0
+2032,India,Indonesia,0.0,0,1,0
+2032,India,Afghanistan,0.0,0,1,0
+2032,Iran,Israel,0.0,1,1,0
+2032,Iran,UK,0.0,0,0,0
+2032,Iran,France,0.0,0,0,0
+2032,Iran,Pakistan,0.0,1,0,0
+2032,Iran,Saudi Arabia,0.0,1,1,0
+2032,Iran,Turkey,0.0,0,1,0
+2032,Iran,Indonesia,0.0,0,0,0
+2032,Iran,Afghanistan,0.0,0,0,0
+2032,Israel,UK,0.0,0,0,1
+2032,Israel,France,0.0,0,0,1
+2032,Israel,Pakistan,0.0,0,0,1
+2032,Israel,Saudi Arabia,0.0,0,1,0
+2032,Israel,Turkey,0.0,0,1,0
+2032,Israel,Indonesia,0.0,0,0,0
+2032,Israel,Afghanistan,0.0,0,0,0
+2032,UK,France,0.0,0,1,1
+2032,UK,Pakistan,0.0,0,0,1
+2032,UK,Saudi Arabia,0.0,0,0,0
+2032,UK,Turkey,0.0,0,0,0
+2032,UK,Indonesia,0.0,0,0,0
+2032,UK,Afghanistan,0.0,1,0,0
+2032,France,Pakistan,0.0,0,0,1
+2032,France,Saudi Arabia,0.0,0,0,0
+2032,France,Turkey,0.0,0,0,0
+2032,France,Indonesia,0.0,0,0,0
+2032,France,Afghanistan,0.0,1,0,0
+2032,Pakistan,Saudi Arabia,0.0,0,0,0
+2032,Pakistan,Turkey,0.0,0,0,0
+2032,Pakistan,Indonesia,0.0,0,1,0
+2032,Pakistan,Afghanistan,0.0,1,1,0
+2032,Saudi Arabia,Turkey,0.0,0,1,0
+2032,Saudi Arabia,Indonesia,0.0,0,0,0
+2032,Saudi Arabia,Afghanistan,0.0,0,0,0
+2032,Turkey,Indonesia,0.0,0,0,0
+2032,Turkey,Afghanistan,0.0,0,0,0
+2032,Indonesia,Afghanistan,0.0,0,1,0
+2033,USA,Russia,0.0,0,0,1
+2033,USA,China,0.0,0,0,1
+2033,USA,India,0.0,0,0,1
+2033,USA,Iran,0.0,1,0,0
+2033,USA,Israel,0.0,0,0,1
+2033,USA,UK,0.0,0,0,1
+2033,USA,France,0.0,0,0,1
+2033,USA,Pakistan,0.0,0,0,1
+2033,USA,Saudi Arabia,0.0,0,0,0
+2033,USA,Turkey,0.0,0,0,0
+2033,USA,Indonesia,0.0,0,0,0
+2033,USA,Afghanistan,0.0,1,0,0
+2033,Russia,China,0.0,1,0,1
+2033,Russia,India,0.0,0,0,1
+2033,Russia,Iran,0.0,0,0,0
+2033,Russia,Israel,0.0,0,0,1
+2033,Russia,UK,0.0,0,0,1
+2033,Russia,France,0.0,0,0,1
+2033,Russia,Pakistan,0.0,0,0,1
+2033,Russia,Saudi Arabia,0.0,0,0,0
+2033,Russia,Turkey,0.0,1,0,0
+2033,Russia,Indonesia,0.0,0,0,0
+2033,Russia,Afghanistan,0.0,1,0,0
+2033,China,India,0.0,1,1,1
+2033,China,Iran,0.0,0,0,0
+2033,China,Israel,0.0,0,0,1
+2033,China,UK,0.0,0,0,1
+2033,China,France,0.0,0,0,1
+2033,China,Pakistan,0.0,0,1,1
+2033,China,Saudi Arabia,0.0,0,0,0
+2033,China,Turkey,0.0,0,0,0
+2033,China,Indonesia,0.0,0,1,0
+2033,China,Afghanistan,0.0,0,1,0
+2033,India,Iran,0.0,0,0,0
+2033,India,Israel,0.0,0,0,1
+2033,India,UK,0.0,0,0,1
+2033,India,France,0.0,0,0,1
+2033,India,Pakistan,0.0,1,1,1
+2033,India,Saudi Arabia,0.0,0,0,0
+2033,India,Turkey,0.0,0,0,0
+2033,India,Indonesia,0.0,0,1,0
+2033,India,Afghanistan,0.0,0,1,0
+2033,Iran,Israel,0.0,1,1,0
+2033,Iran,UK,0.0,0,0,0
+2033,Iran,France,0.0,0,0,0
+2033,Iran,Pakistan,0.0,1,0,0
+2033,Iran,Saudi Arabia,0.0,1,1,0
+2033,Iran,Turkey,0.0,0,1,0
+2033,Iran,Indonesia,0.0,0,0,0
+2033,Iran,Afghanistan,0.0,0,0,0
+2033,Israel,UK,0.0,0,0,1
+2033,Israel,France,0.0,0,0,1
+2033,Israel,Pakistan,0.0,0,0,1
+2033,Israel,Saudi Arabia,0.0,0,1,0
+2033,Israel,Turkey,0.0,0,1,0
+2033,Israel,Indonesia,0.0,0,0,0
+2033,Israel,Afghanistan,0.0,0,0,0
+2033,UK,France,0.0,0,1,1
+2033,UK,Pakistan,0.0,0,0,1
+2033,UK,Saudi Arabia,0.0,0,0,0
+2033,UK,Turkey,0.0,0,0,0
+2033,UK,Indonesia,0.0,0,0,0
+2033,UK,Afghanistan,0.0,1,0,0
+2033,France,Pakistan,0.0,0,0,1
+2033,France,Saudi Arabia,0.0,0,0,0
+2033,France,Turkey,0.0,0,0,0
+2033,France,Indonesia,0.0,0,0,0
+2033,France,Afghanistan,0.0,1,0,0
+2033,Pakistan,Saudi Arabia,0.0,0,0,0
+2033,Pakistan,Turkey,0.0,0,0,0
+2033,Pakistan,Indonesia,0.0,0,1,0
+2033,Pakistan,Afghanistan,0.0,1,1,0
+2033,Saudi Arabia,Turkey,0.0,0,1,0
+2033,Saudi Arabia,Indonesia,0.0,0,0,0
+2033,Saudi Arabia,Afghanistan,0.0,0,0,0
+2033,Turkey,Indonesia,0.0,0,0,0
+2033,Turkey,Afghanistan,0.0,0,0,0
+2033,Indonesia,Afghanistan,0.0,0,1,0
+2034,USA,Russia,0.0,0,0,1
+2034,USA,China,0.0,0,0,1
+2034,USA,India,0.0,0,0,1
+2034,USA,Iran,0.0,1,0,0
+2034,USA,Israel,0.0,0,0,1
+2034,USA,UK,0.0,0,0,1
+2034,USA,France,0.0,0,0,1
+2034,USA,Pakistan,0.0,0,0,1
+2034,USA,Saudi Arabia,0.0,0,0,0
+2034,USA,Turkey,0.0,0,0,0
+2034,USA,Indonesia,0.0,0,0,0
+2034,USA,Afghanistan,0.0,1,0,0
+2034,Russia,China,0.0,1,0,1
+2034,Russia,India,0.0,0,0,1
+2034,Russia,Iran,0.0,0,0,0
+2034,Russia,Israel,0.0,0,0,1
+2034,Russia,UK,0.0,0,0,1
+2034,Russia,France,0.0,0,0,1
+2034,Russia,Pakistan,0.0,0,0,1
+2034,Russia,Saudi Arabia,0.0,0,0,0
+2034,Russia,Turkey,0.0,1,0,0
+2034,Russia,Indonesia,0.0,0,0,0
+2034,Russia,Afghanistan,0.0,1,0,0
+2034,China,India,0.0,1,1,1
+2034,China,Iran,0.0,0,0,0
+2034,China,Israel,0.0,0,0,1
+2034,China,UK,0.0,0,0,1
+2034,China,France,0.0,0,0,1
+2034,China,Pakistan,0.0,0,1,1
+2034,China,Saudi Arabia,0.0,0,0,0
+2034,China,Turkey,0.0,0,0,0
+2034,China,Indonesia,0.0,0,1,0
+2034,China,Afghanistan,0.0,0,1,0
+2034,India,Iran,0.0,0,0,0
+2034,India,Israel,0.0,0,0,1
+2034,India,UK,0.0,0,0,1
+2034,India,France,0.0,0,0,1
+2034,India,Pakistan,0.0,1,1,1
+2034,India,Saudi Arabia,0.0,0,0,0
+2034,India,Turkey,0.0,0,0,0
+2034,India,Indonesia,0.0,0,1,0
+2034,India,Afghanistan,0.0,0,1,0
+2034,Iran,Israel,0.0,1,1,0
+2034,Iran,UK,0.0,0,0,0
+2034,Iran,France,0.0,0,0,0
+2034,Iran,Pakistan,0.0,1,0,0
+2034,Iran,Saudi Arabia,0.0,1,1,0
+2034,Iran,Turkey,0.0,0,1,0
+2034,Iran,Indonesia,0.0,0,0,0
+2034,Iran,Afghanistan,0.0,0,0,0
+2034,Israel,UK,0.0,0,0,1
+2034,Israel,France,0.0,0,0,1
+2034,Israel,Pakistan,0.0,0,0,1
+2034,Israel,Saudi Arabia,0.0,0,1,0
+2034,Israel,Turkey,0.0,0,1,0
+2034,Israel,Indonesia,0.0,0,0,0
+2034,Israel,Afghanistan,0.0,0,0,0
+2034,UK,France,0.0,0,1,1
+2034,UK,Pakistan,0.0,0,0,1
+2034,UK,Saudi Arabia,0.0,0,0,0
+2034,UK,Turkey,0.0,0,0,0
+2034,UK,Indonesia,0.0,0,0,0
+2034,UK,Afghanistan,0.0,1,0,0
+2034,France,Pakistan,0.0,0,0,1
+2034,France,Saudi Arabia,0.0,0,0,0
+2034,France,Turkey,0.0,0,0,0
+2034,France,Indonesia,0.0,0,0,0
+2034,France,Afghanistan,0.0,1,0,0
+2034,Pakistan,Saudi Arabia,0.0,0,0,0
+2034,Pakistan,Turkey,0.0,0,0,0
+2034,Pakistan,Indonesia,0.0,0,1,0
+2034,Pakistan,Afghanistan,0.0,1,1,0
+2034,Saudi Arabia,Turkey,0.0,0,1,0
+2034,Saudi Arabia,Indonesia,0.0,0,0,0
+2034,Saudi Arabia,Afghanistan,0.0,0,0,0
+2034,Turkey,Indonesia,0.0,0,0,0
+2034,Turkey,Afghanistan,0.0,0,0,0
+2034,Indonesia,Afghanistan,0.0,0,1,0
+2035,USA,Russia,0.0,0,0,1
+2035,USA,China,0.0,0,0,1
+2035,USA,India,0.0,0,0,1
+2035,USA,Iran,0.0,1,0,0
+2035,USA,Israel,0.0,0,0,1
+2035,USA,UK,0.0,0,0,1
+2035,USA,France,0.0,0,0,1
+2035,USA,Pakistan,0.0,0,0,1
+2035,USA,Saudi Arabia,0.0,0,0,0
+2035,USA,Turkey,0.0,0,0,0
+2035,USA,Indonesia,0.0,0,0,0
+2035,USA,Afghanistan,0.0,1,0,0
+2035,Russia,China,0.0,1,0,1
+2035,Russia,India,0.0,0,0,1
+2035,Russia,Iran,0.0,0,0,0
+2035,Russia,Israel,0.0,0,0,1
+2035,Russia,UK,0.0,0,0,1
+2035,Russia,France,0.0,0,0,1
+2035,Russia,Pakistan,0.0,0,0,1
+2035,Russia,Saudi Arabia,0.0,0,0,0
+2035,Russia,Turkey,0.0,1,0,0
+2035,Russia,Indonesia,0.0,0,0,0
+2035,Russia,Afghanistan,0.0,1,0,0
+2035,China,India,0.0,1,1,1
+2035,China,Iran,0.0,0,0,0
+2035,China,Israel,0.0,0,0,1
+2035,China,UK,0.0,0,0,1
+2035,China,France,0.0,0,0,1
+2035,China,Pakistan,0.0,0,1,1
+2035,China,Saudi Arabia,0.0,0,0,0
+2035,China,Turkey,0.0,0,0,0
+2035,China,Indonesia,0.0,0,1,0
+2035,China,Afghanistan,0.0,0,1,0
+2035,India,Iran,0.0,0,0,0
+2035,India,Israel,0.0,0,0,1
+2035,India,UK,0.0,0,0,1
+2035,India,France,0.0,0,0,1
+2035,India,Pakistan,0.0,1,1,1
+2035,India,Saudi Arabia,0.0,0,0,0
+2035,India,Turkey,0.0,0,0,0
+2035,India,Indonesia,0.0,0,1,0
+2035,India,Afghanistan,0.0,0,1,0
+2035,Iran,Israel,0.0,1,1,0
+2035,Iran,UK,0.0,0,0,0
+2035,Iran,France,0.0,0,0,0
+2035,Iran,Pakistan,0.0,1,0,0
+2035,Iran,Saudi Arabia,0.0,1,1,0
+2035,Iran,Turkey,0.0,0,1,0
+2035,Iran,Indonesia,0.0,0,0,0
+2035,Iran,Afghanistan,0.0,0,0,0
+2035,Israel,UK,0.0,0,0,1
+2035,Israel,France,0.0,0,0,1
+2035,Israel,Pakistan,0.0,0,0,1
+2035,Israel,Saudi Arabia,0.0,0,1,0
+2035,Israel,Turkey,0.0,0,1,0
+2035,Israel,Indonesia,0.0,0,0,0
+2035,Israel,Afghanistan,0.0,0,0,0
+2035,UK,France,0.0,0,1,1
+2035,UK,Pakistan,0.0,0,0,1
+2035,UK,Saudi Arabia,0.0,0,0,0
+2035,UK,Turkey,0.0,0,0,0
+2035,UK,Indonesia,0.0,0,0,0
+2035,UK,Afghanistan,0.0,1,0,0
+2035,France,Pakistan,0.0,0,0,1
+2035,France,Saudi Arabia,0.0,0,0,0
+2035,France,Turkey,0.0,0,0,0
+2035,France,Indonesia,0.0,0,0,0
+2035,France,Afghanistan,0.0,1,0,0
+2035,Pakistan,Saudi Arabia,0.0,0,0,0
+2035,Pakistan,Turkey,0.0,0,0,0
+2035,Pakistan,Indonesia,0.0,0,1,0
+2035,Pakistan,Afghanistan,0.0,1,1,0
+2035,Saudi Arabia,Turkey,0.0,0,1,0
+2035,Saudi Arabia,Indonesia,0.0,0,0,0
+2035,Saudi Arabia,Afghanistan,0.0,0,0,0
+2035,Turkey,Indonesia,0.0,0,0,0
+2035,Turkey,Afghanistan,0.0,0,0,0
+2035,Indonesia,Afghanistan,0.0,0,1,0
+2036,USA,Russia,0.0,0,0,1
+2036,USA,China,0.0,0,0,1
+2036,USA,India,0.0,0,0,1
+2036,USA,Iran,0.0,1,0,0
+2036,USA,Israel,0.0,0,0,1
+2036,USA,UK,0.0,0,0,1
+2036,USA,France,0.0,0,0,1
+2036,USA,Pakistan,0.0,0,0,1
+2036,USA,Saudi Arabia,0.0,0,0,0
+2036,USA,Turkey,0.0,0,0,0
+2036,USA,Indonesia,0.0,0,0,0
+2036,USA,Afghanistan,0.0,1,0,0
+2036,Russia,China,0.0,1,0,1
+2036,Russia,India,0.0,0,0,1
+2036,Russia,Iran,0.0,0,0,0
+2036,Russia,Israel,0.0,0,0,1
+2036,Russia,UK,0.0,0,0,1
+2036,Russia,France,0.0,0,0,1
+2036,Russia,Pakistan,0.0,0,0,1
+2036,Russia,Saudi Arabia,0.0,0,0,0
+2036,Russia,Turkey,0.0,1,0,0
+2036,Russia,Indonesia,0.0,0,0,0
+2036,Russia,Afghanistan,0.0,1,0,0
+2036,China,India,0.0,1,1,1
+2036,China,Iran,0.0,0,0,0
+2036,China,Israel,0.0,0,0,1
+2036,China,UK,0.0,0,0,1
+2036,China,France,0.0,0,0,1
+2036,China,Pakistan,0.0,0,1,1
+2036,China,Saudi Arabia,0.0,0,0,0
+2036,China,Turkey,0.0,0,0,0
+2036,China,Indonesia,0.0,0,1,0
+2036,China,Afghanistan,0.0,0,1,0
+2036,India,Iran,0.0,0,0,0
+2036,India,Israel,0.0,0,0,1
+2036,India,UK,0.0,0,0,1
+2036,India,France,0.0,0,0,1
+2036,India,Pakistan,0.0,1,1,1
+2036,India,Saudi Arabia,0.0,0,0,0
+2036,India,Turkey,0.0,0,0,0
+2036,India,Indonesia,0.0,0,1,0
+2036,India,Afghanistan,0.0,0,1,0
+2036,Iran,Israel,0.0,1,1,0
+2036,Iran,UK,0.0,0,0,0
+2036,Iran,France,0.0,0,0,0
+2036,Iran,Pakistan,0.0,1,0,0
+2036,Iran,Saudi Arabia,0.0,1,1,0
+2036,Iran,Turkey,0.0,0,1,0
+2036,Iran,Indonesia,0.0,0,0,0
+2036,Iran,Afghanistan,0.0,0,0,0
+2036,Israel,UK,0.0,0,0,1
+2036,Israel,France,0.0,0,0,1
+2036,Israel,Pakistan,0.0,0,0,1
+2036,Israel,Saudi Arabia,0.0,0,1,0
+2036,Israel,Turkey,0.0,0,1,0
+2036,Israel,Indonesia,0.0,0,0,0
+2036,Israel,Afghanistan,0.0,0,0,0
+2036,UK,France,0.0,0,1,1
+2036,UK,Pakistan,0.0,0,0,1
+2036,UK,Saudi Arabia,0.0,0,0,0
+2036,UK,Turkey,0.0,0,0,0
+2036,UK,Indonesia,0.0,0,0,0
+2036,UK,Afghanistan,0.0,1,0,0
+2036,France,Pakistan,0.0,0,0,1
+2036,France,Saudi Arabia,0.0,0,0,0
+2036,France,Turkey,0.0,0,0,0
+2036,France,Indonesia,0.0,0,0,0
+2036,France,Afghanistan,0.0,1,0,0
+2036,Pakistan,Saudi Arabia,0.0,0,0,0
+2036,Pakistan,Turkey,0.0,0,0,0
+2036,Pakistan,Indonesia,0.0,0,1,0
+2036,Pakistan,Afghanistan,0.0,1,1,0
+2036,Saudi Arabia,Turkey,0.0,0,1,0
+2036,Saudi Arabia,Indonesia,0.0,0,0,0
+2036,Saudi Arabia,Afghanistan,0.0,0,0,0
+2036,Turkey,Indonesia,0.0,0,0,0
+2036,Turkey,Afghanistan,0.0,0,0,0
+2036,Indonesia,Afghanistan,0.0,0,1,0
+2037,USA,Russia,0.0,0,0,1
+2037,USA,China,0.0,0,0,1
+2037,USA,India,0.0,0,0,1
+2037,USA,Iran,0.0,1,0,0
+2037,USA,Israel,0.0,0,0,1
+2037,USA,UK,0.0,0,0,1
+2037,USA,France,0.0,0,0,1
+2037,USA,Pakistan,0.0,0,0,1
+2037,USA,Saudi Arabia,0.0,0,0,0
+2037,USA,Turkey,0.0,0,0,0
+2037,USA,Indonesia,0.0,0,0,0
+2037,USA,Afghanistan,0.0,1,0,0
+2037,Russia,China,0.0,1,0,1
+2037,Russia,India,0.0,0,0,1
+2037,Russia,Iran,0.0,0,0,0
+2037,Russia,Israel,0.0,0,0,1
+2037,Russia,UK,0.0,0,0,1
+2037,Russia,France,0.0,0,0,1
+2037,Russia,Pakistan,0.0,0,0,1
+2037,Russia,Saudi Arabia,0.0,0,0,0
+2037,Russia,Turkey,0.0,1,0,0
+2037,Russia,Indonesia,0.0,0,0,0
+2037,Russia,Afghanistan,0.0,1,0,0
+2037,China,India,0.0,1,1,1
+2037,China,Iran,0.0,0,0,0
+2037,China,Israel,0.0,0,0,1
+2037,China,UK,0.0,0,0,1
+2037,China,France,0.0,0,0,1
+2037,China,Pakistan,0.0,0,1,1
+2037,China,Saudi Arabia,0.0,0,0,0
+2037,China,Turkey,0.0,0,0,0
+2037,China,Indonesia,0.0,0,1,0
+2037,China,Afghanistan,0.0,0,1,0
+2037,India,Iran,0.0,0,0,0
+2037,India,Israel,0.0,0,0,1
+2037,India,UK,0.0,0,0,1
+2037,India,France,0.0,0,0,1
+2037,India,Pakistan,0.0,1,1,1
+2037,India,Saudi Arabia,0.0,0,0,0
+2037,India,Turkey,0.0,0,0,0
+2037,India,Indonesia,0.0,0,1,0
+2037,India,Afghanistan,0.0,0,1,0
+2037,Iran,Israel,0.0,1,1,0
+2037,Iran,UK,0.0,0,0,0
+2037,Iran,France,0.0,0,0,0
+2037,Iran,Pakistan,0.0,1,0,0
+2037,Iran,Saudi Arabia,0.0,1,1,0
+2037,Iran,Turkey,0.0,0,1,0
+2037,Iran,Indonesia,0.0,0,0,0
+2037,Iran,Afghanistan,0.0,0,0,0
+2037,Israel,UK,0.0,0,0,1
+2037,Israel,France,0.0,0,0,1
+2037,Israel,Pakistan,0.0,0,0,1
+2037,Israel,Saudi Arabia,0.0,0,1,0
+2037,Israel,Turkey,0.0,0,1,0
+2037,Israel,Indonesia,0.0,0,0,0
+2037,Israel,Afghanistan,0.0,0,0,0
+2037,UK,France,0.0,0,1,1
+2037,UK,Pakistan,0.0,0,0,1
+2037,UK,Saudi Arabia,0.0,0,0,0
+2037,UK,Turkey,0.0,0,0,0
+2037,UK,Indonesia,0.0,0,0,0
+2037,UK,Afghanistan,0.0,1,0,0
+2037,France,Pakistan,0.0,0,0,1
+2037,France,Saudi Arabia,0.0,0,0,0
+2037,France,Turkey,0.0,0,0,0
+2037,France,Indonesia,0.0,0,0,0
+2037,France,Afghanistan,0.0,1,0,0
+2037,Pakistan,Saudi Arabia,0.0,0,0,0
+2037,Pakistan,Turkey,0.0,0,0,0
+2037,Pakistan,Indonesia,0.0,0,1,0
+2037,Pakistan,Afghanistan,0.0,1,1,0
+2037,Saudi Arabia,Turkey,0.0,0,1,0
+2037,Saudi Arabia,Indonesia,0.0,0,0,0
+2037,Saudi Arabia,Afghanistan,0.0,0,0,0
+2037,Turkey,Indonesia,0.0,0,0,0
+2037,Turkey,Afghanistan,0.0,0,0,0
+2037,Indonesia,Afghanistan,0.0,0,1,0
+2038,USA,Russia,0.0,0,0,1
+2038,USA,China,0.0,0,0,1
+2038,USA,India,0.0,0,0,1
+2038,USA,Iran,0.0,1,0,0
+2038,USA,Israel,0.0,0,0,1
+2038,USA,UK,0.0,0,0,1
+2038,USA,France,0.0,0,0,1
+2038,USA,Pakistan,0.0,0,0,1
+2038,USA,Saudi Arabia,0.0,0,0,0
+2038,USA,Turkey,0.0,0,0,0
+2038,USA,Indonesia,0.0,0,0,0
+2038,USA,Afghanistan,0.0,1,0,0
+2038,Russia,China,0.0,1,0,1
+2038,Russia,India,0.0,0,0,1
+2038,Russia,Iran,0.0,0,0,0
+2038,Russia,Israel,0.0,0,0,1
+2038,Russia,UK,0.0,0,0,1
+2038,Russia,France,0.0,0,0,1
+2038,Russia,Pakistan,0.0,0,0,1
+2038,Russia,Saudi Arabia,0.0,0,0,0
+2038,Russia,Turkey,0.0,1,0,0
+2038,Russia,Indonesia,0.0,0,0,0
+2038,Russia,Afghanistan,0.0,1,0,0
+2038,China,India,0.0,1,1,1
+2038,China,Iran,0.0,0,0,0
+2038,China,Israel,0.0,0,0,1
+2038,China,UK,0.0,0,0,1
+2038,China,France,0.0,0,0,1
+2038,China,Pakistan,0.0,0,1,1
+2038,China,Saudi Arabia,0.0,0,0,0
+2038,China,Turkey,0.0,0,0,0
+2038,China,Indonesia,0.0,0,1,0
+2038,China,Afghanistan,0.0,0,1,0
+2038,India,Iran,0.0,0,0,0
+2038,India,Israel,0.0,0,0,1
+2038,India,UK,0.0,0,0,1
+2038,India,France,0.0,0,0,1
+2038,India,Pakistan,0.0,1,1,1
+2038,India,Saudi Arabia,0.0,0,0,0
+2038,India,Turkey,0.0,0,0,0
+2038,India,Indonesia,0.0,0,1,0
+2038,India,Afghanistan,0.0,0,1,0
+2038,Iran,Israel,0.0,1,1,0
+2038,Iran,UK,0.0,0,0,0
+2038,Iran,France,0.0,0,0,0
+2038,Iran,Pakistan,0.0,1,0,0
+2038,Iran,Saudi Arabia,0.0,1,1,0
+2038,Iran,Turkey,0.0,0,1,0
+2038,Iran,Indonesia,0.0,0,0,0
+2038,Iran,Afghanistan,0.0,0,0,0
+2038,Israel,UK,0.0,0,0,1
+2038,Israel,France,0.0,0,0,1
+2038,Israel,Pakistan,0.0,0,0,1
+2038,Israel,Saudi Arabia,0.0,0,1,0
+2038,Israel,Turkey,0.0,0,1,0
+2038,Israel,Indonesia,0.0,0,0,0
+2038,Israel,Afghanistan,0.0,0,0,0
+2038,UK,France,0.0,0,1,1
+2038,UK,Pakistan,0.0,0,0,1
+2038,UK,Saudi Arabia,0.0,0,0,0
+2038,UK,Turkey,0.0,0,0,0
+2038,UK,Indonesia,0.0,0,0,0
+2038,UK,Afghanistan,0.0,1,0,0
+2038,France,Pakistan,0.0,0,0,1
+2038,France,Saudi Arabia,0.0,0,0,0
+2038,France,Turkey,0.0,0,0,0
+2038,France,Indonesia,0.0,0,0,0
+2038,France,Afghanistan,0.0,1,0,0
+2038,Pakistan,Saudi Arabia,0.0,0,0,0
+2038,Pakistan,Turkey,0.0,0,0,0
+2038,Pakistan,Indonesia,0.0,0,1,0
+2038,Pakistan,Afghanistan,0.0,1,1,0
+2038,Saudi Arabia,Turkey,0.0,0,1,0
+2038,Saudi Arabia,Indonesia,0.0,0,0,0
+2038,Saudi Arabia,Afghanistan,0.0,0,0,0
+2038,Turkey,Indonesia,0.0,0,0,0
+2038,Turkey,Afghanistan,0.0,0,0,0
+2038,Indonesia,Afghanistan,0.0,0,1,0
+2039,USA,Russia,0.0,0,0,1
+2039,USA,China,0.0,0,0,1
+2039,USA,India,0.0,0,0,1
+2039,USA,Iran,0.0,1,0,0
+2039,USA,Israel,0.0,0,0,1
+2039,USA,UK,0.0,0,0,1
+2039,USA,France,0.0,0,0,1
+2039,USA,Pakistan,0.0,0,0,1
+2039,USA,Saudi Arabia,0.0,0,0,0
+2039,USA,Turkey,0.0,0,0,0
+2039,USA,Indonesia,0.0,0,0,0
+2039,USA,Afghanistan,0.0,1,0,0
+2039,Russia,China,0.0,1,0,1
+2039,Russia,India,0.0,0,0,1
+2039,Russia,Iran,0.0,0,0,0
+2039,Russia,Israel,0.0,0,0,1
+2039,Russia,UK,0.0,0,0,1
+2039,Russia,France,0.0,0,0,1
+2039,Russia,Pakistan,0.0,0,0,1
+2039,Russia,Saudi Arabia,0.0,0,0,0
+2039,Russia,Turkey,0.0,1,0,0
+2039,Russia,Indonesia,0.0,0,0,0
+2039,Russia,Afghanistan,0.0,1,0,0
+2039,China,India,0.0,1,1,1
+2039,China,Iran,0.0,0,0,0
+2039,China,Israel,0.0,0,0,1
+2039,China,UK,0.0,0,0,1
+2039,China,France,0.0,0,0,1
+2039,China,Pakistan,0.0,0,1,1
+2039,China,Saudi Arabia,0.0,0,0,0
+2039,China,Turkey,0.0,0,0,0
+2039,China,Indonesia,0.0,0,1,0
+2039,China,Afghanistan,0.0,0,1,0
+2039,India,Iran,0.0,0,0,0
+2039,India,Israel,0.0,0,0,1
+2039,India,UK,0.0,0,0,1
+2039,India,France,0.0,0,0,1
+2039,India,Pakistan,0.0,1,1,1
+2039,India,Saudi Arabia,0.0,0,0,0
+2039,India,Turkey,0.0,0,0,0
+2039,India,Indonesia,0.0,0,1,0
+2039,India,Afghanistan,0.0,0,1,0
+2039,Iran,Israel,0.0,1,1,0
+2039,Iran,UK,0.0,0,0,0
+2039,Iran,France,0.0,0,0,0
+2039,Iran,Pakistan,0.0,1,0,0
+2039,Iran,Saudi Arabia,0.0,1,1,0
+2039,Iran,Turkey,0.0,0,1,0
+2039,Iran,Indonesia,0.0,0,0,0
+2039,Iran,Afghanistan,0.0,0,0,0
+2039,Israel,UK,0.0,0,0,1
+2039,Israel,France,0.0,0,0,1
+2039,Israel,Pakistan,0.0,0,0,1
+2039,Israel,Saudi Arabia,0.0,0,1,0
+2039,Israel,Turkey,0.0,0,1,0
+2039,Israel,Indonesia,0.0,0,0,0
+2039,Israel,Afghanistan,0.0,0,0,0
+2039,UK,France,0.0,0,1,1
+2039,UK,Pakistan,0.0,0,0,1
+2039,UK,Saudi Arabia,0.0,0,0,0
+2039,UK,Turkey,0.0,0,0,0
+2039,UK,Indonesia,0.0,0,0,0
+2039,UK,Afghanistan,0.0,1,0,0
+2039,France,Pakistan,0.0,0,0,1
+2039,France,Saudi Arabia,0.0,0,0,0
+2039,France,Turkey,0.0,0,0,0
+2039,France,Indonesia,0.0,0,0,0
+2039,France,Afghanistan,0.0,1,0,0
+2039,Pakistan,Saudi Arabia,0.0,0,0,0
+2039,Pakistan,Turkey,0.0,0,0,0
+2039,Pakistan,Indonesia,0.0,0,1,0
+2039,Pakistan,Afghanistan,0.0,1,1,0
+2039,Saudi Arabia,Turkey,0.0,0,1,0
+2039,Saudi Arabia,Indonesia,0.0,0,0,0
+2039,Saudi Arabia,Afghanistan,0.0,0,0,0
+2039,Turkey,Indonesia,0.0,0,0,0
+2039,Turkey,Afghanistan,0.0,0,0,0
+2039,Indonesia,Afghanistan,0.0,0,1,0
+2040,USA,Russia,0.0,0,0,1
+2040,USA,China,0.0,0,0,1
+2040,USA,India,0.0,0,0,1
+2040,USA,Iran,0.0,1,0,0
+2040,USA,Israel,0.0,0,0,1
+2040,USA,UK,0.0,0,0,1
+2040,USA,France,0.0,0,0,1
+2040,USA,Pakistan,0.0,0,0,1
+2040,USA,Saudi Arabia,0.0,0,0,0
+2040,USA,Turkey,0.0,0,0,0
+2040,USA,Indonesia,0.0,0,0,0
+2040,USA,Afghanistan,0.0,1,0,0
+2040,Russia,China,0.0,1,0,1
+2040,Russia,India,0.0,0,0,1
+2040,Russia,Iran,0.0,0,0,0
+2040,Russia,Israel,0.0,0,0,1
+2040,Russia,UK,0.0,0,0,1
+2040,Russia,France,0.0,0,0,1
+2040,Russia,Pakistan,0.0,0,0,1
+2040,Russia,Saudi Arabia,0.0,0,0,0
+2040,Russia,Turkey,0.0,1,0,0
+2040,Russia,Indonesia,0.0,0,0,0
+2040,Russia,Afghanistan,0.0,1,0,0
+2040,China,India,0.0,1,1,1
+2040,China,Iran,0.0,0,0,0
+2040,China,Israel,0.0,0,0,1
+2040,China,UK,0.0,0,0,1
+2040,China,France,0.0,0,0,1
+2040,China,Pakistan,0.0,0,1,1
+2040,China,Saudi Arabia,0.0,0,0,0
+2040,China,Turkey,0.0,0,0,0
+2040,China,Indonesia,0.0,0,1,0
+2040,China,Afghanistan,0.0,0,1,0
+2040,India,Iran,0.0,0,0,0
+2040,India,Israel,0.0,0,0,1
+2040,India,UK,0.0,0,0,1
+2040,India,France,0.0,0,0,1
+2040,India,Pakistan,0.0,1,1,1
+2040,India,Saudi Arabia,0.0,0,0,0
+2040,India,Turkey,0.0,0,0,0
+2040,India,Indonesia,0.0,0,1,0
+2040,India,Afghanistan,0.0,0,1,0
+2040,Iran,Israel,0.0,1,1,0
+2040,Iran,UK,0.0,0,0,0
+2040,Iran,France,0.0,0,0,0
+2040,Iran,Pakistan,0.0,1,0,0
+2040,Iran,Saudi Arabia,0.0,1,1,0
+2040,Iran,Turkey,0.0,0,1,0
+2040,Iran,Indonesia,0.0,0,0,0
+2040,Iran,Afghanistan,0.0,0,0,0
+2040,Israel,UK,0.0,0,0,1
+2040,Israel,France,0.0,0,0,1
+2040,Israel,Pakistan,0.0,0,0,1
+2040,Israel,Saudi Arabia,0.0,0,1,0
+2040,Israel,Turkey,0.0,0,1,0
+2040,Israel,Indonesia,0.0,0,0,0
+2040,Israel,Afghanistan,0.0,0,0,0
+2040,UK,France,0.0,0,1,1
+2040,UK,Pakistan,0.0,0,0,1
+2040,UK,Saudi Arabia,0.0,0,0,0
+2040,UK,Turkey,0.0,0,0,0
+2040,UK,Indonesia,0.0,0,0,0
+2040,UK,Afghanistan,0.0,1,0,0
+2040,France,Pakistan,0.0,0,0,1
+2040,France,Saudi Arabia,0.0,0,0,0
+2040,France,Turkey,0.0,0,0,0
+2040,France,Indonesia,0.0,0,0,0
+2040,France,Afghanistan,0.0,1,0,0
+2040,Pakistan,Saudi Arabia,0.0,0,0,0
+2040,Pakistan,Turkey,0.0,0,0,0
+2040,Pakistan,Indonesia,0.0,0,1,0
+2040,Pakistan,Afghanistan,0.0,1,1,0
+2040,Saudi Arabia,Turkey,0.0,0,1,0
+2040,Saudi Arabia,Indonesia,0.0,0,0,0
+2040,Saudi Arabia,Afghanistan,0.0,0,0,0
+2040,Turkey,Indonesia,0.0,0,0,0
+2040,Turkey,Afghanistan,0.0,0,0,0
+2040,Indonesia,Afghanistan,0.0,0,1,0

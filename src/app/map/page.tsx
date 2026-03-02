@@ -19,6 +19,13 @@ interface NewsArticle {
   sentiment?: 'positive' | 'negative' | 'neutral'
 }
 
+interface Rivalry {
+  country_a: string
+  country_b: string
+  conflict_probability: number
+  risk_color: string
+}
+
 const COUNTRY_COORDS: Record<string, [number, number]> = {
   'USA': [37.09, -95.71],
   'Russia': [61.52, 105.31],
@@ -53,6 +60,8 @@ export default function MapPage() {
   const [news, setNews] = useState<NewsArticle[]>([])
   const [newsLoading, setNewsLoading] = useState(false)
   const [loading, setLoading] = useState(true)
+  const [rivalries, setRivalries] = useState<Rivalry[]>([])
+  const [showRivalryLines, setShowRivalryLines] = useState(true)
   const mapRef = useRef<any>(null)
   const [mapLoaded, setMapLoaded] = useState(false)
 
@@ -61,6 +70,13 @@ export default function MapPage() {
       .then(r => r.json())
       .then(data => { setCountries(data); setLoading(false) })
   }, [])
+
+  // Fetch rivalries for selected year
+  useEffect(() => {
+    fetch(`${process.env.NEXT_PUBLIC_API_URL}/rivalries?year=${selectedYear}`)
+      .then(r => r.json())
+      .then(data => setRivalries(data.filter((r: Rivalry) => r.conflict_probability >= 15)))
+  }, [selectedYear])
 
   useEffect(() => {
     if (countries.length === 0) return
@@ -99,7 +115,14 @@ export default function MapPage() {
     if (typeof window === 'undefined' || mapLoaded) return
     const loadMap = async () => {
       const L = (await import('leaflet')).default
-      await import('leaflet/dist/leaflet.css')
+      // Fix leaflet CSS import — use dynamic style injection instead
+      if (!document.getElementById('leaflet-css')) {
+        const link = document.createElement('link')
+        link.id = 'leaflet-css'
+        link.rel = 'stylesheet'
+        link.href = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css'
+        document.head.appendChild(link)
+      }
       if (mapRef.current) return
       const map = L.map('map', { center: [25, 20], zoom: 2, zoomControl: true })
       mapRef.current = map
@@ -111,6 +134,7 @@ export default function MapPage() {
     loadMap()
   }, [])
 
+  // Draw markers
   useEffect(() => {
     if (!mapLoaded || !mapRef.current || Object.keys(yearData).length === 0) return
     const addMarkers = async () => {
@@ -136,6 +160,38 @@ export default function MapPage() {
     }
     addMarkers()
   }, [mapLoaded, yearData])
+
+  // Draw rivalry lines
+  useEffect(() => {
+    if (!mapLoaded || !mapRef.current || rivalries.length === 0) return
+    const drawLines = async () => {
+      const L = (await import('leaflet')).default
+      // Remove old rivalry lines
+      mapRef.current.eachLayer((layer: any) => {
+        if (layer._isRivalryLine) mapRef.current.removeLayer(layer)
+      })
+      if (!showRivalryLines) return
+      rivalries.forEach(r => {
+        const coordsA = COUNTRY_COORDS[r.country_a]
+        const coordsB = COUNTRY_COORDS[r.country_b]
+        if (!coordsA || !coordsB) return
+        const opacity = Math.min(0.9, r.conflict_probability / 100 + 0.2)
+        const weight = r.conflict_probability >= 70 ? 3 : r.conflict_probability >= 30 ? 2 : 1
+        const line = L.polyline([coordsA, coordsB], {
+          color: r.risk_color,
+          weight,
+          opacity,
+          dashArray: r.conflict_probability >= 50 ? undefined : '6, 6',
+        }).addTo(mapRef.current)
+        ;(line as any)._isRivalryLine = true
+        line.bindTooltip(
+          `<b>${r.country_a} ⚔ ${r.country_b}</b><br/>${r.conflict_probability}% conflict probability`,
+          { sticky: true }
+        )
+      })
+    }
+    drawLines()
+  }, [mapLoaded, rivalries, showRivalryLines])
 
   const getRiskColor = (score: number) => {
     if (score >= 70) return '#ef4444'
@@ -168,7 +224,18 @@ export default function MapPage() {
       <div style={{ borderBottom: '1px solid rgba(255,255,255,0.08)', padding: '16px 32px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexShrink: 0 }}>
         <Link href="/" style={{ color: '#475569', textDecoration: 'none', fontSize: 11, letterSpacing: 3 }}>← BACK TO MONITOR</Link>
         <div style={{ fontSize: 14, fontWeight: 700, color: '#f8fafc', letterSpacing: 3 }}>CONFLICT MAP {selectedYear}</div>
-        <div style={{ fontSize: 11, color: '#22c55e', letterSpacing: 2 }}>● LIVE NEWS FEED</div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
+          {/* Toggle rivalry lines */}
+          <button onClick={() => setShowRivalryLines(v => !v)} style={{
+            fontSize: 10, letterSpacing: 2, cursor: 'pointer', padding: '4px 12px',
+            borderRadius: 4, border: `1px solid ${showRivalryLines ? '#ef4444' : 'rgba(255,255,255,0.1)'}`,
+            background: showRivalryLines ? 'rgba(239,68,68,0.15)' : 'transparent',
+            color: showRivalryLines ? '#ef4444' : '#64748b',
+          }}>
+            ⚔ {showRivalryLines ? 'HIDE' : 'SHOW'} RIVALRIES
+          </button>
+          <div style={{ fontSize: 11, color: '#22c55e', letterSpacing: 2 }}>● LIVE NEWS FEED</div>
+        </div>
       </div>
 
       <div style={{ padding: '16px 32px', borderBottom: '1px solid rgba(255,255,255,0.06)', background: 'rgba(255,255,255,0.02)', flexShrink: 0 }}>
@@ -191,6 +258,24 @@ export default function MapPage() {
           </div>
         </div>
       </div>
+
+      {/* Rivalry legend */}
+      {showRivalryLines && rivalries.length > 0 && (
+        <div style={{ padding: '8px 32px', background: 'rgba(239,68,68,0.05)', borderBottom: '1px solid rgba(239,68,68,0.1)', display: 'flex', gap: 20, alignItems: 'center', flexWrap: 'wrap' }}>
+          <span style={{ fontSize: 9, letterSpacing: 3, color: '#475569' }}>RIVALRY LINES:</span>
+          {[
+            { label: 'CRITICAL 70%+', color: '#ef4444', dash: false },
+            { label: 'MODERATE 30%+', color: '#eab308', dash: true },
+            { label: 'LOW <30%', color: '#22c55e', dash: true },
+          ].map(l => (
+            <div key={l.label} style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
+              <div style={{ width: 24, height: 2, background: l.color, opacity: 0.8, borderTop: l.dash ? `2px dashed ${l.color}` : undefined }} />
+              <span style={{ fontSize: 9, color: '#475569', letterSpacing: 1 }}>{l.label}</span>
+            </div>
+          ))}
+          <span style={{ fontSize: 9, color: '#475569', marginLeft: 'auto' }}>{rivalries.length} ACTIVE RIVALRIES SHOWN</span>
+        </div>
+      )}
 
       <div style={{ display: 'flex', flex: 1, overflow: 'hidden' }}>
         <div style={{ flex: 1, display: 'flex', flexDirection: 'column' }}>
@@ -259,6 +344,27 @@ export default function MapPage() {
                     </span>
                   </>
                 )}
+              </div>
+            )}
+            {/* Show rivalries for selected country */}
+            {selectedCountry && rivalries.filter(r => r.country_a === selectedCountry || r.country_b === selectedCountry).length > 0 && (
+              <div style={{ marginTop: 10 }}>
+                <div style={{ fontSize: 9, letterSpacing: 3, color: '#475569', marginBottom: 6 }}>TOP RIVALRIES</div>
+                <div style={{ display: 'flex', flexDirection: 'column', gap: 4 }}>
+                  {rivalries
+                    .filter(r => r.country_a === selectedCountry || r.country_b === selectedCountry)
+                    .slice(0, 3)
+                    .map((r, i) => {
+                      const opponent = r.country_a === selectedCountry ? r.country_b : r.country_a
+                      const opFlag = countries.find(c => c.country === opponent)?.flag || '🏳️'
+                      return (
+                        <div key={i} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '4px 8px', background: `${r.risk_color}10`, borderRadius: 4, border: `1px solid ${r.risk_color}25` }}>
+                          <span style={{ fontSize: 11 }}>{opFlag} {opponent}</span>
+                          <span style={{ fontSize: 11, fontWeight: 700, color: r.risk_color }}>{r.conflict_probability}%</span>
+                        </div>
+                      )
+                    })}
+                </div>
               </div>
             )}
           </div>
